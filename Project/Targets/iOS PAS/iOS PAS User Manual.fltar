@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  OutputFile="iOS Provider Access Software User Manual MA-16236"
+  MasterToc="/Project/TOCs/PAS/iOS PAS User Manual.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  ConditionTagExpression="include[General.EuorpeanUnionCert or General.NotReadyforPublishing or General.PDF] exclude[General.0482Tag or General.Errata or General.Online or General.ToRemove] "
+  PatchHeadingLevels="true"
+  OutputFolder="C:\Users\PDavidson\Documents\MadCap Flare\Output"
+  InjectBookHeadings="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <PDF
+    DownsampleImages="false"
+    ConvertBookmarks="true"
+    ConvertToCMYK="true"
+    ShowUsedBookmarks="false" />
+  <DocumentProperties
+    Title="iOS Provider Access Software User Manual" />
+  <Variables>
+    <Variable
+      Name="ClinicalApps/P/N:">MA-16236</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-16236</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">015</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">Provider Access Software </Variable>
+    <Variable
+      Name="Cover Variables/Product Name2">for iOS</Variable>
+    <Variable
+      Name="Cover Variables/Software Version">37</Variable>
+  </Variables>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

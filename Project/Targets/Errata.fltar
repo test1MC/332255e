@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouch Errata.flpgl"
+  ConditionTagExpression="include[General.Errata] "
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  PatchHeadingLevels="false"
+  MasterToc="/Project/TOCs/Errata.fltoc"
+  OutputFile="Errata - Cleaning Device Instructions - MA-20074-001">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <DocumentProperties
+    Title="InTouch Health Device Cleaning Procedures"
+    Author="Paul Davidson"
+    Subject="InTouch Health Device Cleaning Procedures" />
+</CatapultTarget>

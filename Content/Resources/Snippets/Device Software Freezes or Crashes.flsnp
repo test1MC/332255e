@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="671" MadCap:lastWidth="877">
+    <body>
+        <h1>Device Software Freezes or Crashes (For all <MadCap:variable name="TV.Product Name" />)</h1>
+        <p>If the device's software crashes or freezes anytime during set-up or use, restart the device by</p>
+        <ol>
+            <li> Pressing the Window's button on the keyboard or by clicking the Window's icon <img src="../Images/Windows Icon.png" style="width: 18px; height: 18px;" class="NoHover"></img> from the taskbar.</li>
+        </ol>
+        <p>
+            <img src="../Images/Scheduler/Restart Windows.png" class="floatright" style="width: 262px;height: 129px;">
+            </img>
+        </p>
+        <ol MadCap:continue="true">
+            <li>Click the power icon.</li>
+            <li>Click <b class="ScreenItem">Restart</b>.</li>
+            <li>Contact support at <MadCap:variable name="InTouch Health.Toll Free Tech Support" /> if the issue again occurs after the restart.</li>
+        </ol>
+    </body>
+</html>

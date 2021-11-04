@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <ol>
+            <li>Access the desktop:</li>
+        </ol>
+        <table style="width: 100%;">
+            <col style="width: 110px;">
+            </col>
+            <col style="width: 574px;">
+            </col>
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell"><b>Device Type</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Action</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">If using InTouch <b>Vici</b></td>
+                    <td class="PDFTableCell">
+                        <ol style="list-style-type: lower-alpha;">
+                            <li>Click the Minimize <img src="../Images/Minimize Icon.png" class="NoHover"></img> icon.</li>
+                            <li>Right-click the <img src="../Images/ITH Software Icon.jpg" style="width: 25px; height: 19px;" class="NoHover"></img> icon on taskbar.</li>
+                            <li>Click <b>Close window</b>.</li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">For all other <MadCap:variable name="InTouch Health.CompanyName" /> <MadCap:variable name="InTouch Lite.Robots" />s</td>
+                    <td class="PDFTableCell">
+                        <ol style="list-style-type: lower-alpha;">
+                            <li>Plug a USB keyboard into a USB port on the InTouch Health Patient Access Device.</li>
+                            <li>Press the Spacebar to display the device information screen.</li>
+                            <li>Close the screen by clicking the <b>X</b> in the upper right-hand corner.</li>
+                        </ol>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <ol start="2" style="margin-top: 0.5em;margin-bottom: 0.5em;">
+            <li>Open <b>Control Panel</b></li>
+        </ol>
+        <table style="width: 100%;border-spacing: 1px 2px;margin-left: auto;margin-right: auto;">
+            <col style="width: 135px;">
+            </col>
+            <col style="width: 190px;">
+            </col>
+            <col>
+            </col>
+            <thead>
+                <tr>
+                    <td class="PDFTableCell"><b>Device Type</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Action</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Example</b>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell">If using InTouch  <b>Vici</b></td>
+                    <td class="PDFTableCell">
+                        <ol style="list-style-type: lower-alpha;">
+                            <li>Right-click the Windows logo icon <img src="../Images/Windows Logo.png" style="width: 15px; height: 15px;" class="NoHover"></img>.</li>
+                            <li style="text-align: left;">Select <b>Control Panel</b>.</li>
+                        </ol>
+                    </td>
+                    <td class="PDFTableCell">
+                        <p style="text-align: center;">
+                            <img src="../Images/Win 10 Tab r-click windows logo.jpg" class="ActionTableImage" style="max-width: 200px;">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">For all other <MadCap:variable name="InTouch Health.CompanyName" /><MadCap:variable name="InTouch Lite.Robots" />s</td>
+                    <td class="PDFTableCell">
+                        <ol style="list-style-type: lower-alpha;">
+                            <li>Press the Windows logo key <img src="../Images/Windows Logo.png" style="width: 15px; height: 15px;" class="NoHover"></img> to display the Windows Start menu.</li>
+                            <li>
+                                <p>Select <b>Control Panel</b> from the Windows Start menu.</p>
+                            </li>
+                        </ol>
+                    </td>
+                    <td class="PDFTableCell">
+                        <p style="text-align: center;">
+                            <img src="../Images/Select Control Panel.png" class="ActionTableImage" style="max-width: 200px;">
+                            </img>
+                        </p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

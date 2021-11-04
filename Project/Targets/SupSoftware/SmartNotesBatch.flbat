@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Errata"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation"
+      Type="HTML5"
+      LastBuilt="2018-01-24T15:17:34.5584720-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation FixedSideMenu"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="iOS PAS/iOS PAS User Manual"
+      Type="PDF"
+      LastBuilt="2018-03-21T15:12:33.7719320-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/Littmann/Littmann Quick Ref Guide"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/Littmann/Littmann Word Doc"
+      Type="Word" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MultiPRESENCE SIP"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MultiPRESENCE SIP MS WORD"
+      Type="Word" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online Output/HTML5 - Tripane"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Lite/Lite Install"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Lite/Lite UM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/TV/TV Pro QSG"
+      Type="PDF"
+      LastBuilt="2018-01-31T09:17:07.6684874-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/TV/TV UG"
+      Type="PDF"
+      LastBuilt="2018-02-02T15:47:12.5080039-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PAS/Provider Access PDF"
+      Type="PDF"
+      LastBuilt="2018-03-27T12:39:53.7857758-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PAS/Provider Access Software"
+      Type="Word" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/LittmannBTStethQSG"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideA7X9"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideA8_5X11"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideB7X9"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideB8_5X11"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Scheduler/Scheduler"
+      Type="PDF"
+      LastBuilt="2018-03-29T11:31:33.9915243-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Scheduler/Scheduler ONLINE"
+      Type="HTML5"
+      LastBuilt="2018-03-29T11:30:59.0041193-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/ClinApps Admin UG"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/ClinApps UG"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/PACS Viewer"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/SmartNotes"
+      Type="PDF"
+      Build="true"
+      LastBuilt="2018-03-28T15:15:47.6736885-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/SmartNotes Online"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2018-03-28T10:32:42.9199601-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TechSpecs/TellyCam"
+      Type="PDF"
+      LastBuilt="2018-02-22T08:57:31.9961081-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TechSpecs/Viewpoint"
+      Type="PDF"
+      LastBuilt="2018-03-26T15:47:47.5784463-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="UserGuideCropRegMarks"
+      Type="PDF" />
+  </Targets>
+</CatapultBatchTarget>

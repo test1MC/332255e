@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.PDF"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/Viewpoint iOS Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/iOS VP Getting Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/iOS Viewpoint Changing Wi-Fi Networks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/Answering a call.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/Logging off Viewpoint.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/User Experience.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/Upload Log Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/iOS Viewpoint Troubleshooting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Viewpoint/iOS Viewpoint/InTouch iOS Viewpoint Tablet Technical Specifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Contact Information/Contact Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="first"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+    conditions="General.PDF" />
+</CatapultToc>

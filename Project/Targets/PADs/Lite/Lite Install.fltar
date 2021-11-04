@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Lite Install &amp; Service"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/Devices/Lite/Lite Instal.fltoc"
+  MasterStylesheetOverride="false"
+  ConditionTagExpression="include[General.EuorpeanUnionCert or General.PDF or General.ToRemove]exclude[Devices.Vantage or General.Errata or General.Lite or General.NotReadyforPublishing or General.Online or &quot;General.Provider Access Software&quot; or General.Vita]"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  InjectEmptyPages="false"
+  PatchHeadingLevels="true"
+  TargetLanguage="en-us"
+  SyncLingoProject="false"
+  OutputFile="Lite Install"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  InjectBookHeadings="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PopupConversion="footnote"
+    PreserveTrackedChanges="true" />
+  <Glossaries />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+  <PDF
+    PageLayout="OneColumn"
+    InitialMagnification="Fit"
+    Tagged="false"
+    ShowUsedBookmarks="false"
+    ConvertToCMYK="true"
+    CropAndRegistrationMarks="false"
+    RestrictPermissions="false"
+    RestrictPrinting="false"
+    ModifyPassword="7SjCFv4p8Y6RMCJ24VmuBA==" />
+  <DocumentProperties
+    Title="InTouch Lite Installation and Service Guide"
+    Subject="InTouch Lite"
+    Keywords="" />
+  <Variables>
+    <Variable
+      Name="General/P/N:">MA-20067-</Variable>
+    <Variable
+      Name="TV/Product Name">InTouch TV Products</Variable>
+  </Variables>
+</CatapultTarget>

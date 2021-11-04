@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="Provider Access Software">Provider Access Software</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="014">014</Variable>
+  <Variable
+    Name="SoftwareVersion"
+    Comment=""
+    EvaluatedDefinition="36">36</Variable>
+  <Variable
+    Name="Part Number"
+    Comment=""
+    EvaluatedDefinition="MA-16236">MA-16236</Variable>
+</CatapultVariableSet>

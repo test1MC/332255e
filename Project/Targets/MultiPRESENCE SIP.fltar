@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  ConditionTagExpression="include[General.NotReadyforPublishing or General.PDF]exclude[General.Errata or General.Online or General.ToRemove]"
+  MasterToc="/Project/TOCs/MultiPRESENCE SIP.fltoc"
+  OutputFile="MultiPRESENCE SIP Quick Ref Guide"
+  OutputFolder="C:\Users\PDavidson"
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <PDF
+    ConvertToCMYK="true" />
+</CatapultTarget>

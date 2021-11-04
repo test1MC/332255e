@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="844" MadCap:lastWidth="716">
+    <head>
+        <link href="../Resources/Stylesheets/ITHStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1>Troubleshooting</h1>
+        <p>If you receive repeated error messages or the InTouch Provider Access Software fails to respond, completely close the App and start it again. See “<MadCap:xref href="Shutting Down the InTouch Provider Access Software for iOS.htm" class="RelativeXref">Shutting Down the InTouch Provider Access Software for iOS on page&#160;1</MadCap:xref>”.</p>
+        <h2 class="Heading2"><a name="Login_Problems"></a>Login Problems</h2>
+        <p>The following are messages that may occur when you try to login to the InTouch Telehealth Network using the InTouch Provider Access Software. These problems are specific to the iPad / iPhone itself or the network that the iPad / iPhone is connected to, not the Patient Access Device.</p>
+        <h3>Turn Off Airplane Mode</h3>
+        <p>
+            <img src="../Resources/Images/iOS PAS Turn off Airplane Mode.PNG" class="floatright" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <ul>
+            <li>The iPad / iPhone does not have network access because it is in Airplane Mode. </li>
+        </ul>
+        <p><b>Solution</b>:</p>
+        <ol>
+            <li>Go to the Settings page and turn off Airplane Mode.</li>
+            <li>Ensure you have a Wi-Fi or Cellular network connection.</li>
+        </ol>
+        <h3>Not Connected to Internet </h3>
+        <p>
+            <img src="../Resources/Images/iOS Not Connected to Internet.png" class="floatright" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <ul>
+            <li>The iPad / iPhone cannot access the Internet. If you cannot access the public Internet then you will not be able to access the InTouch Telehealth Network or any Patient Access Devices.</li>
+        </ul>
+        <p><b>Solution</b>:</p>
+        <ol>
+            <li>Ensure you have a Wi-Fi or Cellular network connection. It is not enough to just be on a network; the network must have Internet access.</li>
+            <li>Bring up Safari or other browser on the iPad / iPhone and verify that you can access a common web site, such as <a href="http://www.google.com/">www.google.com</a>.</li>
+            <li>If you are on a public or hotel Wi-Fi network you may have to enter a guest username/password and accept their terms &amp; conditions. </li>
+            <li>Try resetting the network connection by turning Airplane mode on and off again.</li>
+        </ol>
+        <p class="Note"><b class="Note">NOTE</b>: This is an Internet access problem, not a username/password problem.</p>
+        <h3>Login Failed</h3>
+        <p>
+            <img src="../Resources/Images/iOS Login Failed.png" class="floatright" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <p>The InTouch Telehealth Network did not accept the Username/Password combination. There is no way to know whether the problem is with the Username or with the password.<br /></p>
+        <p><b>Solution</b>:</p>
+        <p>Make sure your Username and Password are correct. </p>
+        <ul>
+            <li> The password is case sensitive. </li>
+            <li> Your Username is not case sensitive; it doesn’t matter if you use upper or lower case letters.</li>
+            <li> In rare cases, completely shutting down the InTouch Provider Access Software may correct the problem. See “<MadCap:xref href="Shutting Down the InTouch Provider Access Software for iOS.htm" class="RelativeXref">Shutting Down the InTouch Provider Access Software for iOS on page&#160;1</MadCap:xref>”.</li>
+            <li> If you enter an invalid password five times in a row, the server will lock your account. Wait 60 seconds to try again or reset your password by tapping the Forgot Password link on the login page.</li>
+        </ul>
+        <p class="Note"><b class="Note">NOTE</b>: This is not a firewall problem.</p>
+        <h3>Server Unreachable</h3>
+        <p>
+            <img src="../Resources/Images/iOS Server Unreachable.png" class="floatright" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <p>The iPad is connected to the Internet but did not receive a response from the InTouch Telehealth Network. The most common causes are:</p>
+        <ul>
+            <li> A change in the iPad network connection.</li>
+            <li> A network firewall is blocking TCP port 5061.</li>
+            <li> Poor network quality<br /></li>
+        </ul>
+        <p><b>Solution</b>:</p>
+        <p>Sometimes the InTouch Provider Access Software does not cleanly handle going out of and into Wi-Fi and/or cellular coverage. The first and easiest thing to try is to completely shut down the app, re-launch it, and then try to login again. See “<MadCap:xref href="Shutting Down the InTouch Provider Access Software for iOS.htm" class="RelativeXref">Shutting Down the InTouch Provider Access Software for iOS on page&#160;1</MadCap:xref>”.</p>
+        <ul>
+            <li> If this is a firewall problem and you are on a guest network, such as at a coffee shop or hotel, then you will not be able to change the firewall settings. Your only option is to get on another network. Generally speaking, cellular connections do not have firewall problems.</li>
+            <li> Try resetting the network connection by turning Airplane mode on then back off again.</li>
+        </ul>
+        <p class="Note"><b class="Note">NOTE</b>: This is not a username/password problem. </p>
+        <h2 class="Heading2">Patient Access Device Connection Problems</h2>
+        <p>The following are messages that may occur after you have successfully connected to the InTouch Telehealth Network, when you try to connect (beam in) to a Patient Access Device.</p>
+        <p>All the messages will say, Unable to connect to endpoint at the top. It is imperative that you read the text of the message carefully to see the particular type of failure.</p>
+        <h3>Patient Access Device Unavailable</h3>
+        <p>
+            <img src="../Resources/Images/iOS PAS Device Unavailable.png" class="floatright" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <p>The InTouch Telehealth Network tried to contact the Patient Access Device but it did not get a response. It may be due to firewall settings on the hospital (Patient Access Device) network.</p>
+        <p><b>Solution</b>:</p>
+        <p>The Patient Access Device might be turned off or it has lost network access. Contact Technical Support.</p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <p class="NoteWImage"><b class="Note">NOTE</b>: This is not an iPad network problem.</p>
+        <h3>Patient Access Device Busy</h3>
+        <p>
+            <img src="../Resources/Images/iOS Device Busy.png" class="floatright" style="width: 325px;height: 243px;" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <p>The Patient Access Device is already in a session.</p>
+        <p><b>Solution</b>:<br />There is nothing you can do except try again later. Normally the Patient Access Device will immediately become available when a session ends but in some cases it may take up to a minute.</p>
+        <p>&#160;</p>
+        <h3>&#160;</h3>
+        <h3>Not Authorized to Connect</h3>
+        <p>
+            <img src="../Resources/Images/iOS PAS Not Authorized to Connect.png" class="floatright" />
+        </p>
+        <p><b>Cause</b>:</p>
+        <p>The user is not authorized to connect to the given Patient Access Device. This is an InTouch Telehealth Network connectivity permissions issue.</p>
+        <p><b>Solution</b>:</p>
+        <p>Contact Technical Support.</p>
+        <h3>Network Changed</h3>
+        <p>
+            <img src="../Resources/Images/iOS PAS Network Changed.png" class="floatright" />
+        </p>
+        <p><b>Cause</b>:<br />The software has detected that the iPad’s network has changed. This is a normal and expected message when your network connection changes from no Wi-Fi to Wi-Fi, for example, or no network to cellular.</p>
+        <p><b>Solution</b>:<br />The software needs to reset its internal state; login on the new network connection.</p>
+        <h2 class="Heading2">Problems in Session</h2>
+        <h3><a name="No_Audio_from_InTouch_Provider_Access_Software"></a>No Audio from InTouch Provider Access Software</h3>
+        <p>
+            <img src="../Resources/Images/iOS PAS Microphone Issue.png" class="floatright" style="width: 262px;height: 126px;" />
+        </p>
+        <ul>
+            <li>When in a session, you receive audio from the Patient Access Device but you are not heard at the Patient Access Device.</li>
+            <li>The iOS operating systems have a privacy setting that controls which software programs can access the iPad / iPhone microphone. Open your Settings and select your Privacy settings.</li>
+            <li>Select Microphone from the Privacy Settings menu to check that InTouch Health app has access to the microphone.</li>
+        </ul>
+        <h3>No Video from InTouch Provider Access Software</h3>
+        <p>
+            <img src="../Resources/Images/iOS PAS Video Issue.png" class="floatright" style="width: 259px;height: 147px;" />
+        </p>
+        <ul>
+            <li>When in a session, you receive video from the Patient Access Device but you are not seen on the Patient Access Device.</li>
+            <li>The iOS operating systems have a privacy setting that controls which software programs can access the iPad / iPhone camera. Open your Settings and select your Privacy settings </li>
+            <li>Select Camera from the Privacy Settings menu to check that InTouch Health app has access to the camera.<br /></li>
+        </ul>
+        <h2 class="Heading2" style="page-break-before: always;">Network Faults</h2>
+        <p>The InTouch Provider Access Software will display error messages in the lower right of the Remote Camera View when conditions are detected affecting the remote session. Some of these error messages will direct you to the problem, while others will recommend that you contact InTouch Health Technical Support.</p>
+        <table style="width: 100%;">
+            <col style="width: 214px;" />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell" style="text-align: center;font-weight: bold;">Message</td>
+                    <td class="PDFTableCell" style="text-align: center;font-weight: bold;">Explanation</td>
+                    <td class="PDFTableCell" style="text-align: center;font-weight: bold;">Action</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Poor network conditions.” 
+</td>
+                    <td class="PDFTableCell">Total interruption in network packets occurred for a significant period of time. Possible cause: poor connectivity, system being powered down or being disconnected from public network. 
+</td>
+                    <td class="PDFTableCell">Wait for Internet connection to return, or disconnect. 
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Poor network conditions.” 
+</td>
+                    <td class="PDFTableCell">Very high round-trip latency at InTouch Provider Access Software or Patient Access Device. Possible cause: poor internal network conditions, low Quality of Service Internet connection or excessive bandwidth usage.
+</td>
+                    <td class="PDFTableCell" rowspan="2">These error messages represent non-optimal Internet connection conditions. They may happen periodically on many networks under normal conditions. However, if they persist, contact the hospital’s IT department. 
+
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Poor network conditions.” 
+</td>
+                    <td class="PDFTableCell">Packets lost. May see jumpy video with lower frame rates at InTouch Provider Access Software or Patient Access Device. Possible cause: poor internal network conditions, low Quality of Service Internet connection or excessive bandwidth usage.
+</td>
+                </tr>
+            </tbody>
+        </table>
+        <h2 style="page-break-before: always;">Status Messages  </h2>
+        <p>Status Messages will be displayed in the lower left of the Remote Camera View indicating conditions of the Patient Access Device</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/iOS PAS Status Messages.flsnp" />
+    </body>
+</html>

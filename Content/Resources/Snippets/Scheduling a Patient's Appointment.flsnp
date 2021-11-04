@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="840" MadCap:lastWidth="716">
+    <head>
+    </head>
+    <body>
+        <h2>Scheduling a Patient's Appointment - Patient Scheduler</h2>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="1">
+            <li>Select <b>Patient Scheduler</b> from the available tabs.</li>
+        </ol>
+        <p>
+            <img src="../Images/Scheduler Patient Search.png" />
+        </p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="2">
+            <li>Click either the <b>First Name</b> field or the <b>Last Name</b>  field and enter the Patient’s name.</li>
+        </ol>
+        <ul style="list-style-type: disc;margin-left: 72pt;">
+            <li style="list-style-type: disc;">The more information entered in the patient search, the fewer the results will be when the search is submitted.</li>
+        </ul>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="3">
+            <li>Click <b>Search</b>.</li>
+            <li>Locate the appropriate Patient from the results.</li>
+            <li>Click on the Patient’s name to select.</li>
+        </ol>
+        <ul style="list-style-type: disc;margin-left: 72pt;">
+            <li style="list-style-type: disc;">If unable to locate the Patient in the results, create a new patient:</li>
+        </ul>
+        <ol style="list-style-type: lower-alpha;margin-left: 108pt;" start="1">
+            <li>Click <b>New Patient</b>,</li>
+            <li>Enter Patient’s information,</li>
+            <li>Click <b>Create Account</b> when done.</li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="6">
+            <li>Click <b>New Appointment.</b></li>
+            <li>Select the requested Provider from the <b>Providers </b>drop-down and click <b>Select</b>.</li>
+        </ol>
+        <p>
+            <p>
+                <img src="../Images/Patient Scheduler Available Times Screen.png" class="floatright" />
+            </p>
+        </p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="9" MadCap:continue="true">
+            <li>Select the day and time of day for the appointment or <b>Urgent </b>if the Patient is a walk-in. </li>
+        </ol>
+        <p>
+            <img src="../Images/Patient Scheduler Available Times Screen1.png" class="floatright" style="width: 94px;height: 105px;" />
+        </p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="10" MadCap:continue="true">
+            <li>Select the time for the Appointment from the list of available times.</li>
+        </ol>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="11" MadCap:continue="true">
+            <li>Verify all information is correct.</li>
+        </ol>
+        <ul style="list-style-type: disc;margin-left: 72pt;">
+            <li style="list-style-type: disc;">Make changes if necessary.</li>
+        </ul>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="11">
+            <li>Select the <b>Appointment Type</b> from the drop-down.</li>
+        </ol>
+        <p>
+            <img src="../Images/Receptionist Appointment Details Screen.png" alt="" title="" />
+        </p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="13" MadCap:continue="true">
+            <li>Click <b>Book Appointment</b>.</li>
+        </ol>
+    </body>
+</html>

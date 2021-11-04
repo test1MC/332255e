@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/A_Introduction Topics/Welcome.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.Online" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/TV UM Covers/TV Cover Page.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="reset"
+    PageNumberFormat="lower-roman"
+    PageNumber="0"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Copyright.htm"
+    StartSection="false"
+    BreakType="chapter"
+    AutoEndOnLeftPage="disabled"
+    PageNumberReset="reset"
+    PageNumberFormat="decimal"
+    PageNumber="1"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Safety Instructions/Safety Instructions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.PDF"
+    StartSection="false" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/General Use Topics/Telehealth System Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Product Specifications/Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/TV/Product Specifications/Models and Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Devices/TV/Product Specifications/Intel NUC 7 Specifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="pageLayout"
+        StartSection="false" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Devices/TV/Product Specifications/Intel Compute Stick M3 Processor.htm"
+        BreakType="pageLayout"
+        AutoEndOnLeftPage="disabled"
+        StartSection="false"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Devices/TV/Product Specifications/TLC-300-U2S USB HD Video Camera Specifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="pageLayout"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Devices/TV/Product Specifications/Webcam Specifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        BreakType="pageLayout"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Devices/TV/Product Specifications/Speakerphone. Specs.htm"
+        BreakType="pageLayout"
+        AutoEndOnLeftPage="disabled"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="(multiple)" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Patient Devices/TV/Product Specifications/Keyboard Specs.htm"
+        PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+        PageNumber="(multiple)"
+        PageNumberReset="continue"
+        StartPageLayout="false"
+        StartSection="false"
+        AutoEndOnLeftPage="disabled"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="pageLayout"></TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Installation/Setup Guide.htm"
+    BreakType="none"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/TV/Product Specifications/TV What is in the Box.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/TV/Installation/Hardware Setup.htm"
+      PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+      PageNumber="1"
+      PageNumberReset="continue"
+      StartSection="false"
+      StartPageLayout="false"
+      AutoEndOnLeftPage="disabled"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/TV/TV Pro What is in the Box.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="none"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/TV/Installation/InTouch TV Pro Hardware Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="none"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/TV/Installation/ITH TV Software QSG Install.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/PAD AV Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Installation/Connect to the WiFi.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Installation/Powering Off the InTouch  TV.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="none"
+    StartSection="false" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Troubleshooting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Image Appendix.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Contact Information/Contact Information.htm"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/LastPagePDF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    conditions="General.PDF"
+    PageType="first"
+    AutoEndOnLeftPage="disabled" />
+</CatapultToc>

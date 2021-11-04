@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame X="-56px" Y="803px" Width="748px" Height="71px" Flow="footer" Right="-68px" Bottom="-10px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-54px" Y="-39px" Width="744px" Height="823px" Flow="body" Right="-66px" Bottom="80px" />
+    </Page>
+    <Page Name="Copy of Copy of Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.4270833in" Right="-0.53125in" Bottom="34px" Width="716px" Height="792px" Y="38px">
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="-0.4791667in" Bottom="-39px" X="6.3125in" Y="832px" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="71px" VerticalAlign="top" TextAlign="left" Width="64px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-38px" Y="832px" Width="709px" Height="65px" Flow="decoration1" Right="-47px" Bottom="-33px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;"><xhtml:span xhtml:style="font-family: 'Eurostile LT Std';"><xhtml:img xhtml:src="../Images/logo_edited.jpg" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" xhtml:style="float: left;left: 3px;top: 3px;" /> 24/7 Technical Support (877) 484-9119</xhtml:span>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-40px" Y="-54px" Width="715px" Height="84px" Flow="header" Right="-51px" Bottom="834px" BorderBottomStyle="solid" BorderBottomWidth="3px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: left;">Errata Reference Number: <MadCap:variable xhtml:name="Errata.Part Number" />- <MadCap:variable xhtml:name="Errata.Version Number" /> </xhtml:p>
+                        <xhtml:p>As of:&#160;<MadCap:variable xhtml:name="Errata.NewDateTimeVariable" /></xhtml:p>
+                        <xhtml:p>Copyright <MadCap:variable xhtml:name="Littmann Quick Ref.Year" />, <MadCap:variable xhtml:name="Littmann Quick Ref.CompanyName" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

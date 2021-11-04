@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="002">002</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T21:02:05.2617080-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Product Name"
+    Comment=""
+    EvaluatedDefinition="InTouch TV Products">InTouch TV Products</Variable>
+  <Variable
+    Name="P/N:"
+    Comment=""
+    EvaluatedDefinition="MA-20067-">MA-20067-</Variable>
+  <Variable
+    Name="Top Tier TV Product"
+    Comment=""
+    EvaluatedDefinition="InTouch TV Pro">InTouch TV Pro</Variable>
+  <Variable
+    Name="Entry Level Tier TV Product"
+    Comment=""
+    EvaluatedDefinition="InTouch TV Essential">InTouch TV Essential</Variable>
+  <Variable
+    Name="Top Level Camera"
+    Comment=""
+    EvaluatedDefinition="InTouch USB 2.0 HD  PTZ Video Camera">InTouch USB 2.0 HD  PTZ Video Camera</Variable>
+  <Variable
+    Name="Speakerphone"
+    Comment=""
+    EvaluatedDefinition="Duet PCS: MT202">Duet PCS: MT202</Variable>
+  <Variable
+    Name="Mid Tier Web Cam"
+    Comment=""
+    EvaluatedDefinition="Logitech Webcam C930e">Logitech Webcam C930e</Variable>
+  <Variable
+    Name="Top Tier Computer"
+    Comment=""
+    EvaluatedDefinition="Intel NUC">Intel NUC</Variable>
+  <Variable
+    Name="Low Mid Tier Computer"
+    Comment=""
+    EvaluatedDefinition="Intel Compute Stick">Intel Compute Stick</Variable>
+  <Variable
+    Name="Mid Tier Product"
+    Comment=""
+    EvaluatedDefinition="InTouch TV">InTouch TV</Variable>
+  <Variable
+    Name="TV Pro QSG PN"
+    Comment=""
+    EvaluatedDefinition="MA-20071">MA-20071</Variable>
+  <Variable
+    Name="TV Pro QSG VersionNumber"
+    Comment=""
+    EvaluatedDefinition="-001">-001</Variable>
+  <Variable
+    Name="ITH TV Cover Name"
+    Comment=""
+    EvaluatedDefinition="InTouch TV™">InTouch TV™</Variable>
+  <Variable
+    Name="ITH TV High short name"
+    Comment=""
+    EvaluatedDefinition="Pro">Pro</Variable>
+  <Variable
+    Name="ITH TV Low short name"
+    Comment=""
+    EvaluatedDefinition="Essential">Essential</Variable>
+</CatapultVariableSet>

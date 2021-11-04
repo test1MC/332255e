@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Title.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageType="normal"
+    PageNumberReset="reset"
+    StartPageLayout="false"
+    BreakType="pageLayout"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    StartPageLayout="true"
+    StartSection="false"
+    BreakType="pageLayout"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/TOC.htm"
+    StartSection="false"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartChapter="true"
+    PageType="firstright"
+    PageNumberFormat="lower-roman"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Patient Devices/Welcome.htm"
+    PageNumber=""
+    PageNumberReset="continue"
+    PageNumberFormat="decimal"
+    ChapterNumberReset="reset"
+    ChapterNumber="1"
+    VolumeNumberReset="same"
+    SectionNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="chapter"
+    PageType="firstright">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Patient Devices/Headings.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Patient Devices/DropDowns.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/LinksAndLists.htm"
+    PageNumber=""
+    PageNumberReset="continue"
+    StartPageLayout="false"
+    StartSection="false"
+    AutoEndOnLeftPage="enabled"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="chapter"
+    PageType="firstright">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Links.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Lists.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Peripherals/Stethoscope Features/Littmann Bluetooth Stethoscope Pairing.htm"
+    PageNumber=""
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="chapter"
+    PageType="firstright"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/Stethoscope Features/Littmann Bluetooth Stethoscope Use.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/Littmann Best Practices.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/BT Stethoscope Troubleshooting.htm"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageType="firstright">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Appendix.htm"
+    StartPageLayout="false"
+    StartSection="false"
+    BreakPageType="normal"
+    PageNumber="1"
+    PageNumberReset="continue"
+    PageType="firstright"
+    AutoEndOnLeftPage="enabled"
+    BreakType="pageLayout"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Glossary.htm"
+    BreakType="pageLayout"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    ChapterNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Index.htm"
+    BreakType="pageLayout"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue" />
+</CatapultToc>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileTagSet
+  Type="StatusNeeds"
+  Comment="My set of status tags"
+  conditions="">
+  <FileTag
+    Name="1 Needs to be Added to TOC"
+    Comment="" />
+  <FileTag
+    Name="2 Needs Index Keywords"
+    Comment="" />
+  <FileTag
+    Name="3 Needs Glossary Updated"
+    Comment="" />
+  <FileTag
+    Name="4 Needs to be Finished with Edits"
+    Comment="" />
+  <FileTag
+    Name="5 Needs to be Sent for Review"
+    Comment="" />
+  <FileTag
+    Name="6 Needs to be Tested in Online Output"
+    Comment="" />
+  <FileTag
+    Name="7 Needs to be Tested in Print Output"
+    Comment="" />
+</CatapultFileTagSet>

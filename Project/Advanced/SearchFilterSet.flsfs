@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="Links Lists"
+    Concepts="LinksLists"></SearchFilter>
+  <SearchFilter
+    Name="Conditions Block Elements Tables"
+    Comment=""
+    Concepts="ConditionsBlockElementsTables" />
+  <SearchFilter
+    Name="Introduction Topics"
+    Comment=""
+    Concepts="Introduction" />
+  <SearchFilter
+    Name="Images"
+    Comment=""
+    Concepts="Images" />
+</CatapultSearchFilterSet>

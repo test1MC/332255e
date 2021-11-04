@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay ScreenRectangle="1142,477,22,19" Rectangle="1142,477,22,19">
+        <OriginalImage AutoAdjust="true" Format="tiff" Type="Image" ShapeTimeSpan="10000" CropRectangle="3,2,17,12" EnableCropRectangle="true" ComputedWidth="17" ComputedHeight="12">SUkqAPYAAACAMCBP8AQWDQUgQmCrBQweHQ+IQcoF8AQJgREAQkgQuGxiIBMDAeDwSIwyPSeUACJx6TSmIBSQgB/zN/gFYqKXTmdTuczCRTSazeeUOiUSfTKaTacUWmU2PUegUqnVOqQWoUmhVWtUWrzOpVuwTuu0Gl2GzSix1+z2uI2ms2y4Qe3WW43G53W8Xe8XaYwaSRCW2aVxjAzyjxa/w6NRyqSuLRjFgDCymYAiR4/F5iFKZxt6dloOiKKwKMwrNRvTgDOZ6UAQBAHRsB/5nSQfFzSdgHdbHFabawbbzOiP/U6ncTrdbDi6TaRfg4mUwEAAEAD+AAQAAQAAAAAAAAAAAQQAAQAAABYAAAABAQQAAQAAABMAAAACAQMABAAAALwBAAADAQMAAQAAAAUAAAAGAQMAAQAAAAIAAAARAQQAAQAAAAgAAAAVAQMAAQAAAAQAAAAWAQQAAQAAABMAAAAXAQQAAQAAAO0AAAAaAQUAAQAAAMQBAAAbAQUAAQAAAMwBAAAcAQMAAQAAAAEAAAAoAQMAAQAAAAIAAAA9AQMAAQAAAAIAAABSAQMAAQAAAAIAAAAAAAAACAAIAAgACAAAdwEA6AMAAAB3AQDoAwAA</OriginalImage>
+        <Shapes />
+        <Variables />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

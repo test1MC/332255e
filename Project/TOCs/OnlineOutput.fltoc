@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1"
+  conditions="">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Patient Devices/Welcome.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Patient Devices/Headings.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Patient Devices/DropDowns.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/LinksAndLists.htm"
+    StartSection="false">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Links.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Lists.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Peripherals/Stethoscope Features/Littmann Bluetooth Stethoscope Pairing.htm"
+    PageNumber="1"
+    PageNumberReset="continue"
+    StartSection="false"
+    StartPageLayout="false"
+    AutoEndOnLeftPage="enabled"
+    BreakType="none">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/Stethoscope Features/Littmann Bluetooth Stethoscope Use.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/Littmann Best Practices.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/BT Stethoscope Troubleshooting.htm"
+      StartPageLayout="false"
+      StartSection="false"
+      StartChapter="false"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]" />
+  </TocEntry>
+</CatapultToc>

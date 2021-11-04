@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h3>Initiate the Pairing Process on the Stethoscope</h3>
+        <ol>
+            <li>Press the power button to power on the stethoscope.</li>
+        </ol>
+        <p>
+            <img src="../Images/Steth Power.png" class="floatright">
+            </img>
+        </p>
+        <ol MadCap:continue="true">
+            <li>
+                <p>Select the menu option on the stethoscope by pressing the (<b>M</b>) button.</p>
+            </li>
+            <li>
+                <p>Scroll down to the PAIR option by pressing the (<b>−</b>) button.</p>
+            </li>
+            <li>
+                <p>Press the (<b>M</b>) button to select the <b>PAIR </b>option.</p>
+                <ul MadCap:continue="true">
+                    <li>A four-digit PIN will appear on the stethoscope.</li>
+                </ul>
+            </li>
+        </ol>
+        <p>
+            <img src="../Images/Steth Pair.png" />
+        </p>
+    </body>
+</html>

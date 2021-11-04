@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="681" MadCap:lastWidth="716">
+    <head>
+    </head>
+    <body>
+        <h2>Setting a Default Save Location for Media</h2>
+        <p>A default location can be set in&#160;<MadCap:variable name="InTouch Lite.InTouch Health" /> <MadCap:variable name="InTouch Lite.CS" /> for all images and videos captured on an InTouch device. </p>
+        <p>To set a default location:</p>
+        <ol>
+            <li>Click the options icon (<img src="Resources/Images/PAS Options Icon.png" style="width: 14px;height: 12px;" />) in the <MadCap:variable name="InTouch Lite.CS" />.</li>
+            <li>Select the <b>Audio/Video</b> tab.</li>
+        </ol>
+        <p>
+            <img src="Resources/Images/PAS Options AudioVideo Tab.png" />
+        </p>
+        <ol MadCap:continue="true">
+            <li>Check the <b class="ScreenItem">Automatically save all media in... </b>box.</li>
+            <li>Click <b class="ScreenItem">Browse</b></li>
+        </ol>
+        <p>
+            <img src="Resources/Images/PAS Options AudioVideo Browse Media Save Location.png" />
+        </p>
+        <ol MadCap:continue="true">
+            <li>Select the locaton to save media files and click <b class="ScreenItem">OK</b>.</li>
+            <li>Click <b class="ScreenItem">OK </b>on the <b>Options </b>dialog box when done.</li>
+        </ol>
+    </body>
+</html>

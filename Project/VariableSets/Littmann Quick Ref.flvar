@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="003">003</Variable>
+  <Variable
+    Name="Product Name"
+    Comment=""
+    EvaluatedDefinition="Littmann Bluetooth Stethoscope">Littmann Bluetooth Stethoscope</Variable>
+  <Variable
+    Name="P/N:"
+    Comment=""
+    EvaluatedDefinition="MB-20062-">MB-20062-</Variable>
+</CatapultVariableSet>

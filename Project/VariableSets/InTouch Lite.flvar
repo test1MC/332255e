@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="Tech_Support_Phone">(877) 484-9119</Variable>
+  <Variable
+    Name="Lite">InTouch Lite</Variable>
+  <Variable
+    Name="ManualPartNumberRev">MA-20026-001</Variable>
+  <Variable
+    Name="CS">Provider Access Software</Variable>
+  <Variable
+    Name="InTouch Lite V1">InTouch Lite V1</Variable>
+  <Variable
+    Name="InTouch Lite V2">InTouch Lite V2</Variable>
+  <Variable
+    Name="RobotName">VisitOR1™</Variable>
+  <Variable
+    Name="Robots">Patient Access Device</Variable>
+  <Variable
+    Name="Lite V1">InTouch Lite V1</Variable>
+  <Variable
+    Name="Lite V2">InTouch Lite V2</Variable>
+  <Variable
+    Name="Telehealth">Telehealth</Variable>
+  <Variable
+    Name="InTouch Health">InTouch Health</Variable>
+  <Variable
+    Name="SureConnect">InTouch Telehealth Network</Variable>
+  <Variable
+    Name="Tech_Support">24 x 7 Technical Support</Variable>
+  <Variable
+    Name="Lite UM PN"
+    Comment=""
+    EvaluatedDefinition="MA-13359">MA-13359</Variable>
+  <Variable
+    Name="Lite UM Vesion"
+    Comment=""
+    EvaluatedDefinition="-010">-010</Variable>
+</CatapultVariableSet>

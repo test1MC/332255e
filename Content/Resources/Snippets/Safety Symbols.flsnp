@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Stylesheets/ITHStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 703px;" />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell"><b>Warning Dangerous Voltage</b>—Touching exposed contacts may cause electrical shock.
+Safety features designed into the device do not allow exposed live AC contacts until the
+Patient Access Device is fully engaged with its docking station. When fully engaged,
+contacts are not accessible.</td>
+                    <td style="text-align: center;" class="PDFTableCell">
+                        <img src="../Images/Voltage.png" style="width: 77px; height: 68px;" class="NoIndent" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell"><b>Wireless Transmitter Notification</b>—Non-ionizing electromagnetic radiation. This device
+communicates over the 802.11a/b/g/n standard for wireless communication.
+</td>
+                    <td style="text-align: center;" class="PDFTableCell">
+                        <img src="../Images/WirelessTransmitter.png" style="width: 72px; height: 72px;" class="NoIndent" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell"><b>Body Float</b>—Type B. A Type B piece of equipment is one that provides a particular
+degree of protection against electric shock, specifically regarding allowable leakage
+current and reliability of the protective earth connection (grounding).</td>
+                    <td style="text-align: center;" class="PDFTableCell">
+                        <img src="../Images/BodyFloat.png" style="width: 77px; height: 77px;" class="NoIndent" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell"><b>Body Float</b>—Type BF applied part. Type B equipment with an F-Type applied part. An FType
+applied part is one that extends from the patient into the equipment and is
+isolated from all other parts of the equipment.</td>
+                    <td style="text-align: center;" class="PDFTableCell">
+                        <img src="../Images/BodyFloatB.png" style="width: 75px; height: 75px;" class="NoIndent" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">
+                        <p><b>Refer to instruction manual/booklet</b> — Operating Instructions are contained in a
+separate instruction manual.
+</p>
+                        <ul>
+                            <li>Some Patient Access Devices utilize a Class II Laser which complies with 21 CFR Chapter 1, subchapter j. Maximum Laser radiation output is less than one milliWatt. Refer to the appropriate Patient Access Device User Manual to determine the specific wavelength (color) employed by the laser pointer.</li>
+                        </ul>
+                        <p>&#160;</p>
+                    </td>
+                    <td style="text-align: center;" class="PDFTableCell">
+                        <img src="../Images/ManualBookletReferal.png" style="width: 77px; height: 73px;" class="NoIndent" />
+                    </td>
+                </tr>
+                <tr MadCap:conditions="General.Vita">
+                    <td class="PDFTableCell"><span class="NoteCautionWarning"><![CDATA[
+]]><b class="Note">CAUTION</b></span>: Dazzle, flash-blindness, and afterimages may be caused by a beam from a Class II laser 
+product, particularly under low ambient light conditions. This may have indirect general safety 
+implications resulting from temporary disturbance of vision or from startle reactions. Such visual 
+disturbances could be of particular concern when performing safety-critical operations. Provider 
+Access Software users should not direct the Laser beam at persons or at
+reﬂective surfaces that may cause disturbances.
+</td>
+                    <td class="PDFTableCell">
+                        <img src="../Images/LASERWarning.png" class="NoIndent" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

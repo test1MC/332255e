@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="User Guide B—7X9"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Misc/User Guide B 7X9.fltoc"
+  ConditionTagExpression="include[General.PDF or PrintGuides.UserGuide]exclude[General.Online or PrintGuides.GSG]"
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body" />
+  <DocumentProperties
+    Title="User Guide B—7X9"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="50"
+    PageLayout="TwoColumnRight"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Provider Access Sfoftware/User Manual Type">User Guide B</Variable>
+  </Variables>
+</CatapultTarget>

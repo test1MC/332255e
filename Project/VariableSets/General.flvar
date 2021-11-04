@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="InTouch Health">InTouch Health</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="(877) 484-9119">(877) 484-9119</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress"
+    EvaluatedDefinition="7402 Hollister Avenue">7402 Hollister Avenue</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="InTouch Health">InTouch Health</Variable>
+  <Variable
+    Name="Fax"
+    Comment=""
+    OriginalName="Fax">Fax 123-987-654</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Goleta CA 93117">Goleta CA 93117</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T16:28:00.0099499-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+</CatapultVariableSet>

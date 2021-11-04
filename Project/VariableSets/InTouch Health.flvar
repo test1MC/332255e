@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="InTouch Health">InTouch Health</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T21:02:05.2617080-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Online Manuals"
+    Comment=""
+    EvaluatedDefinition="https://www.intouchhealth.com/manuals">https://www.intouchhealth.com/manuals</Variable>
+  <Variable
+    Name="Street Address"
+    Comment=""
+    EvaluatedDefinition="7402 Hollister Avenue">7402 Hollister Avenue</Variable>
+  <Variable
+    Name="City State Zip"
+    Comment=""
+    EvaluatedDefinition="Goleta, CA 93117">Goleta, CA 93117</Variable>
+  <Variable
+    Name="Phone"
+    Comment=""
+    EvaluatedDefinition="805.562.8686">805.562.8686</Variable>
+  <Variable
+    Name="Fax"
+    Comment=""
+    EvaluatedDefinition="805.562.8663">805.562.8663</Variable>
+  <Variable
+    Name="ITH Website"
+    Comment=""
+    EvaluatedDefinition="www.intouchheatlh.com">www.intouchheatlh.com</Variable>
+  <Variable
+    Name="Toll Free Tech Support"
+    Comment=""
+    EvaluatedDefinition="(877) 484-9119">(877) 484-9119</Variable>
+  <Variable
+    Name="InTouch Operating System"
+    Comment=""
+    EvaluatedDefinition="InTouch Operating System (OS)">InTouch Operating System (OS)</Variable>
+  <Variable
+    Name="InTouch OS"
+    Comment=""
+    EvaluatedDefinition="InTouch OS">InTouch OS</Variable>
+</CatapultVariableSet>

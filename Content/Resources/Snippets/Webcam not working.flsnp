@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <h2>Webcam not working (All <MadCap:variable name="TV.Product Name" />)</h2>
+        <ol>
+            <li>Verify the USB&#160;cables are plugged into the <MadCap:variable name="TV.Product Name" />. </li>
+            <li>Rerun the Audio/Video wizard.<ul><li><MadCap:xref href="../../Patient Devices/PAD AV Wizard.htm" class="See_Heading_And_Page">See “” on page&#160;1</MadCap:xref></li></ul></li>
+        </ol>
+    </body>
+</html>

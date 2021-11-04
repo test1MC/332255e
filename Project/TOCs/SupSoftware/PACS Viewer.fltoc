@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/PACS Viewer/PAC Viewer Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/PACS Viewer/PACS Search Screen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/PACS Viewer/ITH Viewer Searching.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/PACS Viewer/Viewing a Study.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/PACS Viewer/PACS Keyboard Shortcuts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="none"
+    PageType="empty"
+    StartSection="false"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Contact Information/Contact Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="first"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+    conditions="General.PDF" />
+</CatapultToc>

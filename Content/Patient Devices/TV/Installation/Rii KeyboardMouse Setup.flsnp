@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="266" MadCap:lastWidth="716">
+    <head>
+    </head>
+    <body>
+        <h3>Rii X1 Keyboard Setup</h3>
+        <p>These instructions are for use with the Rii X1 Bluetooth Keyboard that is included with the Kit Model version of the <MadCap:variable name="TV.Mid Tier Product" /> and the <MadCap:variable name="TV.Top Tier TV&#160;Product" />.</p>
+        <p>Slide the power switch on the top left edge of the keyboard to turn on the Bluetooth keyboard/mouse.</p>
+        <ul>
+            <li>A solid green light means the keyboard is connected.</li>
+            <li>If the Bluetooth keyboard/mouse falls asleep or loses connectivity with the television, toggle the on/off switch and the press the Bluetooth button.</li>
+            <li>If you experience Bluetooth connectivity challenges, remove the USB receiver dongle from the main unit flank chamber and insert it into an available USB&#160;port on the <MadCap:variable name="TV.Mid Tier Product" />.</li>
+        </ul>
+    </body>
+</html>

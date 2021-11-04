@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="83" MadCap:lastWidth="716">
+    <head>
+    </head>
+    <body>
+        <h1>Patient Access Device - Error Messages</h1>
+        <p>These text messages may appear in the lower right of the <MadCap:variable name="InTouch Lite.Robots" />'s Display.</p>
+        <table style="width: 100%;">
+            <col />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell"><b>Message</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Explanation</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Action</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Internet connection failure.”
+“Internet connection slow.”</td>
+                    <td class="PDFTableCell">Very high round-trip latency at Provider Access or Patient Access Device. Possible cause: poor internal network conditions, low Quality of Service Internet connection or excessive bandwidth usage.</td>
+                    <td class="PDFTableCell" rowspan="5">These error messages represent non-optimal Internet connection conditions. They may happen periodically on many networks under normal conditions. However, if they persist, contact the hospital’s IT department.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Internet failure: Severe loss.”</td>
+                    <td class="PDFTableCell">Packets lost. May see jumpy video with lower frame rates at Provider Access or Patient Access Device. Possible cause: poor internal network conditions, low Quality of Service Internet connection or excessive bandwidth usage.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Internet failure: Severe loss remotely.”</td>
+                    <td class="PDFTableCell">Problem was detected on reverse side (i.e., at the Provider Access). These messages are shown if problem is only being detected in one direction.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Internet failure: Audio lost.”</td>
+                    <td class="PDFTableCell">Packets containing audio data lost, therefore user may notice loss of audio at Provider Access or Patient Access Device. Possible cause: poor internal network conditions or low Quality of Service Internet connection or excessive bandwidth usage.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Internet failure: Audio lost remotely.”</td>
+                    <td class="PDFTableCell">Problem was detected on reverse side (i.e., at the Provider Access). These messages are shown if problem is only being detected in one direction.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“No stethoscope audio. Power cycle it next to the device.”</td>
+                    <td class="PDFTableCell">Physician cannot auscultate because the stethoscope audio is no longer connected to the Provider Access Software.</td>
+                    <td class="PDFTableCell">Restart Stethoscope and try again.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Stethoscope disabled due to critically low batter (10%). Please replace battery for normal operation.”</td>
+                    <td class="PDFTableCell">Battery needs to be charged or replaced by the nurse on the Patient Access side.</td>
+                    <td class="PDFTableCell">Charge or replace battery.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Stethoscope battery is critically low (10%). Sound degradation expected. Please replace battery soon.”</td>
+                    <td class="PDFTableCell">Battery is critically low. Consider charging or replacing the battery soon.</td>
+                    <td class="PDFTableCell">Charge or replace battery.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

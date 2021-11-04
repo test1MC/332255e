@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="718" MadCap:lastWidth="716">
+    <head>
+        <link href="../Stylesheets/ITHStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="width: 100%;margin-left: auto;margin-right: auto;caption-side: top;">
+   
+            <col style="width: 182px;" />
+            <col />
+            <col />
+            <thead>
+                <tr>
+                    <td class="PDFTableCell"><b>Status Message</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Explanation</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Action</b>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell">“Endpoint battery low” 
+</td>
+                    <td class="PDFTableCell">Message text is yellow. When the Message text changes to red the Patient Access Device will shutdown in 60 seconds.
+</td>
+                    <td class="PDFTableCell">Dock or request that the Patient Access Device be plugged in.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Docking...”</td>
+                    <td rowspan="3" class="PDFTableCell">Messages describe the condition and results of Auto docking the InTouch Vita or InTouch 7i Robot.
+
+</td>
+                    <td class="PDFTableCell">Robot is in the process of auto docking.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“The Robot is docked”
+</td>
+                    <td class="PDFTableCell">Robot has successfully docked.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Robot failed to dock”
+</td>
+                    <td class="PDFTableCell">Make sure the InTouch 7i is within two feet of the dock and that there are no obstructions, then try again. 
+For InTouch Vita, try docking again.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“E-Stop button is pressed in”</td>
+                    <td class="PDFTableCell">Robot can not be driven; drive motors are disengaged. 
+</td>
+                    <td class="PDFTableCell">Request that someone twist the Emergency Stop Button clockwise approximately 1/4 turn until it pops out.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“The Robot is plugged in”
+</td>
+                    <td class="PDFTableCell">Patient Access Device is plugged in and charging.
+</td>
+                    <td class="PDFTableCell">&#160;</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Unplug Robot before driving”
+</td>
+                    <td class="PDFTableCell">Drivable Robot is plugged in. 
+</td>
+                    <td class="PDFTableCell">
+                        <p>Drive InTouch 7 or InTouch 7i Robot directly away from wall so that the plug is not damaged.
+</p>
+                        <p>DO NOT DRIVE InTouch Vita until it has been unplugged.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Fault: autodrive unavailable”</td>
+                    <td class="PDFTableCell">There is a fault with the base of the InTouch Vita. AutoDRIVE is unavailable but manual driving will still work.
+</td>
+                    <td class="PDFTableCell">Contact InTouch Health Technical Support.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">“Fault: driving unavailable”
+</td>
+                    <td class="PDFTableCell">There is a fault with the base of the InTouch Vita. No driving of any kind is available.
+</td>
+                    <td class="PDFTableCell">Contact InTouch Health Technical Support.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

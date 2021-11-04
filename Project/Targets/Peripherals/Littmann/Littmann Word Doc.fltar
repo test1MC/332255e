@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MS Word Output"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[General.PDF]exclude[General.Online]"
+  OutputFile="Littmann Bluetooth Stethoscope Reference Guide"
+  MasterToc="/Project/TOCs/Peripherals/LittmannRefGuide Reduced SizePDF.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

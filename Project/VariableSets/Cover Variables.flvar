@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="InTouch Health">InTouch Health</Variable>
+  <Variable
+    Name="PDFGuideTitle"
+    Comment=""
+    OriginalName="PDFGuideTitle">User Guide</Variable>
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="001">001</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T21:02:05.2617080-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Product Name"
+    Comment=""
+    EvaluatedDefinition="InTouch TV">InTouch TV</Variable>
+  <Variable
+    Name="P/N:"
+    Comment=""
+    EvaluatedDefinition="MA-20067-">MA-20067-</Variable>
+  <Variable
+    Name="SetupVideoAddress"
+    Comment=""
+    EvaluatedDefinition="https://www.intouchhealth.com/manuals">https://www.intouchhealth.com/manuals</Variable>
+  <Variable
+    Name="Month"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2018-01-31T17:07:43.9983764-08:00"
+    EvaluatedDefinition="MMMM">MMMM</Variable>
+  <Variable
+    Name="Software Version"
+    Comment=""
+    EvaluatedDefinition="36">36</Variable>
+  <Variable
+    Name="Product Name2"
+    Comment=""
+    EvaluatedDefinition="" />
+</CatapultVariableSet>

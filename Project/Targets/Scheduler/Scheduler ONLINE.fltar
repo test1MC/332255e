@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Scheduler"
+  Type="WebHelp2"
+  Destinations=""
+  MasterToc="/Project/TOCs/SupSoftware/Scheduler.fltoc"
+  MasterStylesheetOverride="false"
+  ConditionTagExpression="include[General.Online or General.ToRemove] exclude[General.0482Tag or General.Errata or General.EuorpeanUnionCert or General.Lite or General.NotReadyforPublishing or General.PDF or General.Vita] "
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  InjectEmptyPages="false"
+  PatchHeadingLevels="true"
+  TargetLanguage="en-us"
+  SyncLingoProject="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  InjectBookHeadings="true"
+  SearchEngine="MadCapSearch"
+  ChunkIndex="false"
+  ChunkTOC="false"
+  ChunkGlossary="false"
+  ChunkSearchDatabase="false"
+  Skin="/Project/Skins/Side Navigation.flskn"
+  DefaultUrl="/Content/Supplimental Software/Coordinator/Scheduler Overview.htm"
+  UseLocalBuildSettings="true"
+  OutputFolder="J:\Shared\Technical Writing\ITH Help Site"
+  OutputFile="[%=Scheduler.Product Name%]"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  TopNavTocPath="true"
+  ExcludeUnreferencedContent="true"
+  DisableAutoSync="true"
+  MasterPage="/Content/Resources/MasterPages/HomePage.flmsp"
+  MenuSkin="/Project/Skins/SideMenu.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PopupConversion="footnote"
+    PreserveTrackedChanges="true" />
+  <Glossaries>
+    <Glossary
+      Link="/Project/Glossaries/Glossary.flglo" />
+  </Glossaries>
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/OneDrive.fldes" />
+    <Destination
+      Link="/Project/Destinations/Sample Help Server.fldes" />
+  </Destinations>
+  <PDF
+    PageLayout="OneColumn"
+    InitialMagnification="Fit"
+    Tagged="true"
+    ShowUsedBookmarks="false"
+    ConvertToCMYK="true" />
+  <DocumentProperties
+    Title="InTouch Health Clinical Apps 2.0"
+    Subject="Clinical Apps 2.0"
+    Keywords="" />
+  <Variables>
+    <Variable
+      Name="General/P/N:">MA-20067-</Variable>
+    <Variable
+      Name="TV/Product Name">InTouch TV Products</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20072</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Coordinator™</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">002</Variable>
+  </Variables>
+</CatapultTarget>

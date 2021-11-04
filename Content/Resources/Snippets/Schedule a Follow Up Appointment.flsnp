@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="414" MadCap:lastWidth="716">
+    <body>
+        <h2>Schedule a Follow Up Appointment</h2>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="1">
+            <li>Locate Patient if necessary.</li>
+            <li>Click Patient’s name.</li>
+            <li>Click <b>Create Follow Up</b>.</li>
+        </ol>
+        <p>
+            <img src="../Images/Scheduler/Provider Calling in_8.png" style="visibility: visible;mso-wrap-style: square;">
+            </img>
+        </p>
+        <p>
+            <img src="../Images/Patient Scheduler Creating Follow-up Appointment.png" class="floatright" />
+        </p>
+        <ol style="list-style-type: decimal;margin-left: 36pt;" start="4">
+            <li>Select the date and time for the follow up appointment. <ul style="margin-left: 36pt;" start="4"><li>The follow-up appointment is added to the patient's list of appointments.</li></ul></li>
+        </ol>
+    </body>
+</html>

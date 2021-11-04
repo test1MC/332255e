@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/SupSoftware/SmartNotes.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  OutputFolder="J:\Shared\Technical Writing\PDFs For Publishing"
+  PatchHeadingLevels="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  ConditionTagExpression="exclude[General.NotReadyforPublishing or General.PDF or General.ToRemove] "
+  InjectBookHeadings="true"
+  DefaultUrl="/Content/Supplimental Software/Smart Notes/Smart Notes Overview.htm"
+  SearchEngine="MadCapSearch"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  Skin="/Project/Skins/Side Navigation.flskn"
+  ExcludeUnreferencedContent="true"
+  AutoSizeCaptureCaptions="true"
+  MasterPage="/Content/Resources/MasterPages/HomePage.flmsp"
+  MenuSkin="/Project/Skins/SideMenu.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    DownsampleImages="true"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Cover Variables/P/N:">MB-20075</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">User Guide</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Smart Notes™</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="TLC-300-U2S Technical Specifications"
+    Subject="TLC-300-U2S Technical Specifications"
+    Keywords="Coordinator, patient, schedule, provider" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

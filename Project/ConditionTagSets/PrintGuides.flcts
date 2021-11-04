@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="">
+  <ConditionTag
+    Comment=""
+    Name="GSG"
+    BackgroundColor="#ffff00"
+    OriginalName="LatinGuideToSurfing" />
+  <ConditionTag
+    BackgroundColor="#e0ffff"
+    Name="UserGuide"
+    Comment=""
+    OriginalName="BriefHistoryOfLatinSurfing" />
+</CatapultConditionTagSet>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="709" MadCap:lastWidth="716" class="topic">
+    <head><title>Troubleshooting</title>
+        <link href="../../Resources/Stylesheets/ITHStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="width: 100%;caption-side: top;" class="PDFTables">
+            <caption>Troubleshooting<p><a name="Troubleshooting"></a></p></caption>
+            <col style="width: 165px;" />
+            <col style="width: 242px;" />
+            <col />
+            <thead>
+                <tr>
+                    <td class="PDFTableCell"><b>Symptom</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Explanation</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Action</b>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell">
+                        <p>Echoing
+</p>
+                        <p>&#160;</p>
+                        <p>&#160;</p>
+                        <p>&#160;</p>
+                        <p>Beating (“whumping”)
+</p>
+                        <p>&#160;</p>
+                        <p>&#160;</p>
+                        <p>&#160;</p>
+                        <p>Feedback</p>
+                    </td>
+                    <td class="PDFTableCell">
+                        <p>These audio symptoms may result from one or more of:
+</p>
+                        <ul>
+                            <li>Provider Access Software computer speakers placed behind microphone.</li>
+                            <li>Provider Access Software and Patient Access Device volume levels set too high.
+</li>
+                            <li>Gain on Preamplifier set too high.
+</li>
+                            <li>Patient Access Device has entered a space where acoustic environment has changed (e.g., large room to small room).</li>
+                            <li>Echo cancellation software has not reached equilibrium.</li>
+                        </ul>
+                    </td>
+                    <td style="vertical-align: top;padding-left: 3px;padding-right: 3px;padding-top: 3px;padding-bottom: 3px;border-left-style: solid;border-left-width: 2px;border-left-color: #000000;border-right-style: solid;border-right-width: 2px;border-right-color: #000000;border-top-style: solid;border-top-width: 2px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                        <p>For optimal audio performance:</p>
+                        <ul>
+                            <li>Provider Access Software users should wear headset.</li>
+                            <li>Ensure speakers are in front of microphone.</li>
+                            <li>Ensure preamplifier gain is properly adjusted (12-3 o’clock).</li>
+                            <li>Use onscreen controls to lower volume and then slowly raise audio levels.</li>
+                            <li>Allow cancellation software to reach equilibrium when moving Patient Access Device from one room into another.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">Noise</td>
+                    <td class="PDFTableCell">
+                        <p>May result from:
+</p>
+                        <ul>
+                            <li>Speaker or microphone connectors loose.</li>
+                            <li>Speaker or microphone cables routed next to sources of line noise(e.g., AC power cable, transformer).</li>
+                        </ul>
+                    </td>
+                    <td style="vertical-align: top;padding-left: 3px;padding-right: 3px;padding-top: 3px;padding-bottom: 3px;border-left-style: solid;border-left-width: 2px;border-left-color: #000000;border-right-style: solid;border-right-width: 2px;border-right-color: #000000;border-top-style: solid;border-top-width: 2px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                        <p>Check that:
+</p>
+                        <ul>
+                            <li>Connectors are firmly seated.</li>
+                            <li>Cables are not routed next to potential sources of line noise (e.g., AC power cable or transformer).</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">Clipping (audio dropout)</td>
+                    <td style="vertical-align: top;padding-left: 3px;padding-right: 3px;padding-top: 3px;padding-bottom: 3px;border-left-style: solid;border-left-width: 2px;border-left-color: #000000;border-right-style: solid;border-right-width: 2px;border-right-color: #000000;border-top-style: solid;border-top-width: 2px;border-top-color: #000000;border-bottom-style: solid;border-bottom-width: 2px;border-bottom-color: #000000;">
+                        <p>May result from:
+</p>
+                        <ul>
+                            <li>Poor bandwidth</li>
+                            <li>Poor Quality of Service (latency)</li>
+                        </ul>
+                    </td>
+                    <td class="PDFTableCell">
+                        <p>It may be necessary to reduce (clamp) video/audio stream to stay within available bandwidth.
+</p>
+                        <p class="Note"><b class="Note">NOTE</b>: Maximum speed allowed by the Provider Access Software is 700 kbps. Minimum recommended
+is 384 kbps.
+</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">Application not started or hung.</td>
+                    <td class="PDFTableCell">Operating system malfunction</td>
+                    <td class="PDFTableCell">Reboot Provider Access Software computer and/or Patient Access Device (as needed) to close down 
+open applications and processes
+and restart system.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">Delay in Patient Access Device response to input command
+Frozen or chopped video stream
+</td>
+                    <td class="PDFTableCell">Network congestion or high latency resulting in poor Quality of Service</td>
+                    <td class="PDFTableCell">The Patient Access Device may still be driven safely. It may be necessary to give a few driving 
+commands at a time, waiting for right Patient Access Device response before initiating next 
+command. Please report this condition to InTouch Health Technical
+Service.
+</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">Patient Access Device disconnects while driving.</td>
+                    <td class="PDFTableCell">
+                        <p>May result from:
+</p>
+                        <ul>
+                            <li>Wireless network has limited and defined coverage area. Driving Patient Access Device out of bounds causes connection to be lost.</li>
+                            <li>“Handshake” fails during pass off from one WAP to next.</li>
+                        </ul>
+                    </td>
+                    <td class="PDFTableCell">Become aware of boundaries of wireless network coverage area at remote location. If Patient Access Device disconnects, reconnect. If problem persists, contact InTouch Health Technical Service.</td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell">InTouch Vantage Boom Display is blank.</td>
+                    <td class="PDFTableCell">No power or display is not turned on.</td>
+                    <td class="PDFTableCell">Verify that power is on and display is on.</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

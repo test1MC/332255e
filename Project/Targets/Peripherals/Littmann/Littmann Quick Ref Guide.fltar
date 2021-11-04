@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Peripherals/Littmann Bluetooth Stethoscope Quick Reference Guide.fltoc"
+  PatchHeadingLevels="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  UseEmptyAltText="false"
+  OutputFile="Littmann Bluetooth Stethoscope Reference Guide"
+  ConditionTagExpression="exclude[General.Online]">
+  <PrintedOutput
+    CollapseMargins="false"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="Littmann Bluetooth Stethoscope Reference Guide"
+    Subject="Littmann Bluetooth Stethoscope Reference Guide" />
+  <PDF
+    ConvertBookmarks="true"
+    ShowUsedBookmarks="false"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

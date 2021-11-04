@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="10"
+  Skin="/Project/Skins/HTML5 - Top Navigation.flskn"
+  ConditionTagExpression="include[&quot;General.Audience B&quot;] exclude[&quot;General.Audience A&quot;] "
+  DefaultUrl="/Content/Home.htm"
+  TopNavTocPath="true"
+  ChunkIndex="false"
+  ChunkTOC="false"
+  ChunkGlossary="false"
+  PreMergeSearchDatabase="true"
+  MasterToc="/Project/TOCs/Master.fltoc"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  MasterStylesheet="/Content/Resources/Stylesheets/StylesForHomePage.css"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  ExcludeUnreferencedContent="false"
+  AutoSizeCaptureCaptions="true"
+  OutputFile="ITH Help"
+  OutputFolder="J:\Shared\Technical Writing\ITH Help Site"
+  EquationsOutputType="PNG"
+  PartialWordSearch="true"
+  IncludeGlossarySearchResults="false"
+  fileTags="AuthorFileTags.Paul Davidson,StatusFileTags.1 Needs to be Added to TOC">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true" />
+    <Destination
+      Link="/Project/Destinations/OneDrive.fldes"
+      Publish="true" />
+    <Destination
+      Link="/Project/Destinations/Sample Help Server.fldes"
+      Publish="true" />
+  </Destinations>
+</CatapultTarget>

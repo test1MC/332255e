@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2017-08-31T15:03:06.0492394-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation FixedSideMenu"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/Littmann/Littmann Quick Ref Guide"
+      Type="PDF"
+      LastBuilt="2017-08-25T14:25:50.0216980-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online Output/HTML5 - Tripane"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/LittmannBTStethQSG"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideA7X9"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideA8_5X11"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideB7X9"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideB8_5X11"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PAS/Provider Access PDF"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2017-08-31T14:27:16.9063567-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="UserGuideCropRegMarks"
+      Type="PDF" />
+  </Targets>
+</CatapultBatchTarget>

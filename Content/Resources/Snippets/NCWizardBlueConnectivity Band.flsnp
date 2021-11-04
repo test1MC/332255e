@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="General.Online" MadCap:lastBlockDepth="2" MadCap:lastHeight="74" MadCap:lastWidth="1167">
+    <head>
+    </head>
+    <body>
+        <p>Blue Connectivity Band:&#160;Will pulse until connection is achieved, then will appear solid between connected points. A break in the band, anywhere along its path, indicates a broken connection between points.</p>
+    </body>
+</html>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="False"
+  KeepSourceLinks="True"
+  ConvertInlineFormatting="false"
+  AddContinuedLinks="False"
+  AddContinuedFromLinks="False"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="False"
+  UseMinCharLimit="True"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2017-10-12T09:42:34.8523138-07:00"
+  Stylesheet="../../Content/Resources/Stylesheets/ITHStyles.css"
+  LastImport="2017-10-12T09:43:12.6604249-07:00">
+  <Files>
+    <Url
+      Source="../../../../Provider Access Software/IOS Provider Access/iOS Provider Access (MA-16236-014)b.docx"
+      AbsoluteSource="file:///J:/Shared/Technical Writing/Provider Access Software/IOS Provider Access/iOS Provider Access (MA-16236-014)b.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Provider Access iOS User Manual/Provider Access Softwarefor.htm"
+      TimeStamp="10/12/2017 9:42:36 AM" />
+    <Url
+      Source="../TOCs/Provider Access iOS User Manual.fltoc"
+      TimeStamp="10/12/2017 9:42:36 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/ITHStyles_2.css"
+      TimeStamp="10/12/2017 9:42:36 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading1"
+      To="h1.(MS Word Style)" />
+    <Map
+      From="Heading2"
+      To="h2.(MS Word Style)" />
+    <Map
+      From="Heading3"
+      To="h3.(MS Word Style)" />
+    <Map
+      From="Heading4"
+      To="h4.(MS Word Style)" />
+    <Map
+      From="Heading5"
+      To="h5.(MS Word Style)" />
+    <Map
+      From="Heading6"
+      To="h6.(MS Word Style)" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Bulleted" />
+    <StyleName
+      Name="CellBody" />
+    <StyleName
+      Name="CellHeading" />
+    <StyleName
+      Name="Heading2" />
+    <StyleName
+      Name="Numbered" />
+    <StyleName
+      Name="Numbered1" />
+    <StyleName
+      Name="TableTitle" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

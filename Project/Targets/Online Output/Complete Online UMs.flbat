@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Errata"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Audience A"
+      Type="HTML5"
+      Build="false"
+      LastBuilt="2018-04-12T11:08:45.6154627-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Audience A FixedSideMenu"
+      Type="HTML5"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Audience B"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T14:00:40.4554318-07:00"
+      LastPublished="2018-05-11T14:04:21.4398556-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation"
+      Type="HTML5"
+      Build="false"
+      LastBuilt="2018-01-24T15:17:34.5584720-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5 - Top Navigation FixedSideMenu"
+      Type="HTML5"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="iOS PAS/iOS PAS User Manual"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-16T14:32:26.1751899-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="iOS PAS/iOS Provider Access Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:14:23.8743754-07:00"
+      LastPublished="2018-05-11T09:14:45.9997633-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/Littmann/Littmann Quick Ref Guide"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/Littmann/Littmann Word Doc"
+      Type="Word"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MultiPRESENCE SIP"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="MultiPRESENCE SIP MS WORD"
+      Type="Word"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Online Output/HTML5 - Tripane"
+      Type="HTML5"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Lite/Lite Install"
+      Type="PDF"
+      Build="false"
+      Publish="false"
+      LastBuilt="2018-04-19T13:00:28.1692841-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Lite/Lite Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:15:45.5694806-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Lite/Lite QR Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:16:47.9366814-07:00"
+      LastPublished="2018-05-11T09:17:18.0462222-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Lite/Lite UM"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:17:53.8180970-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/TV/TV Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:19:15.1969054-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/TV/TV Pro QSG"
+      Type="PDF"
+      Build="false"
+      LastBuilt="2018-01-31T09:17:07.6684874-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/TV/TV Quick Reference Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:20:47.2813442-07:00"
+      LastPublished="2018-05-11T09:21:17.2640890-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/TV/TV UG"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:21:56.6371658-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Vantage/Vantage Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:22:31.5490706-07:00"
+      LastPublished="2018-05-11T09:22:47.2196460-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Vantage/Vantage QR Online"
+      Type="HTML5"
+      Build="false"
+      LastBuilt="2018-05-02T13:42:34.1219021-07:00"
+      LastPublished="2018-05-02T13:43:39.6658184-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Vantage/Vantage UM"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:23:10.7250759-07:00"
+      LastPublished="2018-05-11T09:23:13.5596518-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Vici/Vici Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:23:45.5691726-07:00"
+      LastPublished="2018-05-11T09:23:58.4466010-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Vici/Vici QR Online"
+      Type="HTML5" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Vici/Vici UM"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:24:18.5623266-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Viewpoint/Viewpoint iOS Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-18T10:36:17.1736328-07:00"
+      LastPublished="2018-05-18T10:36:49.1584518-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Viewpoint/Viewpoint iOS PDF"
+      Type="PDF"
+      Build="true"
+      Publish="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Xpress/Xpress Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T13:21:14.7292930-07:00"
+      LastPublished="2018-05-11T13:21:24.2547546-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Xpress/Xpress QR Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:25:29.6185046-07:00"
+      LastPublished="2018-05-11T09:25:47.5201808-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PADs/Xpress/Xpress UM"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:26:05.0607958-07:00"
+      LastPublished="2018-05-11T09:26:19.0513469-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PAS/Provider Access Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:27:44.1026562-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PAS/Provider Access PDF"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-16T14:31:28.3558207-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PAS/Provider Access Software"
+      Type="Word"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideA7X9CRM"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideA8_5X11CRM"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/LittmannBTStethQSG"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - Crop Reg Marks (CRM)/UserGuideB8_5X11CRM"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideA7X9"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideA8_5X11"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideB7X9"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF/UserGuideB8_5X11"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Peripherals/ITH ThermalTouch"
+      Type="PDF"
+      Build="false"
+      LastBuilt="2018-05-18T08:39:49.4703397-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Scheduler/Scheduler"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-17T13:37:05.7373383-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Scheduler/Scheduler ONLINE"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:30:21.2686262-07:00"
+      LastPublished="2018-05-11T09:30:36.6900210-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/ClinApps Admin UG"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/ClinApps UG"
+      Type="PDF"
+      Build="false" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/PACS Viewer"
+      Type="PDF"
+      Build="false"
+      LastBuilt="2018-05-17T14:39:54.6561249-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/SmartNotes"
+      Type="PDF"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-17T13:18:48.4793437-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="SupSoftware/SmartNotes Online"
+      Type="HTML5"
+      Build="true"
+      Publish="true"
+      LastBuilt="2018-05-11T09:31:28.7368962-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TechSpecs/TellyCam"
+      Type="PDF"
+      Build="false"
+      LastBuilt="2018-02-22T08:57:31.9961081-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="TechSpecs/Viewpoint"
+      Type="PDF"
+      Build="false"
+      LastBuilt="2018-03-26T15:47:47.5784463-07:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="UserGuideCropRegMarks"
+      Type="PDF"
+      Build="false" />
+  </Targets>
+</CatapultBatchTarget>

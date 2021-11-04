@@ -1,0 +1,969 @@
+/*<meta sourceDocument="J:\Shared\Technical Writing\PACS Viewer\PAC Viewer Outline.docx" />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+body
+{
+	color: #404040;
+	font-family: Arial, Avenir, Myriad;
+	font-size: .9em;
+	line-height: 1.7em;
+}
+
+div.GlossaryPageDefinition
+{
+	
+}
+
+div.GlossaryPageHeading
+{
+	
+}
+
+div.GlossaryPageTerm
+{
+	
+}
+
+div.TopicContent
+{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 25px;
+}
+
+h1
+{
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	padding-bottom: 10px;
+	margin-top: 30px;
+}
+
+h2
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 20px;
+}
+
+h3
+{
+	font-size: 1.1em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 16px;
+}
+
+li
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+	orphans: 2;
+	widows: 2;
+}
+
+MadCap|glossaryProxy
+{
+	
+}
+
+MadCap|indexProxy
+{
+	
+}
+
+MadCap|tocProxy
+{
+	
+}
+
+MadCap|xref
+{
+	color: #2D8DCC;
+	font-weight: bold;
+	mc-format: '{para}';
+	text-decoration: underline;
+}
+
+MadCap|xref:hover
+{
+	color: #BED230;
+}
+
+p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	font-family: 'Open Sans Light';
+}
+
+p.EmptyPageText
+{
+	
+}
+
+p.FrameFooterText
+{
+	
+}
+
+p.IndexHeading
+{
+	
+}
+
+p.ManualTitle1
+{
+	
+}
+
+p.ManualTitle2
+{
+	
+}
+
+p.ManualVersionNumber
+{
+	
+}
+
+MadCap|popup
+{
+	width: auto;
+	height: auto;
+	-moz-box-sizing: conetnt-box;
+	box-sizing: content-box;
+	mc-popup-height: auto;
+	mc-popup-width: auto;
+}
+
+MadCap|popupBody
+{
+	height: auto;
+	width: auto;
+	-moz-box-sizing: content-box;
+	background-attachment: inherit;
+}
+
+img
+{
+	mc-thumbnail: hover;
+	max-width: 675px;
+}
+
+@media print
+{
+	body
+	{
+		font-size: 8pt;
+		line-height: 13px;
+		margin: 8px;
+	}
+
+	div.GlossaryPageDefinition
+	{
+		font-size: 9pt;
+	}
+
+	div.GlossaryPageHeading
+	{
+		border-bottom-color: #bed230;
+		border-bottom-style: solid;
+		border-bottom-width: 1px;
+		color: #bed230;
+		font-size: 11pt;
+	}
+
+	div.GlossaryPageTerm
+	{
+		color: #bed230;
+		font-size: 10pt;
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+
+	h1
+	{
+		font-family: 'Century Gothic';
+		font-size: 22pt;
+		margin-bottom: 20px;
+		margin-left: 0;
+		margin-right: 0;
+		margin-top: 0;
+		padding: 0;
+		color: #1dbecf;
+		page-break-after: auto;
+		orphans: 0;
+		page-break-before: always;
+		line-height: 25pt;
+		font-weight: bolder;
+	}
+
+	h2
+	{
+		font-style: normal;
+		page-break-before: auto;
+		font-family: 'Century Gothic';
+		font-weight: normal;
+		color: #1dbecf;
+		color: device-cmyk(0.86,0.08,0,0.19);
+		font-size: 20pt;
+		line-height: 21pt;
+	}
+
+	h3
+	{
+		mc-heading-level: 0;
+		page-break-before: auto;
+		font-family: 'Century Gothic';
+		font-size: 20pt;
+		font-weight: normal;
+		line-height: 21pt;
+	}
+
+	h4
+	{
+		font-weight: normal;
+		mc-heading-level: 0;
+		font-family: 'Century Gothic';
+		font-size: 18pt;
+		line-height: 19pt;
+	}
+
+	MadCap|glossaryProxy
+	{
+		border-top: none;
+	}
+
+	MadCap|indexProxy
+	{
+		border-top: none;
+	}
+
+	MadCap|tocProxy
+	{
+		border-top: none;
+		margin-right: 0.25in;
+	}
+
+	p
+	{
+		margin-top: 3px;
+		margin-bottom: 3px;
+		font-size: 12pt;
+		color: #000000;
+		font-family: 'Open Sans Light';
+	}
+
+	p.EmptyPageText
+	{
+		font-size: 10pt;
+		font-weight: bold;
+	}
+
+	p.FrameFooterText
+	{
+		font-family: 'Century Gothic';
+		font-size: 24pt;
+	}
+
+	p.IndexHeading
+	{
+		font-size: 11pt;
+		padding-top: 16px;
+		text-align: left;
+	}
+
+	p.ManualTitle1
+	{
+		font-family: 'Century Gothic';
+		font-size: 9pt;
+		margin-bottom: 0;
+		margin-top: 2.00in;
+		text-align: center;
+	}
+
+	p.ManualTitle2
+	{
+		color: #bed230;
+		font-family: 'Century Gothic';
+		font-size: 22pt;
+		line-height: 0;
+		margin-bottom: 0;
+		margin-top: 0;
+		text-align: center;
+	}
+
+	p.ManualVersionNumber
+	{
+		color: #b3b3b3;
+		font-family: 'Century Gothic';
+		font-size: 12pt;
+		margin-top: 12pt;
+		text-align: center;
+	}
+
+	p.TOC1
+	{
+		font-size: 12pt;
+		font-weight: normal;
+		margin-bottom: 6px;
+		margin-top: 12px;
+	}
+
+	p.TOC2
+	{
+		font-size: 8pt;
+		font-weight: normal;
+		margin-bottom: 2px;
+		margin-left: 0.10in;
+		margin-top: 2px;
+	}
+
+	MadCap|variable.CoverTitle
+	{
+		color: #df4a1d;
+		font-family: 'Roboto Slab';
+		font-size: 33pt;
+		font-weight: bold;
+	}
+
+	p.CoverTitle
+	{
+		color: #df4a1d;
+		font-family: 'Roboto Slab';
+		font-size: 33pt;
+		font-weight: bold;
+		page-break-after: inherit;
+	}
+
+	table.PDFTables
+	{
+		border-bottom: solid 2px #000000;
+		border-color: #000000;
+		border-left: solid 2px #000000;
+		border-right: solid 2px #000000;
+		font-family: 'Open Sans Light';
+		vertical-align: top;
+		padding-left: 2px;
+		padding-right: 2px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		border-left-style: solid;
+		border-left-width: 2px;
+		border-left-color: #000000;
+		border-right-style: solid;
+		border-right-width: 2px;
+		border-right-color: #000000;
+		border-top-style: solid;
+		border-top-width: 2px;
+		border-top-color: #000000;
+		border-bottom-style: solid;
+		border-bottom-width: 2px;
+		border-bottom-color: #000000;
+		column-break-inside: avoid;
+		frame-break-inside: avoid;
+		font-size: 12pt;
+	}
+
+	td.PDFTableCell
+	{
+		border-bottom: solid 2px #000000;
+		border-color: #000000;
+		border-left: solid 2px #000000;
+		border-top: solid 2px #000000;
+		border-right: solid 2px #000000;
+		font-size: 12pt;
+		color: #000000;
+		font-family: 'Open Sans Light';
+		line-height: 14pt;
+		vertical-align: top;
+		padding-left: 3px;
+		padding-right: 3px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+		border-left-style: solid;
+		border-left-width: 2px;
+		border-left-color: #000000;
+		border-right-style: solid;
+		border-right-width: 2px;
+		border-right-color: #000000;
+		border-top-style: solid;
+		border-top-width: 2px;
+		border-top-color: #000000;
+		border-bottom-style: solid;
+		border-bottom-width: 2px;
+		border-bottom-color: #000000;
+	}
+
+	li
+	{
+		color: #000000;
+		font-size: 12pt;
+		font-family: 'Open Sans Light';
+		line-height: 14pt;
+	}
+
+	caption
+	{
+		page-break-inside: avoid;
+		font-size: 14pt;
+		font-weight: bold;
+		font-style: normal;
+		font-family: sans-serif;
+		color: #5f9ea0;
+		text-align: left;
+	}
+
+	table
+	{
+		page-break-inside: avoid;
+		page-break-before: avoid;
+		page-break-after: auto;
+		orphans: 0;
+		padding: 5px;
+	}
+
+	img
+	{
+		position: inherit;
+		z-index: 6;
+	}
+
+	p.TableCellContents
+	{
+		font-size: 8pt;
+	}
+
+	ol
+	{
+		line-height: 15pt;
+	}
+
+	b.Note
+	{
+		color: #e35c20;
+	}
+
+	p.indent
+	{
+		margin-left: 30px;
+		font-family: 'Open Sans Light';
+		line-height: 14pt;
+	}
+
+	li.noindent
+	{
+		padding-left: 0px;
+		text-align: left;
+		margin-left: -20px;
+	}
+
+	img.NoIndent
+	{
+		margin-left: 0;
+		mc-thumbnail: none;
+		width: auto;
+		height: auto;
+		mc-float: none;
+		clear: none;
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	td
+	{
+		border-left-style: solid;
+		border-left-width: 3pt;
+		border-left-color: #696969;
+		border-right-style: solid;
+		border-right-width: 3pt;
+		border-right-color: #696969;
+		border-top-style: solid;
+		border-top-width: 3pt;
+		border-top-color: #696969;
+		border-bottom-style: solid;
+		border-bottom-width: 3pt;
+		border-bottom-color: #696969;
+		padding-left: 2pt;
+		padding-right: 2pt;
+		padding-top: 2pt;
+		padding-bottom: 2pt;
+	}
+
+	img.floatright
+	{
+		float: right;
+		height: auto;
+		margin-left: inherit;
+		margin-right: inherit;
+		width: auto;
+		max-width: 360px;
+	}
+
+	img.indent
+	{
+		margin-left: 50px;
+	}
+
+	p.H2
+	{
+		color: #1dbecf;
+		color: device-cmyk(0.86,0.08,0,0.19);
+		font-family: 'Century Gothic';
+		font-size: 22pt;
+	}
+}
+
+a.Popup
+{
+	height: auto;
+	width: auto;
+	mc-popup-height: auto;
+	mc-popup-width: auto;
+}
+
+MadCap|variable.CoverTitle
+{
+	
+}
+
+p.CoverTitle
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	text-align: right;
+}
+
+table.PDFTables
+{
+	width: 100%;
+}
+
+td.PDFTableCell
+{
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
+}
+
+ul.Indented
+{
+	list-style-type: disc;
+	list-style-image: none;
+}
+
+ul.Indented > li::marker
+{
+	font-family: 'Times New Roman';
+	content: ' ';
+}
+
+li.IndentedList
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+	orphans: 2;
+	widows: 2;
+}
+
+ul.IndentedList
+{
+	list-style-image: none;
+}
+
+ul.IndentedList > li::marker
+{
+	font-family: ;
+	content: ' ';
+}
+
+ol.Blah
+{
+	list-style-type: decimal;
+	list-style-image: none;
+}
+
+ol.Blah > li::marker
+{
+	content: '3.';
+}
+
+p.TableCellContents
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+}
+
+MadCap|xref.PrintedXref
+{
+	mc-format: '{para} on page {page}';
+}
+
+b.Note
+{
+	color: #e14a30;
+}
+
+p.indent
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	font-family: 'Roboto Slab';
+}
+
+li.noindent
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+	orphans: 2;
+	widows: 2;
+}
+
+img.NoIndent
+{
+	mc-thumbnail: hover;
+}
+
+MadCap|xref.RelativeXref
+{
+	mc-format: '{paratext} {pageref}';
+}
+
+img.floatright
+{
+	width: auto;
+	height: auto;
+	padding: 3px;
+}
+
+img.indent
+{
+	
+}
+
+img.NoHover
+{
+	max-width: 675px;
+	mc-thumbnail: none;
+	mc-thumbnail-max-height: 0px;
+}
+
+p.H2
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	font-family: 'Open Sans Light';
+	text-align: left;
+}
+
+p.p_1
+{
+	white-space: normal;
+	line-height: normal;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ol.ol_1
+{
+	list-style-type: decimal;
+	list-style-image: none;
+	white-space: normal;
+	line-height: normal;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+ul.ul_1
+{
+	list-style-type: disc;
+	list-style-image: none;
+	white-space: normal;
+	line-height: normal;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+li.li_1
+{
+	orphans: 2;
+	widows: 2;
+	white-space: normal;
+	line-height: normal;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	margin-top: 0pt;
+}
+
+td.td_1
+{
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	margin-bottom: 8pt;
+	font-family: Calibri;
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+li.ListParagraph
+{
+	margin-bottom: 8pt;
+	font-size: 11pt;
+	margin-left: 36pt;
+	font-family: Calibri;
+}
+
+ol.ol_2
+{
+	list-style-type: decimal;
+	margin-left: 36pt;
+}
+
+p.Heading1
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	margin-bottom: 0pt;
+	mc-heading-level: 1;
+	font-family: 'Calibri Light';
+	color: #2E74B5;
+	font-size: 16pt;
+	font-weight: normal;
+}
+
+span.rvts62
+{
+	font-size: 7pt;
+}
+
+span.rvts65
+{
+	color: #000000;
+}
+
+span.rvts6_1
+{
+	font-family: Arial;
+	color: #000000;
+	font-size: 10pt;
+}
+
+sup.sup_1
+{
+	font-family: Arial;
+	color: #000000;
+}
+
+p.Heading2
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 2pt;
+	margin-bottom: 0pt;
+	mc-heading-level: 2;
+	font-family: 'Calibri Light';
+	color: #2E74B5;
+	font-size: 13pt;
+	font-weight: normal;
+}
+
+p.p_2
+{
+	margin-left: 5pt;
+	margin-right: 5pt;
+	text-align: center;
+}
+
+div.div_1
+{
+	left: 10153;
+	top: 17456;
+	visibility: visible;
+	mso-wrap-style: square;
+	v-text-anchor: middle;
+	background-color: #5b9bd5;
+}
+
+div.div_2
+{
+	left: 13894;
+	top: 3978;
+	visibility: visible;
+	mso-wrap-style: square;
+	v-text-anchor: middle;
+	background-color: #5b9bd5;
+}
+
+div.div_3
+{
+	top: 4275;
+	visibility: visible;
+	mso-wrap-style: square;
+	v-text-anchor: middle;
+	background-color: #5b9bd5;
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+
+p.p_3
+{
+	margin-bottom: 0pt;
+}
+
+th.th_1
+{
+	background-color: #auto;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: black;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+th.th_2
+{
+	background-color: #auto;
+	border-top-style: solid;
+	border-top-width: 1pt;
+	border-top-color: black;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+td.td_2
+{
+	background-color: #auto;
+	border-left-style: solid;
+	border-left-width: 1pt;
+	border-left-color: black;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+li.ListParagraph_1
+{
+	font-size: 11pt;
+	margin-left: 36pt;
+	font-family: Calibri;
+	margin-bottom: 0pt;
+}
+
+ul.ul_2
+{
+	list-style-type: disc;
+	margin-left: 36pt;
+}
+
+td.td_3
+{
+	background-color: #auto;
+	border-right-style: solid;
+	border-right-width: 1pt;
+	border-right-color: black;
+	border-bottom-style: solid;
+	border-bottom-width: 1pt;
+	border-bottom-color: black;
+}
+
+p.rvts6_1
+{
+	margin-bottom: 0pt;
+	font-family: Arial;
+	color: #000000;
+	font-size: 10pt;
+}
+
+p.p_4
+{
+	margin-bottom: 0pt;
+	margin-left: 36pt;
+}
+
+span.span_1
+{
+	font-style: italic;
+}
+
+span.span_2
+{
+	background-color: #FFFF00;
+}
+
+table.table_1
+{
+	border-collapse: collapse;
+}
+
+p.p_5
+{
+	margin-bottom: 0pt;
+	text-align: center;
+}
+
+p.p_6
+{
+	margin-bottom: 0pt;
+	font-weight: bold;
+}
+
+p.p_7
+{
+	margin-bottom: 0pt;
+	background-color: #FFFF00;
+}
+
+p.rvts6_2
+{
+	margin-bottom: 0pt;
+	font-family: Arial;
+	color: #000000;
+	font-size: 10pt;
+	background-color: #FFFF00;
+}
+

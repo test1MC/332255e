@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="VersionNumber"
+    OriginalName="VersionNumberDot"
+    EvaluatedDefinition="001">001</Variable>
+  <Variable
+    Name="Product Name"
+    Comment=""
+    EvaluatedDefinition="InTouch Imaging">InTouch Imaging</Variable>
+  <Variable
+    Name="P/N:"
+    Comment=""
+    EvaluatedDefinition="MA-20067-">MA-20067-</Variable>
+</CatapultVariableSet>

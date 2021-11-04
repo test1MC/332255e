@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultIndexLinkSet
+  conditions="">
+  <IndexLink
+    Term="Pictures"
+    LinkType="see"
+    LinkedTerm="Images"></IndexLink>
+</CatapultIndexLinkSet>

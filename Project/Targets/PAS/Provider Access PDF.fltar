@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Windows Provider Access Software User Guide - MA-20013"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/PAS/Provider Access Software User Guide.fltoc"
+  ConditionTagExpression="include[General.NotReadyforPublishing or General.PDF] exclude[General.0482Tag or General.Errata or General.Online or General.ToRemove] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  InjectBookHeadings="true"
+  OutputFile="Provider Access Software User Guide - MA-20013">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <DocumentProperties
+    Title="Windows Provider Access Software User Guide"
+    Author="Paul Davidson"
+    Subject="Provider Access Software for Windows" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="FitH"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="true"
+    ConvertBookmarks="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="Cover Variables/Product Name">Provider Access Software</Variable>
+    <Variable
+      Name="Cover Variables/Product Name2">for Windows</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">013</Variable>
+    <Variable
+      Name="Cover Variables/Software Version">37</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20013</Variable>
+  </Variables>
+</CatapultTarget>

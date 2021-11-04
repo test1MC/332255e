@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultAutoIndexSet>
+  <AutoIndex
+    Phrase="[%=TV.ITH TV Low short name%]"
+    IndexTerm="InTouch TV Products::[%=TV.ITH TV Low short name%]" />
+  <AutoIndex
+    Phrase="[%=TV.ITH TV High short name%]"
+    IndexTerm="InTouch TV Products:[%=TV.ITH TV High short name%]"></AutoIndex>
+  <AutoIndex
+    Phrase="[%=TV.Mid Tier Product%]"
+    IndexTerm="InTouch TV Products:[%=TV.Mid Tier Product%]"></AutoIndex>
+  <AutoIndex
+    Phrase="[%=TV.Top Tier Computer%]"
+    IndexTerm="Computer:[%=TV.Top Tier Computer%]"></AutoIndex>
+  <AutoIndex
+    Phrase="[%=TV.Low Mid Tier Computer%]"
+    IndexTerm="Computer:[%=TV.Low Mid Tier Computer%]"></AutoIndex>
+  <AutoIndex
+    Phrase="[%=TV.Mid Tier Web Cam%]"
+    IndexTerm="Webcam:[%=TV.Mid Tier Web Cam%]"></AutoIndex>
+  <AutoIndex
+    Phrase="[%=TV.Top Level Camera%]"
+    IndexTerm="Webcam:[%=TV.Top Level Camera%]"></AutoIndex>
+  <AutoIndex
+    Phrase="[%=TV.Speakerphone%]"
+    IndexTerm="Speakerphone:[%=TV.Speakerphone%]"></AutoIndex>
+</CatapultAutoIndexSet>

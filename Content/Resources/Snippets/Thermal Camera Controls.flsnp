@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="8" MadCap:lastHeight="447" MadCap:lastWidth="716">
+    <head>
+        <link href="../TableStyles/PDFTableStyle.css" rel="stylesheet" MadCap:stylesheetType="table" />
+    </head>
+    <body>
+        <table style="width: 100%; mc-table-style: url('../TableStyles/PDFTableStyle.css'); margin-left: auto; margin-right: auto;" class="TableStyle-PDFTableStyle" cellspacing="0">
+            <col class="TableStyle-PDFTableStyle-Column-Column1" />
+            <col class="TableStyle-PDFTableStyle-Column-Column1" />
+            <thead>
+                <tr>
+                    <td class="TableStyle-PDFTableStyle-HeadH-Column1-">Image Control</td>
+                    <td class="TableStyle-PDFTableStyle-HeadG-Column1-">Function</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyE-Column1-Body1">
+                        <p>Thermal  Map Palette</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyD-Column1-Body1">
+                        <p>Toggle between the available color palettes. Color palettes can help with image interpretation in certain cases.</p>
+                        <ul MadCap:continue="true">
+                            <li>See <MadCap:xref href="../../Peripherals/Thermal Camera/Thermal Map Palletes.htm">"Thermal Map Palettes" on page&#160;1</MadCap:xref> for more details about <b>Thermal Map Palettes</b>.</li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyE-Column1-Body1">
+                        <p>Find Best Thermal Range</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyD-Column1-Body1">
+                        <p>The software will find the best thermal range based on the viewed image.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyE-Column1-Body1">
+                        <p>Thermal Range Control</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyD-Column1-Body1">
+                        <p>Use the two thermal  range sliders to focus on the range of thermal  of interest.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyE-Column1-Body1">
+                        <p>Thermal  Range Displayed</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyD-Column1-Body1">Displays the lower and higher settings from the Temperature Range&#160;Control.</td>
+                </tr>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyE-Column1-Body1">
+                        <p>Auto Thermal Range</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyD-Column1-Body1">
+                        <p>When selected, the software constantly modifies the range to find the best Thermal Range to display.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyE-Column1-Body1">
+                        <p>Thermal Histogram</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyD-Column1-Body1">
+                        <p>Displays the thermal  range for the current settings.</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-PDFTableStyle-Body-Body1">
+                    <td class="TableStyle-PDFTableStyle-BodyB-Column1-Body1">
+                        <p>Zoom Control</p>
+                    </td>
+                    <td class="TableStyle-PDFTableStyle-BodyA-Column1-Body1">
+                        <p>Used to adjust the zoom of the thermal image.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

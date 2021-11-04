@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="J:\Shared\Technical Writing\PDFs For Publishing\Vantage"
+  Port=""
+  ViewUrl="J:\Shared\Technical Writing\PDFs For Publishing\Vantage"
+  Type="file"
+  ChangedOnly="false"></CatapultDestination>

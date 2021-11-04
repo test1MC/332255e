@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/General Use Topics/Telehealth System Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    StartSection="false"
+    BreakType="none"
+    conditions="General.PDF" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/Smart Notes/Smart Notes Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Getting Started/Connecting to InTouch Smart Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/General Use Topics/Forgot Password.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Getting Started/Smart Notes Encounter Dashboard (Windows).htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Creating a New Patient Encounter.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="none"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/StrokeRESPOND/Smart Notes New Stroke Respond Record.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false"
+      BreakType="none"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/StrokeRESPOND/Smart Notes-Viewing and Editing StrokeRESPOND Encounters.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Smart Notes - Patient Banner.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="Smart Notes Clocks and Timers"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Supplimental Software/Smart Notes/Golden Hour.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/Supplimental Software/Smart Notes/Treatment Window Clock.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Smart Notes Field Types.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Vital Signs and Labs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Smart Notes - Calculators.htm"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Smart Notes User Roles.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="InTouch Imaging"
+      conditions="General.NotReadyforPublishing">
+      <TocEntry
+        Title="New Entry"
+        conditions="General.NotReadyforPublishing" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/Smart Notes/NIH Stroke Scale (NIHSS)/Signing and Printing Consultation Notes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="Consultation Note Distribution"
+      conditions="General.NotReadyforPublishing"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Supplimental Software/Smart Notes/Faxing a Signed Consultation Note.htm"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/Smart Notes/Smart Notes - View CareRecord Audit Trail.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Supplimental Software/Smart Notes/Smart Notes System Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="none"
+    StartSection="false"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/HIPAA Compliance/Recommended Guidelines for HIPAA Compliance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/HIPAA Compliance/HIPAA Access to Provider Access Software.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/HIPAA Compliance/Discussion and Display of PHI.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/HIPAA Compliance/Stored Images and Video.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/HIPAA Compliance/Discolsure of PHI.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Contact Information/Contact Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/LastPagePDF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="first"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+    conditions="General.PDF" />
+</CatapultToc>

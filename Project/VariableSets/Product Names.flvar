@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet
+  conditions="">
+  <Variable
+    Name="Thermal Camera"
+    Comment=""
+    OriginalName="PDFGuideTitle"
+    EvaluatedDefinition="InTouch Thermal">InTouch Thermal</Variable>
+  <Variable
+    Name="ITH TV Overall"
+    Comment=""
+    EvaluatedDefinition="InTouch TV">InTouch TV</Variable>
+  <Variable
+    Name="ITH Vantage"
+    Comment=""
+    EvaluatedDefinition="InTouch Vantage">InTouch Vantage</Variable>
+  <Variable
+    Name="Vici"
+    Comment=""
+    EvaluatedDefinition="InTouch Vici">InTouch Vici</Variable>
+</CatapultVariableSet>

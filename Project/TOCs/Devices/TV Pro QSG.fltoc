@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/TV UM Covers/ITH TV Pro QSG.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchRefGuide.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/TV Pro What is in the Box.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="left"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchRefGuide.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Installation/InTouch TV Pro Hardware Setup.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/TV/Installation/ITH TV Software QSG Install.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/LastPagePDF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="first"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchRefGuide.flpgl" />
+</CatapultToc>

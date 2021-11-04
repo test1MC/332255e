@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:sourceDocument="J:\Shared\Technical Writing\Updated Manuals_CR_WW\Old Manuals\Source Files - Adobe Framemaker\Adobe FrameMaker 12\InTouch Lite Installation and Service Manual\MA-20026-001\LiteInstall_Technical_Specifications.fm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="Left" PageType="left" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="468pt" Height="10.00008pt" X="63.23328pt" Y="40.41648pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Header" style="text-align: center; margin-left: 0in; margin-right: 0in; margin-top: 0pt; margin-bottom: 0pt; font-family: 'Eurostile LT Std Bold'; font-weight: bold; font-style: normal; font-size: 12pt; letter-spacing: 0em; color: #000000; text-indent: 0px; line-height: 14pt; text-decoration: none;"><a name="liteinstall_technical_specifications_1125002343_1018213"></a><MadCap:variable name="Heading.Level2" />
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="486pt" Height="10.00008pt" X="54.46656pt" Y="763.9999pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Footer"><a name="liteinstall_technical_specifications_1125002343_1018220"></a><MadCap:variable name="System.PageNumber" />	<MadCap:variable name="InTouch Lite.Tech_Support" /> <MadCap:variable name="InTouch Lite.Tech_Support_Phone" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Width="486pt" Height="639pt" X="54pt" Y="99pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Body1"><a name="liteinstall_technical_specifications_1125002343_1018221"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Right" PageType="right" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="468pt" Height="10.00008pt" X="80.76672pt" Y="40.392pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Header"><a name="liteinstall_technical_specifications_1125002343_1018234"></a><MadCap:variable name="Heading.Level2" />
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="486pt" Height="10.00008pt" X="72pt" Y="763.992pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Footer"><a name="liteinstall_technical_specifications_1125002343_1018244"></a>	<MadCap:variable name="InTouch Lite.Tech_Support" /> <MadCap:variable name="InTouch Lite.Tech_Support_Phone" />	<MadCap:variable name="System.PageNumber" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Width="486pt" Height="639pt" X="72pt" Y="99pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Body1"><a name="liteinstall_technical_specifications_1125002343_1018245"></a>
+                        </p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Windows Provider Access Software User Guide - MA-20013"
+  Type="WebHelp2"
+  Destinations=""
+  MasterToc="/Project/TOCs/PAS/Provider Access Software User Guide.fltoc"
+  ConditionTagExpression="exclude[&quot;Devices.Lite V1&quot; or &quot;Devices.Lite V3&quot; or Devices.Pro or &quot;Devices.RP 7&quot; or Devices.TV or Devices.TVPro or Devices.Vantage or Devices.Vici or Devices.Vita or Devices.Xpress or General.0482Tag or General.Errata or General.EuorpeanUnionCert or General.Hardware or General.Lite or General.PDF or General.ProductName2 or &quot;General.Provider Access iOS&quot; or General.ToRemove or General.Vita or PrintGuides.GSG] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  InjectBookHeadings="true"
+  Skin="/Project/Skins/Side Navigation.flskn"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  ExcludeUnreferencedContent="true"
+  AutoSizeCaptureCaptions="false"
+  TopNavTocPath="true"
+  MasterPage="/Content/Resources/MasterPages/HomePage.flmsp"
+  SearchEngine="MadCapSearch"
+  DefaultUrl="/Content/Provider Access Software/Provider Access Software Overview.htm"
+  ChunkIndex="false"
+  ChunkTOC="false"
+  ChunkGlossary="false"
+  PreCompileScaledImages="false"
+  ChunkSearchDatabase="false"
+  OutputFolder="J:\Shared\Technical Writing\PDFs For Publishing"
+  MenuSkin="/Project/Skins/SideMenu.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <DocumentProperties
+    Title="Windows Provider Access Software User Guide"
+    Author="Paul Davidson"
+    Subject="Provider Access Software for Windows" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="FitH"
+    PageLayout="OneColumn"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    Tagged="true"
+    ConvertBookmarks="false" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+  <Variables>
+    <Variable
+      Name="Cover Variables/Product Name">Windows Provider Access Software</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">013</Variable>
+    <Variable
+      Name="Cover Variables/Software Version">37</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20013</Variable>
+  </Variables>
+  <Glossaries />
+</CatapultTarget>

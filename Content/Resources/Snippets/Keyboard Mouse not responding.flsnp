@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="498" MadCap:lastWidth="716">
+    <head>
+    </head>
+    <body>
+        <h2>Rii Keyboard/Mouse not responding (<MadCap:variable name="TV.Mid Tier Product" /> and <MadCap:variable name="TV.Top Tier TV&#160;Product" />)</h2>
+        <p>Confirm that Keyboard/Mouse is charged by turning it on and looking for green power indicator light.</p>
+        <ul>
+            <li>If the keyboard is not charged, plug in the included USB cable and charge it.</li>
+        </ul>
+        <p>Keyboard/Mouse not paired:</p>
+        <ol>
+            <li>Pair&#160;Bluetooth Keyboard/Mouse&#160;to&#160;Compute Stick.</li>
+            <li>Turn ON&#160;Bluetooth Keyboard/Mouse&#160;by sliding the power switch on the left side.</li>
+            <li>Minimize Viewpoint by keying the combination: Control + Shift + Spacebar.</li>
+            <li>Navigate to Windows Bluetooth settings.<ol style="list-style-type: lower-alpha;"><li>Return to the desktop by clicking the <b>Minimize </b>icon.</li><li>Click the <b>Windows </b> icon.</li><li>Click the <b>Settings </b>icon.</li><li style="font-weight: normal;">Click the <b>Devices </b>icon.</li><li style="font-weight: normal;">Select <b>Bluetooth </b>from the Devices menu.</li></ol></li>
+            <li>Press the Bluetooth icon on the keyboard.</li>
+            <li>Key in Bluetooth code to keyboard, and press Enter.</li>
+            <li>Re-maximize Viewpoint by Keying the combination: Control + Backspace.</li>
+        </ol>
+    </body>
+</html>

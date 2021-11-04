@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Safety Instructions/Safety Instructions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/General Use Topics/Telehealth System Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="InTouch Vantage Overview"
+    Link="/Content/Patient Devices/Vantage/InTouch Vantage Overview.htm"
+    conditions="PrintGuides.UserGuide">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Vantage V2 Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Vantage V1 Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="../../../../Content/Patient Devices/Lite/InTouch Lite Button Panel.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      AutoEndOnLeftPage="disabled"
+      StartSection="false"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="../../../../Content/Patient Devices/Lite/Auxiliary AC Power Receptacle.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="InTouch Vantage Basics">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Vantage Basics.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="../../../../Content/Patient Devices/Lite/Power Sequence V3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/InTouch Lite Display.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Adjusting Speaker Volume.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Adjusting the Vantage Height.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Vantage Auxiliary Ports1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Pan-Tilt-Zoom Boom Camera.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Lite/InTouch Expansion Bay.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Vantage Expansion Bay Compartment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Peripherals/Network and USB Interfaces.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Vantage Auxiliary Ports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Patient Access Device - Error Messages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Cleaning and Maintenance">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Vantage/Replacing the InTouch Vantage Sterile Handle Covers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Cleaning and Maintenance/Cleaning Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Cleaning and Maintenance/Maintenance and Inspection.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="InTouch Vantage and Network Installation"
+    conditions="PrintGuides.UserGuide"
+    StartSection="false">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Unpacking and Charging the Patient Access Device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Moving the Patient Access Device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Monitor Display Lite and Vantage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="../../../../Content/Patient Devices/Network Configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Vantage/Vantage Technical Specifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="PrintGuides.UserGuide" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Lite/Network Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Contact Information/Contact Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="General.PDF"
+    BreakType="pageLayout"
+    PageType="first"
+    AutoEndOnLeftPage="disabled"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+</CatapultToc>

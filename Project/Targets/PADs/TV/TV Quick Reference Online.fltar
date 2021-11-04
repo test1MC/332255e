@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="InTouch TV"
+  Type="WebHelp2"
+  Destinations=""
+  MasterToc="/Project/TOCs/Devices/TV UG.fltoc"
+  MasterStylesheetOverride="false"
+  ConditionTagExpression="include[General.ToRemove] exclude[Devices.Vita or General.Errata or General.EuorpeanUnionCert or General.Lite or General.NotReadyforPublishing or General.Online or General.PDF or &quot;General.Provider Access Software&quot; or General.Vita or PrintGuides.GSG] "
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  InjectEmptyPages="false"
+  PatchHeadingLevels="true"
+  TargetLanguage="en-us"
+  SyncLingoProject="false"
+  OutputFile="InTouchTV User Guide - MA-20067-002"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  InjectBookHeadings="true"
+  OutputFolder="J:\Shared\Technical Writing\PDFs For Publishing"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  ExcludeUnreferencedContent="true"
+  AutoSizeCaptureCaptions="true"
+  Skin="/Project/Skins/Side Navigation.flskn"
+  TabletBreakpoint="1000"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    PopupConversion="footnote"
+    PreserveTrackedChanges="true" />
+  <Glossaries />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true" />
+    <Destination
+      Link="/Project/Destinations/OneDrive.fldes"
+      Publish="true" />
+    <Destination
+      Link="/Project/Destinations/Sample Help Server.fldes"
+      Publish="true" />
+  </Destinations>
+  <PDF
+    PageLayout="OneColumn"
+    InitialMagnification="Fit"
+    Tagged="true"
+    ShowUsedBookmarks="false"
+    ConvertToCMYK="true" />
+  <DocumentProperties
+    Title="InTouch TV User Guide"
+    Subject="InTouch TV"
+    Keywords="InTouch TV, setup, hardware, software, troubleshooting" />
+  <Variables>
+    <Variable
+      Name="General/P/N:">MA-20067-</Variable>
+    <Variable
+      Name="TV/Product Name">InTouch TV Products</Variable>
+    <Variable
+      Name="InTouch Health/P/N:">MA-20067</Variable>
+    <Variable
+      Name="InTouch Health/VersionNumber">002</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch TV™ Products</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">002</Variable>
+    <Variable
+      Name="ClinicalApps/P/N:">MA-20065</Variable>
+    <Variable
+      Name="TV/P/N:">MA-20067</Variable>
+    <Variable
+      Name="TV/TV Pro QSG VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20067</Variable>
+  </Variables>
+</CatapultTarget>

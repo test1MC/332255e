@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="">
+  <ConditionTag
+    Comment=""
+    Name="PDF"
+    BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#98fb98"
+    Name="Online"
+    Comment=""
+    Color="Normal"
+    OriginalName="Online" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="ToRemove"
+    Comment="Information that will be removed because of changes to software." />
+  <ConditionTag
+    BackgroundColor="#ff6347"
+    Name="NotReadyforPublishing"
+    Comment="New information that is intended for upcoming software release." />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="Errata"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="EuorpeanUnionCert"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Lite"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Vita"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Provider Access Software"
+    Comment="Provider Access Software for Windows" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="ProductName2"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="0482Tag"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="Hardware"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#9acd32"
+    Name="Provider Access iOS"
+    Comment="PAS iOS" />
+</CatapultConditionTagSet>

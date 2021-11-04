@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" Name="Cover Page for UMs" BackgroundImage="../Images/ITH Background White.png">
+        <Frame X="-42px" Y="872px" Width="733px" Height="49px" Flow="footer" Right="-67px" Bottom="-57px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>P/N: <MadCap:variable xhtml:name="Cover Variables.P/N:" />-<MadCap:variable xhtml:name="Cover Variables.VersionNumber" /></xhtml:p>
+                        <xhtml:p MadCap:conditions="General.Provider Access Software">Version <MadCap:variable xhtml:name="Cover Variables.Software Version" /> <MadCap:conditionalText MadCap:conditions="PrintGuides.GSG">Copyright <MadCap:variable xhtml:name="Cover Variables.Year" /></MadCap:conditionalText></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="294px" Y="13px" Width="351px" Height="108px" Flow="decoration0" Right="-21px" Bottom="743px" BackgroundImage="../Images/intouch_logo_FN_CMYK.png" BackgroundRepeat="stretch" />
+        <Frame X="0px" Y="278px" Width="655px" Height="482px" Flow="decoration1" Right="-31px" Bottom="104px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="CoverTitle"><MadCap:variable xhtml:name="Cover Variables.Product Name" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="CoverTitle2" MadCap:conditions="General.ProductName2"><MadCap:variable xhtml:name="Cover Variables.Product Name2" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="CoverTitle"><MadCap:variable xhtml:name="Cover Variables.PDFGuideTitle" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="5px" Y="166px" Width="169px" Height="53px" Flow="body" Right="450px" Bottom="645px" />
+    </Page>
+    <Page Name="Copy of Copy of Normal" Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="-0.4270833in" Right="-0.53125in" Bottom="-2px" Width="716px" Height="888px" Y="-22px">
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="-0.4791667in" Bottom="-77px" X="6.3125in" Y="870px" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="71px" VerticalAlign="top" TextAlign="left" Width="64px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-39px" Y="872px" Width="709px" Height="65px" Flow="decoration1" Right="-46px" Bottom="-73px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;"><xhtml:span xhtml:style="font-family: 'Eurostile LT Std';"><xhtml:img xhtml:src="../Images/logo_edited.jpg" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" xhtml:style="float: left;left: 3px;top: 3px;" /> 24/7 Technical Support </xhtml:span> <MadCap:variable xhtml:name="InTouch Health.Toll Free Tech Support" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="7in" Height="9in" Padding="20px" PageSize="Letter" PageType="first" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" Orientation="portrait" BleedLeft="0.25in" BleedRight="0.25in" BleedTop="0.25in" BleedBottom="0.25in" Name="LastPagePDF" BackgroundImage="../Images/ITH Background White.png">
+        <Frame X="146px" Y="-42px" Width="344px" Height="123px" Flow="decoration0" Right="134px" Bottom="783px" BackgroundImage="../Images/Large Logo.jpg" BackgroundRepeat="stretch" BackgroundColor="#19bccd" BackgroundColorAlt="#15b6c8" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="4px" Y="101px" Width="620px" Height="755px" Flow="body" Right="0px" Bottom="8px" />
+    </Page>
+</PageStyles>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>
+            <MadCap:variable name="General.Product Name" /> not showing on display </h2>
+        <ul>
+            <li>Confirm the display is turned on.</li>
+            <li>Make sure the <MadCap:variable name="General.Product Name" /> is powered on by verifying the LED&#160;on the Compute Stick is illuminated.</li>
+            <li>Following the display's manufacturer’s procedures, verify the display is set to the HDMI&#160;input that corresponds to where the <MadCap:variable name="General.Product Name" /> is connected to the display.</li>
+            <li>Verify the <MadCap:variable name="General.Product Name" /> is plugged in fully to the HDMI&#160;input. If using the HDMI&#160;extension cable, verify both ends are properly connected.</li>
+        </ul>
+    </body>
+</html>

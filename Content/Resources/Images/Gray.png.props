@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay ScreenRectangle="1145,283,22,19" Rectangle="1145,283,22,19">
+        <OriginalImage AutoAdjust="true" Format="tiff" Type="Image" ShapeTimeSpan="10000" CropRectangle="0,0,20,14" EnableCropRectangle="true" ComputedWidth="20" ComputedHeight="14">SUkqAKQAAACAGaBP8AQWDQeEQmFQuGQ2HQkAxEAGyKAAWRcAQIzQSHx2PR+QQiKGwAC2TRmByGVSuWQWRyWTxqOS2aTWFy+TC2URubT2fROKzmdzOf0WVTiYymjUuQUidTKmVGO06h1KrQyqVCr1uD1mlVyuV6eWCw0Gk2OyVexUS01GqKC4Wy20sh3UABy8AB/3u5XOt3y+36rYDBWnCYWwQEAQAP4ABAABAAAAAAAAAAABBAABAAAAFgAAAAEBBAABAAAAEwAAAAIBAwAEAAAAagEAAAMBAwABAAAABQAAAAYBAwABAAAAAgAAABEBBAABAAAACAAAABUBAwABAAAABAAAABYBBAABAAAAEwAAABcBBAABAAAAnAAAABoBBQABAAAAcgEAABsBBQABAAAAegEAABwBAwABAAAAAQAAACgBAwABAAAAAgAAAD0BAwABAAAAAgAAAFIBAwABAAAAAgAAAAAAAAAIAAgACAAIAAB3AQDoAwAAAHcBAOgDAAA=</OriginalImage>
+        <Shapes />
+        <Variables />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+    </ImageOverlay>
+</fileProperties>

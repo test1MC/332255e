@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="True"
+  KeepSourceLinks="True"
+  ConvertInlineFormatting="True"
+  AddContinuedLinks="False"
+  AddContinuedFromLinks="False"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="False"
+  UseMinCharLimit="True"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2017-10-17T09:45:40.2836948-07:00"
+  LastImport="2017-10-17T09:45:53.3647638-07:00"
+  UseHeaderRows="true"
+  Stylesheet="../../Content/Resources/Stylesheets/ITHStyles.css">
+  <Files>
+    <Url
+      Source="../../../../PACS Viewer/PAC Viewer Outline.docx"
+      AbsoluteSource="file:///J:/Shared/Technical Writing/PACS Viewer/PAC Viewer Outline.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/PACS Viewer/Scheduler Reference Guide.htm"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/PACS Viewer/PAC Viewer Outline.htm"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_1.png"
+      TimeStamp="10/17/2017 9:45:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_1_1.png"
+      TimeStamp="10/17/2017 9:45:40 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_1_2.png"
+      TimeStamp="10/17/2017 9:45:40 AM" />
+    <Url
+      Source="../../Content/PACS Viewer/PAC Viewer Outline_1.htm"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_1.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_2.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_3.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_4.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_5.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_6.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_7.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_8.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_9.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_10.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_11.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_12.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_13.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_14.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_15.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_16.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_17.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_18.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_19.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_20.png"
+      TimeStamp="10/17/2017 9:45:41 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_21.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_22.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_23.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_24.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_25.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_26.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_27.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_28.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_29.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_30.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_31.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_32.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_33.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_34.png"
+      TimeStamp="10/17/2017 9:45:42 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_35.png"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_36.png"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PACS Viewer/PAC Viewer Outline_2_37.png"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/PACS Viewer/PAC Viewer Outline_2.htm"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../TOCs/PACS Viewer.fltoc"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/ITHStyles_3.css"
+      TimeStamp="10/17/2017 9:45:43 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading1"
+      To="h1.(MS Word Style)" />
+    <Map
+      From="Heading2"
+      To="h2.(MS Word Style)" />
+    <Map
+      From="Heading3"
+      To="h3.(MS Word Style)" />
+    <Map
+      From="Heading4"
+      To="h4.(MS Word Style)" />
+    <Map
+      From="Heading5"
+      To="h5.(MS Word Style)" />
+    <Map
+      From="Heading6"
+      To="h6.(MS Word Style)" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="List Paragraph" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles />
+</MsWordImport>

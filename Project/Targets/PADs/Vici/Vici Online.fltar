@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Devices/Vici/Vici.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  OutputFolder="J:\Shared\Technical Writing\ITH Help Site"
+  PatchHeadingLevels="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  ConditionTagExpression="exclude[&quot;Devices.Lite V1&quot; or &quot;Devices.Lite V3&quot; or Devices.Pro or &quot;Devices.RP 7&quot; or Devices.TV or Devices.TVPro or Devices.Vantage or Devices.Vita or Devices.Xpress or General.Errata or General.NotReadyforPublishing or General.PDF or General.ProductName2 or &quot;General.Provider Access Software&quot; or General.Vita] "
+  InjectBookHeadings="true"
+  Skin="/Project/Skins/Side Navigation.flskn"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  ChunkTOC="false"
+  ChunkIndex="false"
+  DefaultUrl="/Content/Patient Devices/Vici/InTouch Vici Overview.htm"
+  AutoSizeCaptureCaptions="true"
+  TopNavTocPath="true"
+  ChunkGlossary="false"
+  PartialWordSearch="false"
+  ExcludeUnreferencedContent="true"
+  MasterPage="/Content/Resources/MasterPages/HomePage.flmsp"
+  OutputFile="InTouch Vici User Guide"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  TopicToolbarSkin="/Project/Skins/TopicToolBar.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    DownsampleImages="true"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20053</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">User Guide</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Vici™</Variable>
+    <Variable
+      Name="ClinicalApps/P/N:">MA-20053</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="TLC-300-U2S Technical Specifications"
+    Subject="TLC-300-U2S Technical Specifications"
+    Keywords="Coordinator, patient, schedule, provider" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/OneDrive.fldes" />
+    <Destination
+      Link="/Project/Destinations/Sample Help Server.fldes" />
+  </Destinations>
+  <MetaTags
+    Enabled="true" />
+</CatapultTarget>

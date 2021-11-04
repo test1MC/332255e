@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Product Name"
+    EvaluatedDefinition="InTouch Coordinator">InTouch Coordinator</Variable>
+  <Variable
+    Comment=""
+    Name="Part Number"
+    EvaluatedDefinition="MA-20072">MA-20072</Variable>
+  <Variable
+    Name="Version"
+    Comment=""
+    EvaluatedDefinition="001">001</Variable>
+</CatapultVariableSet>

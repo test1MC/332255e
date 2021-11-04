@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="662" MadCap:lastWidth="716">
+    <body>
+        <p class="H2">Intel® NUC 7  – NUC7i3BNHXF - With <MadCap:variable name="TV.Top Tier TV&#160;Product" /></p>
+        <h3>Back Panel View</h3>
+        <p style="text-align: left;">
+            <img src="../Images/Intel NUC 7 Back Panel.png" />
+        </p>
+        <h3>Front Panel View</h3>
+        <p style="text-align: left;">
+            <img src="../Images/Intel NUC 7 Front Panel.png" />
+        </p>
+    </body>
+</html>

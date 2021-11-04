@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Lite/Lite Cover.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="title"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/Copyright.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="normal"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+  <TocEntry
+    Title="InTouch Lite Overview">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/InTouch Lite V3 Anatomy and Components.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/InTouch Lite V2 Anatomy and Components.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/InTouch Lite V1 Anatomy and Components.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Network Configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Lite/Network Requirements.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="InTouch Lite Installation">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Unpacking InTouch Lite.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Connecting the UPS.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Adjusting the Height.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Moving the InTouch Lite.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Main Power.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Power Sequence V3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Power Sequence V1 V2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/InTouch Lite Display.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Patient Access Device - Error Messages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Cleaning and Maintenance">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Cleaning and Maintenance/Cleaning Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Cleaning and Maintenance/Maintenance and Inspection.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Patient Devices/Install Troubleshooting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="InTouch Lite Technical Specifications">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Lite Overall Specs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Lite V3 Tech Specs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ComputeToc="false"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Lite V2 Tech Specs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Patient Devices/Lite/Lite V1 Tech Specs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/Contact Information/Contact Information.htm" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Print Only Topics/LastPagePDF.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    PageType="first"
+    StartSection="false"
+    PageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl" />
+</CatapultToc>

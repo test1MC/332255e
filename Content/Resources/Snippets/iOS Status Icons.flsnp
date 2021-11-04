@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="5" MadCap:lastHeight="314" MadCap:lastWidth="716">
+    <head>
+        <link href="../Stylesheets/ITHStyles.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="margin-left: auto;margin-right: auto;">
+            <col />
+            <col />
+            <tr>
+                <td style="text-align: center;">
+                    <p>
+                        <img src="../Images/StatusReady.png" />
+                    </p>
+                </td>
+                <td style="text-align: left;">
+                    <p>Green – Patient Access Device is Ready</p>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+                    <p>
+                        <img src="../Images/StatusBusy.png" style="width: 32px;height: 32px;" />
+                    </p>
+                </td>
+                <td style="text-align: left;">
+                    <p>Blue — Patient Access Device is Busy</p>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+                    <p>
+                        <img src="../Images/StatusOffline.png" style="width: 35px;height: 35px;" />
+                    </p>
+                </td>
+                <td style="text-align: left;">
+                    <p>Gray — Patient Access Device is Offline or status is Unavailable </p>
+                </td>
+            </tr>
+            <tr MadCap:conditions="">
+                <td style="text-align: center;">
+                    <p>
+                        <img src="../Images/StatusMultiPresence.png" style="width: 35px;height: 35px;" />
+                    </p>
+                </td>
+                <td style="text-align: left;">
+                    <p>Three Blue Connected —MultiPRESENCE is Available,</p>
+                </td>
+            </tr>
+            <tr MadCap:conditions="">
+                <td style="text-align: center;">
+                    <p style="text-align: center;">
+                        <img src="../Images/Scheduler/iOS MultiPRESENCE.png" style="width: 24px;height: 49px;" />
+                    </p>
+                </td>
+                <td style="text-align: left;">
+                    <p>Three vertical dots—Tap to display&#160; options for MultiPRESENCE login. </p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/TechSpecs/Viewpoint.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/TechSpecs.flpgl"
+  OutputFolder="J:\Shared\Technical Writing\PDFs for Review"
+  OutputFile="InTouch Viewpoint Minimum System Requirements - MB-20135-001"
+  PatchHeadingLevels="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  ConditionTagExpression="exclude[Devices.TVPro or General.ProductName2 or &quot;General.Provider Access Software&quot; or PrintGuides.UserGuide] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    DownsampleImages="true"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Cover Variables/P/N:">MB-20135</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">Minimum System Requirements</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Viewpoint™ Software</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="InTouch Viewpoint Minimum System Requirements"
+    Subject="InTouch Viewpoint Minimum System Requirements"
+    Keywords="Viewpoint, system requirements" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

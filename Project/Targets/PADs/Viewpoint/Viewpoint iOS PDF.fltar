@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/Devices/Viewpoint/iOS Viewpoint.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  OutputFolder="J:\Shared\Technical Writing\ITH Help Site"
+  PatchHeadingLevels="true"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  ConditionTagExpression="exclude[&quot;Devices.Lite V1&quot; or &quot;Devices.Lite V3&quot; or Devices.Pro or &quot;Devices.RP 7&quot; or Devices.TV or Devices.TVPro or Devices.Vantage or Devices.Vita or Devices.Xpress or General.Errata or General.Hardware or General.NotReadyforPublishing or General.Online or &quot;General.Provider Access Software&quot; or General.Vita] "
+  InjectBookHeadings="true"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  ChunkTOC="false"
+  ChunkIndex="false"
+  DefaultUrl="/Content/Patient Devices/Viewpoint/iOS Viewpoint/iOS Viewpoint/InTouch iOS Viewpoint Overview.htm"
+  AutoSizeCaptureCaptions="true"
+  TopNavTocPath="true"
+  ChunkGlossary="false"
+  PartialWordSearch="false"
+  ExcludeUnreferencedContent="true"
+  MasterPage="/Content/Resources/MasterPages/HomePage.flmsp"
+  OutputFile="MA-20056-InTouch Viewpoint for iOS"
+  MenuSkin="/Project/Skins/SideMenu.flskn"
+  SearchBarSkin="/Project/Skins/HomeSearchBar.flskn"
+  SearchEngine="MadCapSearch">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    DownsampleImages="true"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20056</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">User Guide</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Viewpoint™</Variable>
+    <Variable
+      Name="ClinicalApps/P/N:">MA-20053</Variable>
+    <Variable
+      Name="Cover Variables/Product Name2">for iOS</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="InTouch Viewpoint for iOS"
+    Subject="InTouch Viewpoint for iOS"
+    Keywords="Viewpoint, iOS, Apple" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes"
+      Publish="true" />
+    <Destination
+      Link="/Project/Destinations/OneDrive.fldes"
+      Publish="true" />
+    <Destination
+      Link="/Project/Destinations/Sample Help Server.fldes"
+      Publish="true" />
+  </Destinations>
+  <MetaTags
+    Enabled="true" />
+  <Elasticsearch
+    Guid="0ae1956a-270d-4695-9290-b29eb9b55155" />
+</CatapultTarget>

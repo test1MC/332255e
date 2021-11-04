@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MoveOutputContentToRoot="false"
+  SkinComponents=""
+  EnableResponsiveOutput="true"
+  MasterPage="/Content/Resources/MasterPages/OtherTopics.flmsp"
+  ResultsPerPage="10"
+  Skin="/Project/Skins/InTouch Health Tripane.flskn"
+  ConditionTagExpression="include[General.Online or General.ToRemove]exclude[General.NotReadyforPublishing or General.PDF or PrintGuides.GSG or PrintGuides.UserGuide]"
+  DefaultUrl="/Content/Supplimental Software/Coordinator/Scheduler Overview.htm"
+  FaviconSkin="/Project/Skins/FaviconSkin.flskn"
+  UseDeviceWidth="true"
+  OutputFolder="J:\Shared\Technical Writing\Provider Access Software"
+  OutputFile="[%=Provider Access Sfoftware.Product Name%]"
+  MasterToc="/Project/TOCs/PAS/Provider Access Online Output.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <ul>
+            <li>
+                <b>Name </b>– Name given to the schedule.</li>
+            <li>
+                <b>Call Panel</b> – Name of the panel of doctors or the individual doctor to whom the schedule pertains.</li>
+            <li>
+                <b>Service Line</b> – The type of medical care that a providers specializes in.</li>
+            <li>
+                <b>Start Date</b> – The date the selected schedule begins.</li>
+            <li>
+                <b>End Date</b> – The date the selected schedule ends.</li>
+            <li>
+                <b>Deadline </b>– The number of calendar days until the provider must approve the given schedule. </li>
+            <li>
+                <b>Status </b>– The current status of the selected schedule.</li>
+            <li>
+                <b>Clone </b>– Allows for a duplicate of the selected schedule to be created.</li>
+        </ul>
+    </body>
+</html>

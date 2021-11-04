@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/SupSoftware/PACS Viewer.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true"
+  EmbedImages="true"
+  OutputFile="InTouch Imaging Quick Reference Guide-MA-xxxxx-zzz"
+  OutputFolder="J:\Shared\Technical Writing\PDFs for Review"
+  ConditionTagExpression="exclude[General.Errata or General.Online or &quot;General.Provider Access Software&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true"
+    EnableTrackedChanges="true" />
+  <Variables>
+    <Variable
+      Name="ClinicalApps/PDFGuideTitle">Quick Reference Guide</Variable>
+    <Variable
+      Name="Scheduler/Product Name">InTouch Imaging</Variable>
+    <Variable
+      Name="Scheduler/Part Number">MA-xxxxx</Variable>
+    <Variable
+      Name="InTouch Health/PDFGuideTitle">Quick Reference Guide</Variable>
+    <Variable
+      Name="Provider Access Sfoftware/User Manual Type">Quick Reference Guide</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20078</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Imaging™</Variable>
+  </Variables>
+</CatapultTarget>

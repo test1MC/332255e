@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/TechSpecs/TellyCam.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/TechSpecs.flpgl"
+  OutputFolder="J:\Shared\Technical Writing\PDFs for Review"
+  OutputFile="InTouch USB HD PTZ Video Camera Technical Specifications MB-20129-001"
+  PatchHeadingLevels="false"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  ConditionTagExpression="exclude[Devices.TVPro or General.ProductName2 or &quot;General.Provider Access Software&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    DownsampleImages="true"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Cover Variables/P/N:">MB-20129</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">Technical Specifications</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch USB 2.0 HD PTZ Video Camera</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="TLC-300-U2S Technical Specifications"
+    Subject="TLC-300-U2S Technical Specifications"
+    Keywords="Coordinator, patient, schedule, provider" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

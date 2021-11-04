@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="false"
+  ExcludePattern="*.flmsp;*.flpgl;*.css"
+  IncludePattern="*.htm;*.html;*.fldes;*.flcts;*.flbat;*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.dib;*.svg;*.ps;*.eps;*.pdf;*.flsnp;*.fltoc"
+  LastImport="2017-11-14T12:59:28.4283958-08:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/InTouch TV User Doc.flprj"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/InTouch TV User Doc.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/Resources/Snippets/Webcam not working.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/Snippets/Webcam not working.flsnp" />
+    <Url
+      Source="../../Content/Resources/Snippets/InTel NUC Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/Snippets/InTel NUC Image.flsnp" />
+    <Url
+      Source="../../Content/Resources/Snippets/Telycam Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/Snippets/Telycam Image.flsnp" />
+    <Url
+      Source="../../Content/Resources/Snippets/Logitech Webcam Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/Snippets/Logitech Webcam Image.flsnp" />
+    <Url
+      Source="../../Content/Resources/Snippets/Keyboard Mouse not responding.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/Snippets/Keyboard Mouse not responding.flsnp" />
+    <Url
+      Source="../../Content/Print Only Topics/Contact Information.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Print Only Topics/Contact Information.htm" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/A_Introduction Topics/Welcome.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/A_Introduction Topics/Welcome.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/ComputeStick to HDMI Input.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/ComputeStick to HDMI Input.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Conducting a Test Session.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Conducting a Test Session.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Connect to the WiFi.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Connect to the WiFi.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/greencheckmarkimage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/greencheckmarkimage.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Hardware Setup.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Hardware Setup.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/ITHTvPwrOff.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/ITHTvPwrOff.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Powering Off the InTouch  TV.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Powering Off the InTouch  TV.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Procedure2.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Procedure2.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Procedure3.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Procedure3.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/readyscreenimage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/readyscreenimage.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/RemoveCapCS.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/RemoveCapCS.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Rii KeyboardMouse Setup.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Rii KeyboardMouse Setup.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Rii X1 Keyboard Setup.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Rii X1 Keyboard Setup.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Setup Guide.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Setup Guide.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Software Setup.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Software Setup.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Three Icons.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Three Icons.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Three Icons.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Three Icons.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/Webcamimage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/Webcamimage.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Installation/wifiimage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Installation/wifiimage.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Print Only Topics/Contact Information.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Print Only Topics/Contact Information.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Print Only Topics/Image Appendix.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Print Only Topics/Image Appendix.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Print Only Topics/Troubleshooting.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Print Only Topics/Troubleshooting.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/ComputeStickImage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/ComputeStickImage.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Included.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Included.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Intel Compute Stick Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Intel Compute Stick Image.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Intel Compute Stick M3 Processor.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Intel Compute Stick M3 Processor.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Intel NUC 7 Images.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Intel NUC 7 Images.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Intel NUC 7 Specifications.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Intel NUC 7 Specifications.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Keyboard Specs.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Keyboard Specs.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Logitech Webcam  C930e Image.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Logitech Webcam  C930e Image.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Models and Requirements.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Models and Requirements.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Optional.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Optional.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Overview.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Overview.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Phoenix Duet Echo Cancelling Speakerphone.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Phoenix Duet Echo Cancelling Speakerphone.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/RemoveCap.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/RemoveCap.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Rii Mini Keyboard X1.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Rii Mini Keyboard X1.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Speakerphone. Specs.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Speakerphone. Specs.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/TLC-300-U2S USB HD Video Camera Specifications.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/TLC-300-U2S USB HD Video Camera Specifications.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/TLC-300-U2S USB HD Video Camera.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/TLC-300-U2S USB HD Video Camera.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Product Specifications/Webcam Specifications.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Product Specifications/Webcam Specifications.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/CStoHDMI.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/CStoHDMI.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/RemoveCapCS.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/RemoveCapCS.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/amazon-fire-tv-stick-nuevo-en-caja-cerrada-D_NQ_NP_782201-MLA20288339602_042015-F_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/amazon-fire-tv-stick-nuevo-en-caja-cerrada-D_NQ_NP_782201-MLA20288339602_042015-F_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ComputeStickTOHDMI_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ComputeStickTOHDMI_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/CSPwrLght.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/CSPwrLght.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Green Checkmarks.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Green Checkmarks.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/HoldComputeStickWUSB.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/HoldComputeStickWUSB.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/HoldComputeStickWUSBedited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/HoldComputeStickWUSBedited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/HoldComputeStickWUSB_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/HoldComputeStickWUSB_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Intel Compute Stick.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Intel Compute Stick.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Intel Compute Stick_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Intel Compute Stick_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Intel NUC 7 Back Panel.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Intel NUC 7 Back Panel.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Intel NUC 7 Front Panel.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Intel NUC 7 Front Panel.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTv AV Icon.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTv AV Icon.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTv Close Info Screen.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTv Close Info Screen.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTv Icon.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTv Icon.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTv Session Info Screen.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTv Session Info Screen.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTv Session Information Icon.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTv Session Information Icon.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTv3Icons.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTv3Icons.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITHTvImage.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITHTvImage.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITTv PwrOff.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITTv PwrOff.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/ITTvMinimize Icon.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/ITTvMinimize Icon.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Logitech Webcam  C930e.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Logitech Webcam  C930e.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Power2CS.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Power2CS.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/PwrUSB2PS.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/PwrUSB2PS.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/RemoveCap_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/RemoveCap_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Rii Mini Keyboard X1.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Rii Mini Keyboard X1.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Rii Mini Keyboard X1_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Rii Mini Keyboard X1_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Speakerphone.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Speakerphone.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/SpeakerphoneUSB.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/SpeakerphoneUSB.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Speakerphone_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Speakerphone_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/TLC-300 HD Video Camera.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/TLC-300 HD Video Camera.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/USBintoACAdapter.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/USBintoACAdapter.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Webcam.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Webcam.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/WiFi Select.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/WiFi Select.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Windows Icon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Windows Icon.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/InTel NUC Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/InTel NUC Image.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/InTouch screen does not properly fit display.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/InTouch screen does not properly fit display.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/Keyboard Mouse not responding.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/Keyboard Mouse not responding.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/Logitech Webcam Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/Logitech Webcam Image.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/No Volume or Unable to adjust volume.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/No Volume or Unable to adjust volume.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/Not Showing On Display.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/Not Showing On Display.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/Speakerphone not working.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/Speakerphone not working.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/Telycam Image.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/Telycam Image.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Snippets/Webcam not working.flsnp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Snippets/Webcam not working.flsnp" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Troubleshooting/InTouch TV does not properly fit on display.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Troubleshooting/InTouch TV does not properly fit on display.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Troubleshooting/InTouch TV not showing on display.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Troubleshooting/InTouch TV not showing on display.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Troubleshooting/Keyboard not responding.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Troubleshooting/Keyboard not responding.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Troubleshooting/No Volume or Unable to Adjust Volume.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Troubleshooting/No Volume or Unable to Adjust Volume.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Troubleshooting/Speakerphone not working.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Troubleshooting/Speakerphone not working.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Troubleshooting/Webcam not working.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Troubleshooting/Webcam not working.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Project/Targets/NewBatchTarget.flbat"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Project/Targets/NewBatchTarget.flbat" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Project/TOCs/User Guide.fltoc"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Project/TOCs/User Guide.fltoc" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Read First.pdf"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Read First.pdf" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/A_Introduction Topics/Copyright.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/A_Introduction Topics/Copyright.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/A_Introduction Topics/MoreInformation.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/A_Introduction Topics/MoreInformation.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Print Only Topics/LastPagePDF.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Print Only Topics/LastPagePDF.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Print Only Topics/TitlePage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Print Only Topics/TitlePage.htm" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Large Logo.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Large Logo.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/logo_edited.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/logo_edited.jpg" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Content/Resources/Images/Minimize Icon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Content/Resources/Images/Minimize Icon.png" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Project/ConditionTagSets/General.flcts"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Project/ConditionTagSets/General.flcts" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Project/Destinations/NewDestination.fldes"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Project/Destinations/NewDestination.fldes" />
+    <Url
+      Source="../../../../InTouch TV User Doc/Project/TOCs/OnlineOutput.fltoc"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch TV User Doc/Project/TOCs/OnlineOutput.fltoc" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/A_Introduction Topics/Welcome.htm"
+      TimeStamp="7/13/2017 3:25:00 PM" />
+    <Url
+      Source="../../Content/Installation/ComputeStick to HDMI Input.flsnp"
+      TimeStamp="6/15/2017 5:26:03 PM" />
+    <Url
+      Source="../../Content/Installation/Conducting a Test Session.htm"
+      TimeStamp="6/21/2017 1:48:01 PM" />
+    <Url
+      Source="../../Content/Installation/Connect to the WiFi.htm"
+      TimeStamp="6/16/2017 9:55:54 AM" />
+    <Url
+      Source="../../Content/Installation/greencheckmarkimage.htm"
+      TimeStamp="6/16/2017 1:52:53 PM" />
+    <Url
+      Source="../../Content/Installation/Hardware Setup.htm"
+      TimeStamp="11/14/2017 10:25:56 AM" />
+    <Url
+      Source="../../Content/Installation/ITHTvPwrOff.htm"
+      TimeStamp="6/16/2017 2:46:56 PM" />
+    <Url
+      Source="../../Content/Installation/Powering Off the InTouch  TV.htm"
+      TimeStamp="7/11/2017 4:00:11 PM" />
+    <Url
+      Source="../../Content/Installation/Procedure2.htm"
+      TimeStamp="5/23/2017 6:12:32 PM" />
+    <Url
+      Source="../../Content/Installation/Procedure3.htm"
+      TimeStamp="5/23/2017 6:12:32 PM" />
+    <Url
+      Source="../../Content/Installation/readyscreenimage.htm"
+      TimeStamp="6/16/2017 1:56:10 PM" />
+    <Url
+      Source="../../Content/Installation/RemoveCapCS.flsnp"
+      TimeStamp="6/15/2017 5:25:43 PM" />
+    <Url
+      Source="../../Content/Installation/Rii KeyboardMouse Setup.flsnp"
+      TimeStamp="11/13/2017 9:54:24 AM" />
+    <Url
+      Source="../../Content/Installation/Rii X1 Keyboard Setup.htm"
+      TimeStamp="6/30/2017 1:36:23 PM" />
+    <Url
+      Source="../../Content/Installation/Setup Guide.htm"
+      TimeStamp="7/12/2017 12:53:43 PM" />
+    <Url
+      Source="../../Content/Installation/Software Setup.htm"
+      TimeStamp="11/13/2017 10:39:36 AM" />
+    <Url
+      Source="../../Content/Installation/Three Icons.flsnp"
+      TimeStamp="6/16/2017 1:41:07 PM" />
+    <Url
+      Source="../../Content/Installation/Three Icons.htm"
+      TimeStamp="6/16/2017 1:46:23 PM" />
+    <Url
+      Source="../../Content/Installation/Webcamimage.htm"
+      TimeStamp="6/16/2017 1:49:51 PM" />
+    <Url
+      Source="../../Content/Installation/wifiimage.htm"
+      TimeStamp="6/16/2017 1:50:40 PM" />
+    <Url
+      Source="../../Content/Print Only Topics/Contact Information.htm"
+      TimeStamp="6/30/2017 9:46:37 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/Image Appendix.htm"
+      TimeStamp="11/13/2017 9:36:44 AM" />
+    <Url
+      Source="../../Content/Print Only Topics/Troubleshooting.htm"
+      TimeStamp="11/13/2017 10:11:28 AM" />
+    <Url
+      Source="../../Content/Product Specifications/ComputeStickImage.htm"
+      TimeStamp="11/10/2017 2:33:18 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Included.flsnp"
+      TimeStamp="6/14/2017 3:24:18 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Intel Compute Stick Image.flsnp"
+      TimeStamp="11/10/2017 2:33:18 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Intel Compute Stick M3 Processor.htm"
+      TimeStamp="11/10/2017 1:36:06 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Intel NUC 7 Images.htm"
+      TimeStamp="11/13/2017 9:30:08 AM" />
+    <Url
+      Source="../../Content/Product Specifications/Intel NUC 7 Specifications.htm"
+      TimeStamp="11/10/2017 3:57:36 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Keyboard Specs.htm"
+      TimeStamp="7/12/2017 4:29:20 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Logitech Webcam  C930e Image.htm"
+      TimeStamp="11/13/2017 9:34:57 AM" />
+    <Url
+      Source="../../Content/Product Specifications/Models and Requirements.htm"
+      TimeStamp="11/10/2017 1:34:23 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Optional.flsnp"
+      TimeStamp="6/14/2017 3:24:15 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Overview.htm"
+      TimeStamp="7/10/2017 11:03:12 AM" />
+    <Url
+      Source="../../Content/Product Specifications/Phoenix Duet Echo Cancelling Speakerphone.flsnp"
+      TimeStamp="6/14/2017 3:46:00 PM" />
+    <Url
+      Source="../../Content/Product Specifications/RemoveCap.htm"
+      TimeStamp="11/10/2017 2:33:18 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Rii Mini Keyboard X1.flsnp"
+      TimeStamp="11/10/2017 3:16:51 PM" />
+    <Url
+      Source="../../Content/Product Specifications/Speakerphone. Specs.htm"
+      TimeStamp="11/10/2017 3:17:33 PM" />
+    <Url
+      Source="../../Content/Product Specifications/TLC-300-U2S USB HD Video Camera Specifications.htm"
+      TimeStamp="11/10/2017 3:35:14 PM" />
+    <Url
+      Source="../../Content/Product Specifications/TLC-300-U2S USB HD Video Camera.htm"
+      TimeStamp="11/13/2017 9:30:08 AM" />
+    <Url
+      Source="../../Content/Product Specifications/Webcam Specifications.htm"
+      TimeStamp="11/10/2017 2:18:17 PM" />
+    <Url
+      Source="../../Content/Resources/CStoHDMI.flsnp"
+      TimeStamp="6/15/2017 5:26:03 PM" />
+    <Url
+      Source="../../Content/Resources/RemoveCapCS.flsnp"
+      TimeStamp="6/15/2017 5:25:43 PM" />
+    <Url
+      Source="../../Content/Resources/Images/amazon-fire-tv-stick-nuevo-en-caja-cerrada-D_NQ_NP_782201-MLA20288339602_042015-F_edited.jpg"
+      TimeStamp="6/15/2017 3:40:38 PM" />
+    <Url
+      Source="../../Content/Resources/Images/ComputeStickTOHDMI_edited.jpg"
+      TimeStamp="6/15/2017 4:57:49 PM" />
+    <Url
+      Source="../../Content/Resources/Images/CSPwrLght.jpg"
+      TimeStamp="6/15/2017 4:59:24 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Green Checkmarks.jpg"
+      TimeStamp="6/30/2017 2:33:18 PM" />
+    <Url
+      Source="../../Content/Resources/Images/HoldComputeStickWUSB.jpg"
+      TimeStamp="6/15/2017 4:09:44 PM" />
+    <Url
+      Source="../../Content/Resources/Images/HoldComputeStickWUSBedited.jpg"
+      TimeStamp="6/15/2017 5:42:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/HoldComputeStickWUSB_edited.jpg"
+      TimeStamp="6/15/2017 5:42:35 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Intel Compute Stick.png"
+      TimeStamp="6/14/2017 4:35:50 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Intel Compute Stick_edited.jpg"
+      TimeStamp="6/15/2017 7:56:21 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Intel NUC 7 Back Panel.png"
+      TimeStamp="11/9/2017 8:31:25 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Intel NUC 7 Front Panel.png"
+      TimeStamp="11/9/2017 8:32:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTv AV Icon.jpg"
+      TimeStamp="6/16/2017 9:51:30 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTv Close Info Screen.jpg"
+      TimeStamp="6/16/2017 10:44:57 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTv Icon.jpg"
+      TimeStamp="6/16/2017 9:48:45 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTv Session Info Screen.jpg"
+      TimeStamp="6/16/2017 10:42:18 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTv Session Information Icon.jpg"
+      TimeStamp="6/16/2017 9:54:17 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTv3Icons.jpg"
+      TimeStamp="6/16/2017 11:45:46 AM" />
+    <Url
+      Source="../../Content/Resources/Images/ITHTvImage.jpg"
+      TimeStamp="6/16/2017 2:18:16 PM" />
+    <Url
+      Source="../../Content/Resources/Images/ITTv PwrOff.jpg"
+      TimeStamp="6/16/2017 2:40:22 PM" />
+    <Url
+      Source="../../Content/Resources/Images/ITTvMinimize Icon.jpg"
+      TimeStamp="6/16/2017 9:07:16 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Logitech Webcam  C930e.png"
+      TimeStamp="11/10/2017 3:12:36 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Power2CS.jpg"
+      TimeStamp="6/15/2017 4:59:47 PM" />
+    <Url
+      Source="../../Content/Resources/Images/PwrUSB2PS.jpg"
+      TimeStamp="6/15/2017 5:00:09 PM" />
+    <Url
+      Source="../../Content/Resources/Images/RemoveCap_edited.jpg"
+      TimeStamp="6/15/2017 3:59:03 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Rii Mini Keyboard X1.png"
+      TimeStamp="6/14/2017 3:45:01 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Rii Mini Keyboard X1_edited.jpg"
+      TimeStamp="6/15/2017 7:56:53 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Speakerphone.png"
+      TimeStamp="6/14/2017 3:45:53 PM" />
+    <Url
+      Source="../../Content/Resources/Images/SpeakerphoneUSB.jpg"
+      TimeStamp="6/15/2017 5:00:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Speakerphone_edited.jpg"
+      TimeStamp="6/15/2017 7:57:15 AM" />
+    <Url
+      Source="../../Content/Resources/Images/TLC-300 HD Video Camera.png"
+      TimeStamp="11/10/2017 2:59:07 PM" />
+    <Url
+      Source="../../Content/Resources/Images/USBintoACAdapter.jpg"
+      TimeStamp="6/15/2017 5:00:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Webcam.jpg"
+      TimeStamp="6/15/2017 5:01:08 PM" />
+    <Url
+      Source="../../Content/Resources/Images/WiFi Select.jpg"
+      TimeStamp="6/30/2017 2:28:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Windows Icon.png"
+      TimeStamp="6/16/2017 2:38:42 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/InTel NUC Image.flsnp"
+      TimeStamp="11/13/2017 9:29:17 AM" />
+    <Url
+      Source="../../Content/Resources/Snippets/InTouch screen does not properly fit display.flsnp"
+      TimeStamp="7/13/2017 5:18:47 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Keyboard Mouse not responding.flsnp"
+      TimeStamp="7/13/2017 5:19:33 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Logitech Webcam Image.flsnp"
+      TimeStamp="11/13/2017 9:48:18 AM" />
+    <Url
+      Source="../../Content/Resources/Snippets/No Volume or Unable to adjust volume.flsnp"
+      TimeStamp="7/13/2017 5:20:32 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Not Showing On Display.flsnp"
+      TimeStamp="7/13/2017 5:17:59 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Speakerphone not working.flsnp"
+      TimeStamp="7/13/2017 5:20:11 PM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Telycam Image.flsnp"
+      TimeStamp="11/13/2017 9:29:58 AM" />
+    <Url
+      Source="../../Content/Resources/Snippets/Webcam not working.flsnp"
+      TimeStamp="11/13/2017 10:02:09 AM" />
+    <Url
+      Source="../../Content/Troubleshooting/InTouch TV does not properly fit on display.htm"
+      TimeStamp="7/14/2017 9:46:51 AM" />
+    <Url
+      Source="../../Content/Troubleshooting/InTouch TV not showing on display.htm"
+      TimeStamp="7/14/2017 9:46:51 AM" />
+    <Url
+      Source="../../Content/Troubleshooting/Keyboard not responding.htm"
+      TimeStamp="7/14/2017 9:46:51 AM" />
+    <Url
+      Source="../../Content/Troubleshooting/No Volume or Unable to Adjust Volume.htm"
+      TimeStamp="7/14/2017 9:46:51 AM" />
+    <Url
+      Source="../../Content/Troubleshooting/Speakerphone not working.htm"
+      TimeStamp="7/14/2017 9:46:51 AM" />
+    <Url
+      Source="../../Content/Troubleshooting/Webcam not working.htm"
+      TimeStamp="7/14/2017 9:46:51 AM" />
+    <Url
+      Source="../Targets/NewBatchTarget.flbat"
+      TimeStamp="6/19/2017 9:21:05 AM" />
+    <Url
+      Source="../TOCs/User Guide.fltoc"
+      TimeStamp="11/10/2017 4:10:17 PM" />
+  </GeneratedFiles>
+</CatapultProjectImport>

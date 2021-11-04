@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="InTouch Therma lTouch"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/Peripherals/InTouch ThermalTouch.fltoc"
+  MasterStylesheetOverride="false"
+  ConditionTagExpression="include[General.PDF] exclude[&quot;Devices.Lite V1&quot; or &quot;Devices.Lite V3&quot; or Devices.Pro or &quot;Devices.RP 7&quot; or Devices.TV or Devices.TVPro or Devices.Vantage or Devices.Vici or Devices.Vita or Devices.Xpress or General.0482Tag or General.Errata or General.Lite or General.NotReadyforPublishing or General.Online or &quot;General.Provider Access Software&quot; or General.ToRemove or General.Vita] "
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  InjectEmptyPages="false"
+  PatchHeadingLevels="true"
+  TargetLanguage="en-us"
+  SyncLingoProject="false"
+  OutputFile="[%=Cover Variables.Product Name%]"
+  InjectBookHeadings="true"
+  OutputFolder="J:\Shared\Technical Writing\PDFs For Publishing">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PopupConversion="footnote"
+    PreserveTrackedChanges="true" />
+  <Glossaries />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+  <PDF
+    PageLayout="OneColumn"
+    InitialMagnification="Fit"
+    Tagged="true"
+    ShowUsedBookmarks="false"
+    ConvertToCMYK="true" />
+  <DocumentProperties
+    Title="[%=Cover Variables.Product Name%] Reference Guide"
+    Subject="InTouch ThermalTouch"
+    Keywords="Thermal Camera" />
+  <Variables>
+    <Variable
+      Name="General/P/N:">MA-20067-</Variable>
+    <Variable
+      Name="TV/Product Name">InTouch TV Products</Variable>
+    <Variable
+      Name="InTouch Health/P/N:">MA-20067</Variable>
+    <Variable
+      Name="InTouch Health/VersionNumber">002</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Thermal™</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">001</Variable>
+    <Variable
+      Name="ClinicalApps/P/N:">MA-20065</Variable>
+    <Variable
+      Name="TV/P/N:">MA-20067</Variable>
+    <Variable
+      Name="TV/TV Pro QSG VersionNumber">001</Variable>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20077</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">Reference Guide</Variable>
+    <Variable
+      Name="Product Names/Thermal Camera">InTouch Thermal</Variable>
+  </Variables>
+</CatapultTarget>

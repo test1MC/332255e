@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="713" MadCap:lastWidth="716">
+    <body>
+        <p class="H2"><MadCap:variable name="TV.Top Level Camera" />
+            <MadCap:conditionalText MadCap:conditions="Devices.TVPro"> - With <MadCap:variable name="TV.Top Tier TV&#160;Product" /></MadCap:conditionalText>
+        </p>
+        <p style="text-align: left;">
+            <img src="../Images/TLC-300 HD Video Camera.png" />
+        </p>
+    </body>
+</html>

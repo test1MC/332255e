@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="InTouch TV Pro Quick Start Guide"
+  Type="PDF"
+  Destinations=""
+  MasterToc="/Project/TOCs/Devices/TV Pro QSG.fltoc"
+  MasterStylesheetOverride="false"
+  ConditionTagExpression="include[General.EuorpeanUnionCert or General.PDF or General.ToRemove]exclude[Devices.TV or General.Errata or General.Lite or General.NotReadyforPublishing or General.Online or &quot;General.Provider Access Software&quot; or General.Vita]"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchRefGuide.flpgl"
+  InjectEmptyPages="false"
+  PatchHeadingLevels="true"
+  TargetLanguage="en-us"
+  SyncLingoProject="false"
+  OutputFile=" MA-20071-01 - InTouch TV Pro Quick Start Guide"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStylesQSG.css"
+  InjectBookHeadings="true"
+  AutoSizeCaptureCaptions="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PopupConversion="footnote"
+    PreserveTrackedChanges="true" />
+  <Glossaries />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+  <PDF
+    PageLayout="OneColumn"
+    InitialMagnification="Fit"
+    Tagged="true"
+    ShowUsedBookmarks="false"
+    ConvertToCMYK="true"
+    CropAndRegistrationMarks="true"
+    RestrictPermissions="false"
+    RestrictPrinting="false"
+    ModifyPassword="7SjCFv4p8Y6RMCJ24VmuBA=="
+    DownsampleImages="false"
+    ImagePPIThreshold="150" />
+  <DocumentProperties
+    Title="InTouch TV Pro Quick Start Guide MA-20071-001"
+    Subject="InTouch TV Pro"
+    Keywords="" />
+  <Variables>
+    <Variable
+      Name="General/P/N:">MA-20067-</Variable>
+    <Variable
+      Name="TV/Product Name">InTouch TV Products</Variable>
+    <Variable
+      Name="InTouch Health/P/N:">MA-20071</Variable>
+    <Variable
+      Name="InTouch Health/VersionNumber">001</Variable>
+  </Variables>
+</CatapultTarget>

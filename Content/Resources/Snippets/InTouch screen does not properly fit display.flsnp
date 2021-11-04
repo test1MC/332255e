@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>InTouch screen does not properly fit display</h2>
+        <ul>
+            <li>This is usually a TV settings issue and the fix is dependent on the TV's manufacturer. </li>
+            <li>In most instances, change the Aspect Ratio to “Just Scan” from the TV's menu or cycle through available TV Aspect Ratio options to find the most suitable one.</li>
+        </ul>
+    </body>
+</html>

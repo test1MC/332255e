@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="false"
+  IncludePattern="*.*"
+  LastImport="2018-04-13T10:03:15.8405015-07:00"
+  DeleteUnreferenced="true">
+  <Files>
+    <Url
+      Source="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/InTouch Health Online Help Sytem.flprj"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/InTouch Health Online Help Sytem.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../TOCs/Master.fltoc"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Project/TOCs/Master.fltoc" />
+    <Url
+      Source="../Targets/HTML5 - Audience B.fltar"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Project/Targets/HTML5 - Audience B.fltar" />
+    <Url
+      Source="../../Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../../Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Home.htm" />
+    <Url
+      Source="../ConditionTagSets/General.flcts"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Project/ConditionTagSets/General.flcts" />
+    <Url
+      Source="../Destinations/Sample Help Server.fldes"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Project/Destinations/Sample Help Server.fldes" />
+    <Url
+      Source="../Skins/HTML5 - Top Navigation.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Project/Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/StylesForHomePage.css"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="../Skins/TopicToolBar.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/Flare/InTouch Health Manuals/Project/Skins/TopicToolBar.flskn" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Home.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Home.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Read First.pdf"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Read First.pdf" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/B_Links and Lists/Links.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/B_Links and Lists/Links.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/B_Links and Lists/LinksAndLists.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/B_Links and Lists/LinksAndLists.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/B_Links and Lists/Lists.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/B_Links and Lists/Lists.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/Conditions.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/Conditions.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/ConditionsNotesTables.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/Tables.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/C_Conditions Notes Tables/Tables.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/Images.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/Images.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/Positioned Images.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/Positioned Images.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ThumbnailImage.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ThumbnailImage.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/E_Footer Topics/Company Information.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/E_Footer Topics/Company Information.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/E_Footer Topics/Tips.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/E_Footer Topics/Tips.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/BasicSteps.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/BasicSteps.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Bullet2.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Bullet2.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Doc.jpg"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Doc.jpg" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/DropDownClosed.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/DropDownClosed.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/DropDownClosedSecondLevel.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/DropDownClosedSecondLevel.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/DropDownOpen.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/DropDownOpen.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/DropDownOpenSecondLevel.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/DropDownOpenSecondLevel.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/GreenCheck.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/GreenCheck.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Image.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Image.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/InTouch-vita.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/InTouch-vita.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/NoteIcon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/NoteIcon.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/QuotationMark.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/QuotationMark.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/RedX.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/RedX.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/SaveButton.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/SaveButton.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Stylesheets/MainStyles.css"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Stylesheets/MainStyles.css" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Stylesheets/StylesForHomePage.css"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Stylesheets/StylesForHomePage.css" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/TableStyles/PatternedRows.css"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/TableStyles/PatternedRows.css" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/TableStyles/Simple.css"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/TableStyles/Simple.css" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/TableStyles/Standard.css"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/TableStyles/Standard.css" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/HomeSearchBar.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/HomeSearchBar.flskn" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/HTML5 - Top Navigation.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/HTML5 - Top Navigation.flskn" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/SideMenuFixed.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/SideMenuFixed.flskn" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Targets/HTML5 - Audience A FixedSideMenu.fltar"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Targets/HTML5 - Audience A FixedSideMenu.fltar" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Targets/HTML5 - Audience A.fltar"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Targets/HTML5 - Audience A.fltar" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Targets/HTML5 - Audience B.fltar"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Targets/HTML5 - Audience B.fltar" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/TOCs/Master.fltoc"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/TOCs/Master.fltoc" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/VariableSets/General.flvar"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/VariableSets/General.flvar" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/A_Getting Started/Basic Steps.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/A_Getting Started/Basic Steps.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/A_Getting Started/Getting Started.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/A_Getting Started/Getting Started.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/A_Getting Started/Whats New.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/A_Getting Started/Whats New.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedLeft.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedLeft.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedRight.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedRight.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ImageWithinList.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ImageWithinList.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/E_Footer Topics/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/E_Footer Topics/FAQs.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/E_Footer Topics/PDF Downloads.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/E_Footer Topics/PDF Downloads.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/BackgroundImage.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/BackgroundImage.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Bullet1.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Bullet1.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/CompanyLogo.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/CompanyLogo.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/FacebookIcon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/FAQs.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/FAQs.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/ITH TV.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/ITH TV.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/KeyFeatures.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/KeyFeatures.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Lite.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Lite.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/PDF Cover.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/PDF Cover.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Smart Notes Cover.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Smart Notes Cover.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/TwitterIcon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/WhatsNew.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/WhatsNew.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/ConditionTagSets/General.flcts"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/ConditionTagSets/General.flcts" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Glossaries/Glossary.flglo"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Glossaries/Glossary.flglo" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Reports/Critical Issues Report.flrep"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Reports/Empty Report.flrep"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Reports/Empty Report.flrep" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Reports/Unused Items Report.flrep"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Reports/Unused Items Report.flrep" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/SideMenu.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/SideMenu.flskn" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/TopicToolBar.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/TopicToolBar.flskn" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Destinations/Sample Help Server.fldes"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Destinations/Sample Help Server.fldes" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/A_Getting Started/Basic Steps.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/A_Getting Started/Basic Steps.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/A_Getting Started/Getting Started.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/A_Getting Started/Getting Started.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/A_Getting Started/Whats New.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/A_Getting Started/Whats New.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedLeft.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedLeft.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedRight.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ImagePositionedRight.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/D_Images/ImageWithinList.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/D_Images/ImageWithinList.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/E_Footer Topics/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/E_Footer Topics/FAQs.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/E_Footer Topics/PDF Downloads.htm"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/E_Footer Topics/PDF Downloads.htm" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/BackgroundImage.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/BackgroundImage.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Bullet1.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Bullet1.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/CompanyLogo.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/CompanyLogo.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/FacebookIcon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/FacebookIcon.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/FAQs.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/FAQs.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/ITH TV.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/ITH TV.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/KeyFeatures.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/KeyFeatures.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Lite.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Lite.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/PDF Cover.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/PDF Cover.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/Smart Notes Cover.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/Smart Notes Cover.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/TwitterIcon.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/TwitterIcon.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/Images/WhatsNew.png"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/Images/WhatsNew.png" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/MasterPages/HomePage.flmsp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/MasterPages/HomePage.flmsp" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Content/Resources/MasterPages/OtherTopics.flmsp"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Content/Resources/MasterPages/OtherTopics.flmsp" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/ConditionTagSets/General.flcts"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/ConditionTagSets/General.flcts" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Glossaries/Glossary.flglo"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Glossaries/Glossary.flglo" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Reports/Critical Issues Report.flrep"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Reports/Critical Issues Report.flrep" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Reports/Empty Report.flrep"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Reports/Empty Report.flrep" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Reports/Unused Items Report.flrep"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Reports/Unused Items Report.flrep" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/SideMenu.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/SideMenu.flskn" />
+    <Url
+      Source="../../../../InTouch Health Online Help Sytem/Project/Skins/TopicToolBar.flskn"
+      AbsoluteSource="file:///C:/Users/PDavidson/Documents/My Projects/InTouch Health Online Help Sytem/Project/Skins/TopicToolBar.flskn" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Home.htm"
+      TimeStamp="4/12/2018 10:12:11 AM" />
+    <Url
+      Source="../../Content/Read First.pdf"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../../Content/B_Links and Lists/Links.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/B_Links and Lists/LinksAndLists.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/B_Links and Lists/Lists.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/Conditions.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/ConditionsNotesTables.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/NotesExamplesQuotations.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/C_Conditions Notes Tables/Tables.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/D_Images/Images.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/D_Images/Positioned Images.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/D_Images/ThumbnailImage.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/Company Information.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/Tips.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/BasicSteps.png"
+      TimeStamp="3/29/2018 1:38:48 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bullet2.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Doc.jpg"
+      TimeStamp="3/29/2018 12:10:56 PM" />
+    <Url
+      Source="../../Content/Resources/Images/DropDownClosed.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/DropDownClosedSecondLevel.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/DropDownOpen.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/DropDownOpenSecondLevel.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/GreenCheck.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Image.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/InTouch-vita.png"
+      TimeStamp="3/2/2018 1:44:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/NoteIcon.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/QuotationMark.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/RedX.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/SaveButton.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/OtherTopicsFixedSideMenu.flmsp"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/MainStyles.css"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/StylesForHomePage.css"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/PatternedRows.css"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Simple.css"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Standard.css"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Skins/HomeSearchBar.flskn"
+      TimeStamp="3/29/2018 3:11:11 PM" />
+    <Url
+      Source="../Skins/HTML5 - Top Navigation.flskn"
+      TimeStamp="3/29/2018 3:07:56 PM" />
+    <Url
+      Source="../Skins/SideMenuFixed.flskn"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../Targets/HTML5 - Audience A FixedSideMenu.fltar"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../Targets/HTML5 - Audience A.fltar"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Targets/HTML5 - Audience B.fltar"
+      TimeStamp="4/12/2018 10:22:42 AM" />
+    <Url
+      Source="../TOCs/Master.fltoc"
+      TimeStamp="11/27/2017 12:09:34 PM" />
+    <Url
+      Source="../VariableSets/General.flvar"
+      TimeStamp="3/2/2018 1:22:10 PM" />
+    <Url
+      Source="../../Content/A_Getting Started/Basic Steps.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/A_Getting Started/Getting Started.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/A_Getting Started/Whats New.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/D_Images/ImagePositionedLeft.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/D_Images/ImagePositionedRight.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/D_Images/ImageWithinList.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/FAQs.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/E_Footer Topics/PDF Downloads.htm"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/BackgroundImage.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Bullet1.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/CompanyLogo.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/FacebookIcon.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/FAQs.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/ITH TV.png"
+      TimeStamp="4/12/2018 9:52:30 AM" />
+    <Url
+      Source="../../Content/Resources/Images/KeyFeatures.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Lite.png"
+      TimeStamp="4/12/2018 10:11:14 AM" />
+    <Url
+      Source="../../Content/Resources/Images/PDF Cover.png"
+      TimeStamp="3/29/2018 2:17:57 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Smart Notes Cover.png"
+      TimeStamp="3/29/2018 2:19:30 PM" />
+    <Url
+      Source="../../Content/Resources/Images/TwitterIcon.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/Images/WhatsNew.png"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/HomePage.flmsp"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/OtherTopics.flmsp"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../ConditionTagSets/General.flcts"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Glossaries/Glossary.flglo"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Reports/Critical Issues Report.flrep"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Reports/Empty Report.flrep"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Reports/Unused Items Report.flrep"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Skins/SideMenu.flskn"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Skins/TopicToolBar.flskn"
+      TimeStamp="8/5/2017 1:03:26 PM" />
+    <Url
+      Source="../Destinations/Sample Help Server.fldes"
+      TimeStamp="4/13/2018 8:43:53 AM" />
+  </GeneratedFiles>
+</CatapultProjectImport>

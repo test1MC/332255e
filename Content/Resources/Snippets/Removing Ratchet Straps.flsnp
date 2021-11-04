@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="561" MadCap:lastWidth="716">
+    <body>
+        <table style="width: 100%;">
+            <col style="width: 58px;" />
+            <col />
+            <col />
+            <tbody>
+                <tr>
+                    <td class="PDFTableCell" style="text-align: center;"><b>Step</b>
+                    </td>
+                    <td class="PDFTableCell"><b>Action</b>
+                    </td>
+                    <td class="PDFTableCell" style="text-align: center;"><b>Example</b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell" style="text-align: center;">a.</td>
+                    <td class="PDFTableCell">
+                        <p>Pull &amp; hold release tab on top assembly to override ratcheting function </p>
+                    </td>
+                    <td class="PDFTableCell" style="text-align: center;">
+                        <img src="../Images/1Ratchet Release.jpg" style="width: 105px;height: 109px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell" style="text-align: center;">b.</td>
+                    <td class="PDFTableCell">
+                        <p>Open ratchet until it is completely open and flat</p>
+                    </td>
+                    <td class="PDFTableCell" style="text-align: center;">
+                        <img src="../Images/2Rachet Release.jpg" style="width: 106px;height: 106px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell" style="text-align: center;">c.</td>
+                    <td class="PDFTableCell">Grab webbing from non-fixed side and pull to release webbing</td>
+                    <td class="PDFTableCell" style="text-align: center;">
+                        <img src="../Images/3Ratchet.png" style="width: 115px;height: 122px;" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="PDFTableCell" style="text-align: center;">d.</td>
+                    <td class="PDFTableCell">Pull and hold release tab on top assembly to close ratchet</td>
+                    <td class="PDFTableCell" style="text-align: center;">
+                        <img src="../Images/4Ratchet.png" style="width: 119px;height: 115px;" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

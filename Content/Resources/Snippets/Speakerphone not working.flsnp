@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Speakerphone not working</h2>
+        <ol>
+            <li>Reconnect speakerphone.</li>
+            <li>Make sure the button at center is not flashing, which means it has muted.</li>
+            <li>Rerun Audio/Video wizard.</li>
+        </ol>
+    </body>
+</html>

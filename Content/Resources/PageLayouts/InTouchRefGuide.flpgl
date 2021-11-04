@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:conditions="" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Width="6in" Height="8in" Padding="20px" PageSize="custom" PageType="title" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.25in" Orientation="portrait" BleedLeft="0.5in" BleedRight="0.5in" BleedTop="0.5in" BleedBottom="0.5in" BackgroundRepeat="repeat" BackgroundImage="../Images/ITH Background White.png">
+        <Frame X="-1px" Y="665px" Width="530px" Height="71px" Flow="footer" Right="-1px" Bottom="-16px" Anchors="">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>P/N: <MadCap:variable xhtml:name="Cover Variables.P/N:" />-<MadCap:variable xhtml:name="Cover Variables.VersionNumber" /></xhtml:p>
+                        <xhtml:p>Copyright: <MadCap:variable xhtml:name="Cover Variables.Month" />, <MadCap:variable xhtml:name="Cover Variables.Year" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="1px" Y="-94px" Width="527px" Height="741px" Flow="body" Right="0px" Bottom="73px" />
+        <Frame X="304px" Y="2px" Width="221px" Height="68px" Flow="decoration0" Right="3px" Bottom="650px" BackgroundImage="../Images/intouch_logo_FN_CMYK.png" BackgroundRepeat="stretch" />
+        <Frame X="677px" Y="866px" Width="0px" Height="0px" Flow="header" Right="-149px" Bottom="-146px" />
+        <Frame X="4px" Y="106px" Width="522px" Height="431px" Flow="decoration1" Right="2px" Bottom="183px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:class="CoverTitle"><MadCap:variable xhtml:name="Cover Variables.Product Name" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="CoverTitle2" MadCap:conditions="General.ProductName2"><MadCap:variable xhtml:name="Cover Variables.Product Name2" />
+                        </xhtml:p>
+                        <xhtml:p xhtml:class="CoverTitle"><MadCap:variable xhtml:name="Cover Variables.PDFGuideTitle" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Copy of Copy of Normal" Width="6in" Height="8in" Padding="20px" PageSize="custom" PageType="normal" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.25in" Orientation="portrait" BleedLeft="0.5in" BleedRight="0.5in" BleedTop="0.5in" BleedBottom="0.5in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Right="0.02083333in" Bottom="67px" Width="526px" Height="652px" Y="1px">
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="-0.01041667in" Bottom="3px" X="5.083333in" Y="651px" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="66px" VerticalAlign="top" TextAlign="center" Width="41px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-12px" Y="653px" Width="524px" Height="65px" Flow="decoration1" Right="16px" Bottom="2px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;"><xhtml:span xhtml:style="font-family: 'Eurostile LT Std';"><xhtml:img xhtml:src="../Images/logo_edited.jpg" MadCap:mediastyle="@media print { position: absolute;z-index: 0; }" xhtml:style="float: left;left: 3px;top: 3px;" /> 24/7 Technical Support (877) 484-9119</xhtml:span>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Right Page" Width="6.0in" Height="8.0in" Padding="20px" PageSize="custom" PageType="right" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.25in" Orientation="portrait" BleedLeft="0.5in" BleedRight="0.5in" BleedTop="0.5in" BleedBottom="0.5in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0.01041667in" Right="0in" Bottom="65px" Width="527px" Height="652px" Y="3px">
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="0in" Bottom="-16px" X="4.979167in" Y="671px" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="65px" VerticalAlign="top" TextAlign="center" Width="50px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-8px" Y="652px" Width="517px" Height="65px" Flow="decoration1" Right="19px" Bottom="3px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;">&#160;</xhtml:p>
+                        <xhtml:img xhtml:src="../Images/logo_edited.jpg" xhtml:style="width: 79px;height: 28px;position: absolute;z-index: -1;left: 11px;top: 21px;" />
+                        <xhtml:p xhtml:style="text-align: center;"><xhtml:span xhtml:style="font-family: 'Eurostile LT Std';"> 24/7 Technical Support (877) 484-9119</xhtml:span>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Name="Left Page" Width="6.0in" Height="8.0in" Padding="20px" PageSize="custom" PageType="left" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.25in" Orientation="portrait" BleedLeft="0.5in" BleedRight="0.5in" BleedTop="0.5in" BleedBottom="0.5in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0.02083333in" Right="0.01041667in" Bottom="65px" Width="525px" Height="655px" Y="0px">
+        </Frame>
+        <Frame X="82px" Y="663px" Width="454px" Height="59px" Flow="decoration0" Right="-8px" Bottom="-2px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body xhtml:style="text-align: right;">
+                        <xhtml:p xhtml:style="text-align: left;"><xhtml:span xhtml:style="font-family: 'Eurostile LT Std';"> 24/7 Technical Support (877) 484-9119<xhtml:img xhtml:src="../Images/logo_edited.jpg" xhtml:style="position: absolute;z-index: -1;left: 335px;top: 1px;width: 79px;height: 28px;" /></xhtml:span>
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Anchors="Left,Right,Bottom" Right="4.916667in" Bottom="-5px" X="0.0625in" Y="660px" ColumnCount="1" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" FlowIndex="1" Height="65px" VerticalAlign="top" TextAlign="center" Width="50px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align:center;">- <MadCap:variable xhtml:name="System.PageNumber" /> -</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+    <Page Width="6in" Height="8in" Padding="20px" PageSize="custom" PageType="first" PaddingLeft="0.25in" PaddingRight="0.25in" PaddingTop="0.25in" PaddingBottom="0.25in" Orientation="portrait" BleedLeft="0.5in" BleedRight="0.5in" BleedTop="0.5in" BleedBottom="0.5in" Name="LastPagePDF" BackgroundRepeat="repeat" BackgroundImage="../Images/ITH Background White.png">
+        <Frame X="39px" Y="84px" Width="451px" Height="138px" Flow="decoration0" Right="38px" Bottom="498px" BackgroundImage="../Images/Large Logo.jpg" BackgroundRepeat="stretch" TextAlign="center">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>&#160;</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="7px" Y="447px" Width="528px" Height="244px" Flow="decoration1" Right="-7px" Bottom="29px">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p xhtml:style="text-align: center;font-family: 'Open Sans Light';font-size: 14pt;line-height: 16pt;"><MadCap:variable xhtml:name="InTouch Health.CompanyName" /> </xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;font-family: 'Open Sans Light';font-size: 14pt;line-height: 16pt;"><MadCap:variable xhtml:name="InTouch Health.Street Address" /> </xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;font-family: 'Open Sans Light';font-size: 14pt;line-height: 16pt;"><MadCap:variable xhtml:name="InTouch Health.City State&#160;Zip" /> </xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;font-family: 'Open Sans Light';font-size: 14pt;line-height: 16pt;">Ph: <MadCap:variable xhtml:name="InTouch Health.Phone" /> • Fax: <MadCap:variable xhtml:name="InTouch Health.Fax" /></xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;font-family: 'Open Sans Light';font-size: 14pt;line-height: 16pt;"> <xhtml:a xhtml:href="https://www.intouchhealth.com/" xhtml:target="_blank" xhtml:title="Click to follow link" xhtml:alt="Click to follow link">www.intouchhealth.com</xhtml:a></xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center; font-family: 'Open Sans Light'; font-size: 14pt;">&#160;</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;">©<MadCap:variable xhtml:name="TV.Year" /> InTouch Health. InTouch Health is a registered</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: center;">trademark of InTouch Technologies, Inc.</xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="3px" Y="660px" Width="522px" Height="54px" Flow="body" Right="3px" Bottom="6px" />
+        <Frame X="71px" Y="259px" Width="413px" Height="136px" Flow="decoration2" Right="44px" Bottom="325px" BackgroundImage="none" BackgroundRepeat="stretch" Anchors="" TextAlign="center">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <xhtml:p>
+                            <xhtml:img xhtml:src="../Images/CE Certification.png" />
+                        </xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

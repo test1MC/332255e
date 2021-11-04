@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="750" MadCap:lastWidth="716">
+    <head>
+    </head>
+    <body>
+        <h2>Flip the <MadCap:variable name="TV.Top Level Camera" /> image (<MadCap:variable name="TV.Top Tier TV&#160;Product" />)</h2>
+        <p>The default settings for the <MadCap:variable name="TV.Top Level Camera" /> assumes the camera will be mounted from the ceiling. When not mounting the <MadCap:variable name="TV.Top Level Camera" /> from the ceiling, the image will need to be flipped for proper viewing from the <MadCap:variable name="InTouch Lite.CS" />. This can be done at anytime the image from the <MadCap:variable name="TV.Top Level Camera" /> is displayed. It is recommended that this be done when running the A/V&#160;Wizard in the software setup. See Step <MadCap:xref href="../../Patient Devices/TV/Installation/ITH TV Software QSG Install.htm#BeginAVWizard" class="Heading_And_Page">8 on page&#160;1</MadCap:xref> of Software Setup.</p>
+        <div class="Note">
+            <p><b class="Note">Note</b>: If the <MadCap:variable name="TV.Top Level Camera" /> does not respond to the remote control, try pressing the red button <img src="../Images/Telycam Remote Red Button.png" style="width: 23px;height: 12px;" /> on the remote to switch the remote back to camera mode.</p>
+        </div>
+        <ol>
+            <li>Press the menu button <img src="../Images/Telycam Remote1.jpg" style="width: 27px;height: 19px;" /><ul><li>The camera's menu will display</li></ul></li>
+        </ol>
+        <ol MadCap:continue="true">
+            <li>Use the down arrow button on the Telycam's remote to navigate to <b class="ScreenItem">PICTURE&#160;</b>on the MAIN&#160;MENU.</li>
+        </ol>
+        <p style="text-indent: 0.5in;">
+            <img src="../Images/Telycam Flip 1.png" style="width: 186px;height: 144px;" /> <img src="../Images/Telycam Remote Arrow Buttons.png" style="width: 85px;height: 85px;padding-left: 50pt;padding-bottom: 25pt;" /></p>
+        <ol MadCap:continue="true">
+            <li>Use the right arrow to select <b class="ScreenItem">PICTURE</b>.</li>
+            <li>Scroll down to <b class="ScreenItem">PIC&#160;FLIP</b> and use the right arrow to toggle the option from <b>ON </b>to <b>OFF</b>.</li>
+        </ol>
+        <p>
+            <img src="../Images/Telycam Flip 3.png" class="indent" style="width: 186px;height: 144px;" />
+        </p>
+        <ol MadCap:continue="true" style="page-break-inside: avoid;">
+            <li>Press the Menu button <img src="../Images/Telycam Remote1.jpg" style="width: 23px;height: 16px;" /> to close the Telycam's menu.</li>
+        </ol>
+    </body>
+</html>

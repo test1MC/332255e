@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileProperties>
+    <ImageOverlay HasImage="false" Type="Image" ShapeTimeSpan="10000" ComputedWidth="600" ComputedHeight="600">
+        <Variables />
+        <Shapes />
+        <Shapes IsResourceLayer="true" Name="Resources" />
+        <ConditionTagSet />
+        <OriginalImage />
+    </ImageOverlay>
+</fileProperties>

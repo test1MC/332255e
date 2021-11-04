@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="184" MadCap:lastWidth="716">
+    <body>
+        <ol>
+            <li>Select the type of schedule from one of the following:<ul><li><b class="ScreenItem">Date Range</b> – Enter a start and time and an end date and time.</li><li><b class="ScreenItem">Multi-Date</b> – Select the dates and enter a start and end time for each date selected.</li><li><b class="ScreenItem">Recurring Dates</b> – Select a start date and an end date with a start time and end time for each date in the selected date range and the frequency of the recurrence.</li></ul></li>
+            <li>Click the <img src="../Images/Add Schedule.png" style="width: 29px;height: 24px;" /> to add the seleted schedule.<ul><li>The entered schedule will appear.</li></ul></li>
+        </ol>
+    </body>
+</html>

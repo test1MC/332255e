@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="642" MadCap:lastWidth="851">
+    <body>
+        <h1 style="page-break-before: avoid;">Powering Off the InTouch  TV</h1>
+        <p>There is no need to power OFF the InTouch TV if simply turning off the display. </p>
+        <div class="Note">
+            <p><b class="Note">NOTE</b>:&#160;This process needs to be done if moving the InTouch&#160;TV to a different display.</p>
+        </div>
+        <p>Using the Bluetooth keyboard/mouse:</p>
+        <ol>
+            <li>Click the <img src="../Images/Minimize Icon.png" class="NoHover" />   icon on the top, right corner to minimize the application.</li>
+            <li>Click the <img src="../Images/Windows Icon.png" class="NoHover" />  icon and select Shutdown.<ul><li>Please select ‘Yes’ to confirm shutdown.</li></ul></li>
+            <li>	Power off the television or monitor and dissemble the components after Windows has shut down.<ul><li>When shut down is complete, the blue light on the InTouch TV  turns off.</li></ul></li>
+        </ol>
+    </body>
+</html>

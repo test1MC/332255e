@@ -1,0 +1,713 @@
+/*<meta />*/
+
+@namespace MadCap url(http://www.madcapsoftware.com/Schemas/MadCap.xsd);
+
+body
+{
+	color: #404040;
+	font-family: Arial, Avenir, Myriad;
+	font-size: .9em;
+	line-height: 1.7em;
+}
+
+div.GlossaryPageDefinition
+{
+	
+}
+
+div.GlossaryPageHeading
+{
+	
+}
+
+div.GlossaryPageTerm
+{
+	
+}
+
+div.TopicContent
+{
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 25px;
+}
+
+h1
+{
+	font-size: 1.5em;
+	font-weight: normal;
+	margin-bottom: 8px;
+	padding-bottom: 10px;
+	margin-top: 30px;
+}
+
+h2
+{
+	font-size: 1.2em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 20px;
+}
+
+h3
+{
+	font-size: 1.1em;
+	font-weight: normal;
+	margin-bottom: 4px;
+	margin-top: 16px;
+}
+
+li
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+	orphans: 2;
+	widows: 2;
+}
+
+MadCap|glossaryProxy
+{
+	
+}
+
+MadCap|indexProxy
+{
+	
+}
+
+MadCap|tocProxy
+{
+	
+}
+
+MadCap|xref
+{
+	color: #2D8DCC;
+	font-weight: bold;
+	mc-format: '{para}';
+	text-decoration: underline;
+}
+
+MadCap|xref:hover
+{
+	color: #BED230;
+}
+
+p
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	font-family: 'Open Sans Light';
+	font-size: 10pt;
+}
+
+p.EmptyPageText
+{
+	
+}
+
+p.FrameFooterText
+{
+	
+}
+
+p.IndexHeading
+{
+	
+}
+
+p.ManualTitle1
+{
+	
+}
+
+p.ManualTitle2
+{
+	
+}
+
+p.ManualVersionNumber
+{
+	
+}
+
+MadCap|popup
+{
+	width: auto;
+	height: auto;
+	-moz-box-sizing: conetnt-box;
+	box-sizing: content-box;
+	mc-popup-height: auto;
+	mc-popup-width: auto;
+}
+
+MadCap|popupBody
+{
+	height: auto;
+	width: auto;
+	-moz-box-sizing: content-box;
+	background-attachment: inherit;
+}
+
+img
+{
+	mc-thumbnail: hover;
+}
+
+@media print
+{
+	body
+	{
+		font-size: 8pt;
+		line-height: 13px;
+		margin: 8px;
+	}
+
+	div.GlossaryPageDefinition
+	{
+		font-size: 9pt;
+	}
+
+	div.GlossaryPageHeading
+	{
+		border-bottom-color: #bed230;
+		border-bottom-style: solid;
+		border-bottom-width: 1px;
+		color: #bed230;
+		font-size: 11pt;
+	}
+
+	div.GlossaryPageTerm
+	{
+		color: #bed230;
+		font-size: 10pt;
+		padding-bottom: 10px;
+		padding-top: 10px;
+	}
+
+	h1
+	{
+		margin-left: 0;
+		margin-right: 0;
+		padding: 0;
+		color: #1dbecf;
+		page-break-after: auto;
+		orphans: 0;
+		page-break-before: always;
+		mc-hyphenate: never;
+		font-family: 'Museo Slab 300';
+		font-weight: bold;
+		font-size: 12pt;
+		margin-top: 15pt;
+		margin-bottom: 10pt;
+	}
+
+	h2
+	{
+		page-break-before: avoid;
+		font-style: normal;
+		line-height: 15pt;
+		font-size: 12pt;
+		mc-hyphenate: never;
+		font-family: 'Century Gothic';
+		font-weight: bold;
+	}
+
+	h3
+	{
+		mc-heading-level: 0;
+		font-size: 11pt;
+		mc-hyphenate: never;
+		font-weight: normal;
+	}
+
+	h4
+	{
+		font-size: 9pt;
+		font-weight: normal;
+		mc-heading-level: 0;
+	}
+
+	MadCap|glossaryProxy
+	{
+		border-top: none;
+	}
+
+	MadCap|indexProxy
+	{
+		border-top: none;
+	}
+
+	MadCap|tocProxy
+	{
+		border-top: none;
+		margin-right: 0.25in;
+	}
+
+	p
+	{
+		color: #000000;
+		mc-hyphenate: never;
+		font-size: 10pt;
+		margin-top: 1pt;
+		margin-bottom: 1pt;
+		line-height: 11pt;
+		font-family: 'Nexa Bold';
+	}
+
+	p.EmptyPageText
+	{
+		font-size: 10pt;
+		font-weight: bold;
+	}
+
+	p.FrameFooterText
+	{
+		font-family: 'Century Gothic';
+		font-size: 24pt;
+	}
+
+	p.IndexHeading
+	{
+		font-size: 11pt;
+		padding-top: 16px;
+		text-align: left;
+	}
+
+	p.ManualTitle1
+	{
+		font-family: 'Century Gothic';
+		font-size: 9pt;
+		margin-bottom: 0;
+		margin-top: 2.00in;
+		text-align: center;
+	}
+
+	p.ManualTitle2
+	{
+		color: #bed230;
+		font-family: 'Century Gothic';
+		font-size: 22pt;
+		line-height: 0;
+		margin-bottom: 0;
+		margin-top: 0;
+		text-align: center;
+	}
+
+	p.ManualVersionNumber
+	{
+		color: #b3b3b3;
+		font-family: 'Century Gothic';
+		font-size: 12pt;
+		margin-top: 12pt;
+		text-align: center;
+	}
+
+	p.TOC1
+	{
+		font-weight: normal;
+		margin-bottom: 6px;
+		margin-top: 12px;
+		color: #000000;
+		font-size: 10pt;
+	}
+
+	p.TOC2
+	{
+		font-weight: normal;
+		margin-bottom: 2px;
+		margin-left: 0.10in;
+		margin-top: 2px;
+		font-size: 10pt;
+	}
+
+	MadCap|variable.CoverTitle
+	{
+		color: #df4a1d;
+		font-family: 'Roboto Slab';
+		font-size: 33pt;
+		font-weight: bold;
+	}
+
+	p.CoverTitle
+	{
+		color: #df4a1d;
+		font-size: 33pt;
+		font-weight: bold;
+		page-break-after: inherit;
+		font-family: 'Museo Slab 300';
+	}
+
+	table.PDFTables
+	{
+		border-bottom: solid 2px #000000;
+		border-color: #000000;
+		border-left: solid 2px #000000;
+		border-right: solid 2px #000000;
+		padding-left: 2px;
+		padding-right: 2px;
+		padding-top: 2px;
+		padding-bottom: 2px;
+		border-left-style: solid;
+		border-left-width: 2px;
+		border-left-color: #000000;
+		border-right-style: solid;
+		border-right-width: 2px;
+		border-right-color: #000000;
+		border-top-style: solid;
+		border-top-width: 2px;
+		border-top-color: #000000;
+		border-bottom-style: solid;
+		border-bottom-width: 2px;
+		border-bottom-color: #000000;
+	}
+
+	td.PDFTableCell
+	{
+		border-bottom: solid 2px #000000;
+		border: solid 2px #000000;
+		border-color: #000000;
+		border-left: solid 2px #000000;
+		border-top: solid 2px #000000;
+		border-right: solid 2px #000000;
+		padding: 3px;
+		color: #000000;
+		mc-hyphenate: never;
+		font-family: 'Nexa Bold';
+		font-size: 10pt;
+	}
+
+	li
+	{
+		color: #000000;
+		page-break-before: avoid;
+		font-size: 10pt;
+		margin-top: 0;
+		margin-bottom: 0;
+		line-height: 11pt;
+		font-family: 'Nexa Bold';
+		mc-hyphenate: never;
+	}
+
+	caption
+	{
+		page-break-inside: avoid;
+		color: #1dbecf;
+		font-family: 'Century Gothic';
+		font-size: 12pt;
+		mc-heading-level: 1;
+		page-break-before: always;
+		text-align: left;
+	}
+
+	table
+	{
+		padding: 5px;
+		frame-break-inside: avoid;
+		font-family: 'Nexa Bold';
+		font-size: 10pt;
+	}
+
+	p.TableCellContents
+	{
+		font-family: 'Nexa Bold';
+		font-size: 10pt;
+	}
+
+	ol
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	b.Note
+	{
+		color: #e35c20;
+		text-transform: uppercase;
+	}
+
+	p.indent
+	{
+		margin-left: 30px;
+		font-family: 'Open Sans Light';
+		line-height: 14pt;
+	}
+
+	li.noindent
+	{
+		padding-left: 0px;
+		text-align: left;
+		margin-left: -20px;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	img.NoIndent
+	{
+		margin-left: 0;
+		mc-thumbnail: none;
+		width: auto;
+		height: auto;
+		mc-float: none;
+		clear: none;
+		padding-left: 5px;
+		padding-right: 5px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	img.floatLeft
+	{
+		float: left;
+		max-width: 360px;
+		padding-left: 3px;
+		padding-right: 10px;
+		padding-top: 3px;
+		padding-bottom: 3px;
+	}
+
+	img.floatright
+	{
+		float: right;
+		height: auto;
+		margin-left: inherit;
+		margin-right: inherit;
+		width: auto;
+		max-width: 360px;
+	}
+
+	img.indent
+	{
+		margin-left: 50px;
+	}
+
+	MadCap|snippetBlock
+	{
+		font-size: 8pt;
+	}
+
+	td
+	{
+		frame-break-inside: avoid;
+		font-family: 'Nexa Bold';
+		font-size: 10pt;
+	}
+
+	MadCap|variable
+	{
+		font-size: 10pt;
+	}
+
+	img.ActionTableImage
+	{
+		width: 242px;
+		height: 138px;
+		max-height: 160pt;
+	}
+
+	p.TOC3
+	{
+		font-size: 9pt;
+	}
+
+	ul
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	li.IndentedList
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	dl
+	{
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	div.Note
+	{
+		background-color: #d3d3d3;
+		margin-top: 3px;
+		margin-bottom: 3px;
+		line-height: normal;
+		padding-left: 20pt;
+		padding-right: 20pt;
+		padding-top: 5pt;
+		padding-bottom: 5pt;
+		border-top-left-radius: 40px 40px;
+		border-top-right-radius: 40px 40px;
+		border-bottom-right-radius: 40px 40px;
+		border-bottom-left-radius: 40px 40px;
+		border-left-style: solid;
+		border-left-width: 1px;
+		border-right-style: solid;
+		border-right-width: 1px;
+		border-top-style: solid;
+		border-top-width: 1px;
+		border-bottom-style: solid;
+		border-bottom-width: 1px;
+	}
+
+	p.Note
+	{
+		mc-auto-number-position: none;
+		margin-left: 0;
+		line-height: normal;
+		font-family: 'Open Sans Light';
+		font-size: 12pt;
+		margin-top: 2px;
+		margin-bottom: 2px;
+		padding-left: 20pt;
+		padding-right: 20pt;
+		padding-top: 5pt;
+		padding-bottom: 5pt;
+		border-left-style: solid;
+		border-left-width: 1px;
+		border-right-style: solid;
+		border-right-width: 1px;
+		border-top-style: solid;
+		border-top-width: 1px;
+		border-bottom-style: solid;
+		border-bottom-width: 1px;
+		border-top-left-radius: 40px 40px;
+		border-top-right-radius: 40px 40px;
+		border-bottom-right-radius: 40px 40px;
+		border-bottom-left-radius: 40px 40px;
+		background-color: #d3d3d3;
+		mc-auto-number-format: '{b}{color red}NOTE{/color}{/b}: ';
+	}
+
+	img
+	{
+		max-height: 275pt;
+	}
+}
+
+a.Popup
+{
+	height: auto;
+	width: auto;
+	mc-popup-height: auto;
+	mc-popup-width: auto;
+}
+
+MadCap|variable.CoverTitle
+{
+	
+}
+
+p.CoverTitle
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	text-align: right;
+}
+
+table.PDFTables
+{
+	width: 100%;
+}
+
+td.PDFTableCell
+{
+	border-left-style: solid;
+	border-right-style: solid;
+	border-top-style: solid;
+	border-bottom-style: solid;
+}
+
+ul.Indented
+{
+	list-style-type: disc;
+	list-style-image: none;
+}
+
+ul.Indented > li::marker
+{
+	font-family: 'Times New Roman';
+	content: ' ';
+}
+
+li.IndentedList
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+	orphans: 2;
+	widows: 2;
+}
+
+ul.IndentedList
+{
+	list-style-image: none;
+}
+
+ul.IndentedList > li::marker
+{
+	font-family: ;
+	content: ' ';
+}
+
+ol.Blah
+{
+	list-style-type: decimal;
+	list-style-image: none;
+}
+
+ol.Blah > li::marker
+{
+	content: '3.';
+}
+
+p.TableCellContents
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+}
+
+MadCap|xref.PrintedXref
+{
+	mc-format: '{para} on page {page}';
+}
+
+b.Note
+{
+	color: #e14a30;
+}
+
+p.indent
+{
+	margin-bottom: 8px;
+	margin-top: 8px;
+	white-space: normal;
+	line-height: normal;
+	font-family: 'Roboto Slab';
+}
+
+li.noindent
+{
+	margin-bottom: 6px;
+	margin-top: 6px;
+	orphans: 2;
+	widows: 2;
+}
+
+img.NoIndent
+{
+	mc-thumbnail: hover;
+}
+
+b.Key
+{
+	color: #e14a30;
+}
+

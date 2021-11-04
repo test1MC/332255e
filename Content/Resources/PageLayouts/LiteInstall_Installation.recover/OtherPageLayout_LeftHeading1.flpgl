@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles MadCap:sourceDocument="J:\Shared\Technical Writing\Updated Manuals_CR_WW\Old Manuals\Source Files - Adobe Framemaker\Adobe FrameMaker 12\InTouch Lite Installation and Service Manual\MA-20026-001\LiteInstall_Technical_Specifications.fm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <Page Name="LeftHeading1" PageType="Normal" Width="612pt" Height="792pt" Padding="0.25in" PageSize="Letter" Orientation="portrait">
+        <Frame Flow="header" Width="468pt" Height="12.24864pt" X="63.216pt" Y="40.41648pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <h1 class="Heading1"><a name="liteinstall_technical_specifications_1125002343_1018293"></a>
+                        </h1>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="footer" Width="486pt" Height="10.00008pt" X="54.46656pt" Y="763.9999pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body>
+                        <p class="Footer"><a name="liteinstall_technical_specifications_1125002343_1018292"></a><MadCap:variable name="System.PageNumber" />	<MadCap:variable name="InTouch Lite.Tech_Support" /> <MadCap:variable name="InTouch Lite.Tech_Support_Phone" /></p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame Flow="body" Width="486pt" Height="639pt" X="54.46656pt" Y="103.9169pt" ColumnCount="1" ColumnGap="18pt">
+            <Content>
+                <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:body />
+                </xhtml:html>
+            </Content>
+        </Frame>
+    </Page>
+</PageStyles>

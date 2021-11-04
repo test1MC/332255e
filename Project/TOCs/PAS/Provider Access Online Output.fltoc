@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Safety Instuctions">
+    <TocEntry
+      Title="User Profile"
+      Link="/Content/Safety Instructions/User Profile.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Notes, Cautions and Warnings"
+      Link="/Content/Safety Instructions/Notes Cautions and Warnings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Safety Symbols"
+      Link="/Content/Safety Instructions/Safety Symbols.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Provider Access Software Warnings"
+      Link="/Content/Safety Instructions/Provider Access Software Warnings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Provider Access Software Cautions"
+      Link="/Content/Safety Instructions/Provider Access Software Cautions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/General Use Topics/Telehealth System Overview.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Introduction Topics/Recommended Desktop Configurations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Introduction Topics/Recommended Laptop Configurations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Introduction Topics/Downloadable Provider Access Software.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Introduction Topics/Apple Computers/Provider Access on Apple Computers.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Introduction Topics/Apple Computers/Boot Camp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Introduction Topics/Apple Computers/Parallels Virtual Machine.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Provider Access Software Basics">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Getting Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/General Use Topics/Forgot Password.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Automatic Updates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Enterprise Login.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Audio Video Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Connecting to a Patient Access.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Smart Notes Launch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/InTouch Telehealth Network Connection Wizard Symbols.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Provider Access Software Basics/Auto-Logout.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Dashboard Overview"
+    Link="/Content/Provider Access Software/Dashboard Overview/Dashboard Overview.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Dashboard Overview/Alternate Interface.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Dashboard Overview/Full-screen Video Interface.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Dashboard Overview/HD Video Interface.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Dashboard Overview/Dual View Interface.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Dashboard Overview/Positioning of the User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Dashboard Overview/Mouse Cursor Modes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Standard Features">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/Battery Charge, Wireless Signal and Network Quality Meters.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/AV Contols.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/Remote Controls.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/Echo and Echo Cancellation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/Virtual Joystick Mouse-Based Video.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/Touch-Based Video Control.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Provider Access Software/Standard Features/Programmable Patient Access Device Head Positions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Driving Basics-InTouch 7 &amp; Vita"
+    Link="/Content/Provider Access Software/Driving Basics-InTouch 7 &amp; Vita/Virtual Joystick Mouse-Based.htm">
+    <TocEntry
+      Title="Touch-Based Driving (Windows 8 &amp; 10)"
+      Link="/Content/Provider Access Software/Driving Basics-InTouch 7 &amp; Vita/Touch-Based Driving.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Collision Avoidance"
+      Link="/Content/Provider Access Software/Driving Basics-InTouch 7 &amp; Vita/Collision Avoidance.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="AutoDRIVE-InTouch Vita Only">
+    <TocEntry
+      Title="AutoDRIVE Tab"
+      Link="/Content/Provider Access Software/AutoDRIVE-InTouch Vita Only/AutoDRIVE Tab.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Point-to-Drive Video-Based Driving"
+      Link="/Content/Provider Access Software/AutoDRIVE-InTouch Vita Only/Point-to-Drive Video-Based Driving.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Media Controls">
+    <TocEntry
+      Title="Dashboard Icons"
+      Link="/Content/Provider Access Software/Media Controls/Dashboard Icons.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Media Browser Buttons"
+      Link="/Content/Provider Access Software/Media Controls/Media Browswer Buttons.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Media Count"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Pictures">
+    <TocEntry
+      Title="Taking Pictures"
+      Link="/Content/Provider Access Software/Pictures/Taking Pictures.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Importing Pictures"
+      Link="/Content/Provider Access Software/Pictures/Importing Pictures.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Viewing Pictures"
+      Link="/Content/Provider Access Software/Pictures/Viewing Pictures.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sharing Pictures"
+      Link="/Content/Provider Access Software/Pictures/Sharing Pictures.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Saving Pictures - Encrypted"
+      Link="/Content/Provider Access Software/Pictures/Saving Pictures - Encrypted.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Saving Pictures - Unencrypted"
+      Link="/Content/Provider Access Software/Pictures/Saving Pictures - Unencrypted.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Saving Pictures - Rapid Mode"
+      Link="/Content/Provider Access Software/Pictures/Saving Pictures - Rapid Mode.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return to Live Video"
+      Link="/Content/Provider Access Software/Pictures/Return to Live Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deleting Pictures"
+      Link="/Content/Provider Access Software/Pictures/Deleting Pictures.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Image-grabber"
+      Link="/Content/Provider Access Software/Pictures/Image-grabber.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Video">
+    <TocEntry
+      Title="Recording Video"
+      Link="/Content/Provider Access Software/Video/Recording Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Dynamic Video Quality"
+      Link="/Content/Provider Access Software/Video/Dynamic Video Quality.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Reviewing Video"
+      Link="/Content/Provider Access Software/Video/Reviewing Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Importing Video"
+      Link="/Content/Provider Access Software/Video/Importing Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sharing Video"
+      Link="/Content/Provider Access Software/Video/Sharing Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Saving Video - Encrypted"
+      Link="/Content/Provider Access Software/Video/Saving Video - Encrypted.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Saving Video - Unencrypted"
+      Link="/Content/Provider Access Software/Video/Saving Video - Unencrypted.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Return to Live Video"
+      Link="/Content/Provider Access Software/Video/Return to Live Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Deleting Video"
+      Link="/Content/Provider Access Software/Video/Deleting Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Advanced Controls">
+    <TocEntry
+      Title="Advanced Controls - Aux Video"
+      Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls - Aux Video/Auxilary Video Inputs.htm">
+      <TocEntry
+        Title="To Enable the Boom Camera - Vantage"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls - Aux Video/To Enable the Boom Camera - Vantage.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="To Enable Built-in DVI - Lite V3"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls - Aux Video/To Enable Built-in DVI - Lite V3.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Advanced Control-Audio"
+      Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Audio/Advanced Controls - Audio.htm">
+      <TocEntry
+        Title="InTouch Vantage"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Audio/InTouch Vantage.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="InTouch Xpress"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Audio/InTouch Xpress.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Advanced Controls - TR-1 Stethoscope Device"
+      Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-TR-1 Stethoscope/TR-1 Stethoscope Device.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Provider Access Software Stethoscope Operation"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-TR-1 Stethoscope/Provider Access Software Stethoscope Operation.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Volume Control"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-TR-1 Stethoscope/Volume Control.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="TR-1Stethoscope Installation"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-TR-1 Stethoscope/TR-1 Stethoscope Installation.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Headphone Battery Installation"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-TR-1 Stethoscope/Headphone Battery Installation.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="TR-1 Stethoscope Troubleshooting"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-TR-1 Stethoscope/TR-1 Stethoscope Troubleshooting.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Advanced Control-PCP Stethoscope"
+      Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-PCP Stethoscope/PCP Stethoscope Device.htm">
+      <TocEntry
+        Title="Provider Access Software Stethoscope Operation"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-PCP Stethoscope/Provider Access Software Stethoscope Operation.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="PCP Stethoscope Technical Service"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-PCP Stethoscope/PCP Stethoscope Technical Service.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Advanced Controls-Littmann Bluetooth Stethoscope"
+      Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls-Littmann Bluetooth Stethoscope/Littmann Bluetooth Stethoscope Device.htm">
+      <TocEntry
+        Title="Provider Access Software Stethoscope Operation"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls-Littmann Bluetooth Stethoscope/Provider Access Software Stethoscope Operation.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Littmann Bluetooth Stethoscope Status"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls-Littmann Bluetooth Stethoscope/Littmann Bluetooth Stethoscope Status.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Littmann Bluetooth Stethoscope Technical Service"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Controls-Littmann Bluetooth Stethoscope/Littmann Bluetooth Stethoscope Technical Service.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Advanced Control-Privacy Handset"
+      Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Privacy Handset/Privacy Handset Device.htm"></TocEntry>
+    <TocEntry
+      Title="Advanced Control-Network">
+      <TocEntry
+        Title="Network Information"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Network/Network Information.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Optimizing Bandwidth Usage"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Network/Optimizing Bandwidth Usage.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Dynamic Bandwidth Management"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Network/Dynamic Bandwidth Management.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Advanced Control-Printer- InTouch 7 only">
+      <TocEntry
+        Title="Printer Interface"
+        Link="/Content/Provider Access Software/Advanced Controls/Advanced Control-Printer- InTouch 7 only/Printer Interface.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="InTouch 7 Printer Operation"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Troubleshooting/Troubleshooting.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Provider Access Software/Error Messages-Provider Access Software/Error Messages-Provider Access Software.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="MultiPRESENCE"
+    Link="/Content/Provider Access Software/MultiPRESENCE/MultiPRESENCE Overview.htm">
+    <TocEntry
+      Title="Starting a MultiPRESENCE® Session"
+      Link="/Content/Provider Access Software/MultiPRESENCE/Starting a MultiPRESENCE Session.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Forced Push-to-Talk"
+      Link="/Content/Provider Access Software/MultiPRESENCE/Forced Push-to-Talk.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Setting Default MultiPRESENCE® Role"
+      Link="/Content/Provider Access Software/MultiPRESENCE/Setting Default MultiPRESENCE Role.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MultiPRESENCE® Host"
+      Link="/Content/Provider Access Software/MultiPRESENCE/MultiPRESENCE Host.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="MultiPRESENCE® Guest"
+      Link="/Content/Provider Access Software/MultiPRESENCE/MultiPRESENCE Guest.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Sharing Media with Guests"
+      Link="/Content/Provider Access Software/MultiPRESENCE/Sharing Media with Guests.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Live Cursor Mode"
+      Link="/Content/Provider Access Software/MultiPRESENCE/Live Cursor Mode.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Provider Access Software Installation"
+    Link="/Content/Provider Access Software/Provider Access Software Installation/Space and Location Requirements.htm">
+    <TocEntry
+      Title="Internet Bandwidth Requirements"
+      Link="/Content/Provider Access Software/Provider Access Software Installation/Internet Bandwidth Requirements.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Desktop Schematic"
+      Link="/Content/Provider Access Software/Provider Access Software Installation/Desktop Schematic.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Laptop Schematic"
+      Link="/Content/Provider Access Software/Provider Access Software Installation/Laptop Schematic.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="HIPAA Compliance">
+    <TocEntry
+      Title="HIPAA Policies and Procedures"
+      Link="/Content/HIPAA Compliance/HIPAA Policies and Procedures.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Recommended Guidelines for HIPAA Compliance"
+      Link="/Content/HIPAA Compliance/Recommended Guidelines for HIPAA Compliance.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Discussion and Display of PHI"
+      Link="/Content/HIPAA Compliance/Discussion and Display of PHI.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stored Images and Video"
+      Link="/Content/HIPAA Compliance/Stored Images and Video.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Disclosure of PHI"
+      Link="/Content/HIPAA Compliance/Discolsure of PHI.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Contact Information/Contact Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

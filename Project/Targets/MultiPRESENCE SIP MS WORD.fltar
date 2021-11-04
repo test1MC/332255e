@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/MultiPRESENCE SIP.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  ConditionTagExpression="include[General.EuorpeanUnionCert or General.NotReadyforPublishing or General.PDF] exclude[General.Errata or General.Online or General.ToRemove] "
+  EmbedImages="true"
+  PatchHeadingLevels="true"
+  InjectBookHeadings="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true"
+    EnableTrackedChanges="true" />
+</CatapultTarget>

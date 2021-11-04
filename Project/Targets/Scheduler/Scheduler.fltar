@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/SupSoftware/Scheduler.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  OutputFolder="J:\Shared\Technical Writing\PDFs for Review"
+  OutputFile=" MA-20072 Coordinator Refeence Guide"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="exclude[General.0482Tag or General.EuorpeanUnionCert or General.NotReadyforPublishing or General.Online or &quot;General.Provider Access Software&quot;] "
+  InjectBookHeadings="true"
+  DisableAutoSync="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+  <PDF
+    DownsampleImages="true"
+    ConvertToCMYK="true" />
+  <Variables>
+    <Variable
+      Name="Cover Variables/P/N:">MA-20072</Variable>
+    <Variable
+      Name="Cover Variables/Product Name">InTouch Coordinator™</Variable>
+    <Variable
+      Name="Cover Variables/VersionNumber">002</Variable>
+    <Variable
+      Name="Cover Variables/PDFGuideTitle">User Guide</Variable>
+    <Variable
+      Name="Cover Variables/Software Version">1.1</Variable>
+  </Variables>
+  <DocumentProperties
+    Title="InTouch Cooridnator™ Quick Reference Guide"
+    Subject="InTouch Coordinator"
+    Keywords="Coordinator, patient, schedule, provider" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination.fldes" />
+  </Destinations>
+</CatapultTarget>

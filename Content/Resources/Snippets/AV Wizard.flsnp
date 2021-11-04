@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="6" MadCap:lastHeight="500" MadCap:lastWidth="716">
+    <body>
+        <p><a name="Audio/Video_Wizard"></a>
+        </p>
+        <h2><a name="Audio/Vi"></a>Audio/Video Wizard</h2>
+        <ol start="1">
+            <li>Click the <img src="../Images/ITHTv AV Icon.jpg" class="NoHover" />  icon in the top, left corner to run the Audio/Video Wizard. </li>
+            <li>
+
+Click <b>Begin Setup</b> when the Audio/Video Wizard welcome screen appears.
+
+</li>
+            <li>Select the webcam attached to the <MadCap:variable name="TV.Mid Tier Product" /> from the <b>Select Camera</b> drop-down.</li>
+            <li>
+
+Click <b>Next</b>.
+</li>
+            <li>
+Select the microphone  attached to the <MadCap:variable name="TV.Mid Tier Product" /> from the<b> Select Sound Input Device</b> drop-down on the Microphone Setup page, if not already selected.
+
+</li>
+            <li>Speak normally to test the microphone and to ensure the microphone picks up your voice. The audio bar will fluctuate to indicate voice detection.
+
+</li>
+            <li>Click <b>Next</b>.
+
+</li>
+            <li>Select the speakers   being used with the <MadCap:variable name="TV.Mid Tier Product" /> from the <b class="ScreenItem">Select Sound Output Device</b> drop-down on the Speakers Setup page, if not already selected.
+
+</li>
+            <li>Click <b class="ScreenItem">Test Speakers</b> to test the audio. 
+
+</li>
+            <li>Adjust the blue slider bar to raise or lower the volume as necessary.<ul start="5"><li>If unable to adjust the volume using the A/V Wizard, try adjusting either the dislpay's volume or the volume in Windows.</li></ul></li>
+            <li>Click <b class="ScreenItem">Next</b></li>
+        </ol>
+        <p>
+            <img src="../Images/Green Checkmarks.jpg" style="width: 204px;height: 73px;" class="floatright" />
+        </p>
+        <ol MadCap:continue="true">
+            <li>Click <b class="ScreenItem">Finish </b>when green checkmarks appear next to the video, microphone, and speaker icon.
+</li>
+        </ol>
+    </body>
+</html>

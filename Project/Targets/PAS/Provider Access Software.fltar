@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  OutputFile="Provider Access Software User Guide MA-20013"
+  MasterToc="/Project/TOCs/PAS/Provider Access Software User Guide.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/InTouchChapters.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/ITHStyles.css"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="include[General.PDF or General.ToRemove] exclude[General.Errata or General.NotReadyforPublishing or General.Online] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false"
+    PreserveTrackedChanges="true" />
+</CatapultTarget>
